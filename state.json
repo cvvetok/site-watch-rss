@@ -221,7 +221,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-16T08:33:06.077043+00:00"
+    "checked_at": "2026-10-16T13:14:36.766823+00:00"
   },
   "https://ac-u.ru/seo/": {
     "name": "Акцепт — SEO",
@@ -801,7 +801,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-16T08:33:06.555885+00:00"
+    "checked_at": "2026-10-16T13:14:37.403570+00:00"
   },
   "https://ac-u.ru/sozdanie-saitov/": {
     "name": "Акцепт — создание сайтов",
@@ -1051,7 +1051,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-16T08:33:06.929624+00:00"
+    "checked_at": "2026-10-16T13:14:37.825071+00:00"
   },
   "https://nan.ru/": {
     "name": "NAN",
@@ -1180,6 +1180,22 @@
         "https://nan.ru/web-support/tehpodderzhka.html"
       ]
     },
-    "checked_at": "2026-10-16T08:33:07.879536+00:00"
+    "checked_at": "2026-10-16T13:14:39.113315+00:00"
+  },
+  "https://artena.ru/": {
+    "name": "Artena",
+    "hash": "f7875045e9a84023072a809db6004355e5366c61e62ab1ae0f1143fdefc16e7a",
+    "snapshot": {
+      "title": "",
+      "description": "",
+      "h1": [],
+      "h2": [],
+      "h3": [],
+      "text_blocks": [],
+      "links": [
+        "https://artena.ru/protect971/index.php"
+      ]
+    },
+    "checked_at": "2026-10-16T13:14:42.590224+00:00"
   }
 }
