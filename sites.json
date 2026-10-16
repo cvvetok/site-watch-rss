@@ -12,15 +12,35 @@
     "url": "https://ac-u.ru/sozdanie-saitov/"
   },
   {
-    "name": "NAN",
+    "name": "NAN — главная",
     "url": "https://nan.ru/"
   },
   {
-    "name": "WebCanape",
+    "name": "WebCanape — главная",
     "url": "https://www.web-canape.ru/"
   },
   {
-    "name": "Artena",
+    "name": "Artena — главная",
     "url": "https://artena.ru/"
+  },
+  {
+    "name": "Vmeste Marketing — главная",
+    "url": "https://vmeste.marketing/"
+  },
+  {
+    "name": "Nevsky Agency — главная",
+    "url": "https://nevsky.agency/"
+  },
+  {
+    "name": "Nevsky Agency — Яндекс Директ",
+    "url": "https://nevsky.agency/yandex-direct"
+  },
+  {
+    "name": "Nevsky Agency — SEO",
+    "url": "https://nevsky.agency/seo"
+  },
+  {
+    "name": "AdvertPro — главная",
+    "url": "https://www.advertpro.ru/"
   }
 ]
