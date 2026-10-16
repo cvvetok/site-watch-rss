@@ -1,1 +1,18 @@
-{}
+{
+  "https://www.web-canape.ru/": {
+    "name": "WebCanape",
+    "hash": "2f434642e2bc2992b55180a843d6df0d0a0213547e1bad1353b56e761ecd36b9",
+    "snapshot": {
+      "title": "",
+      "description": "",
+      "h1": [],
+      "h2": [
+        "JavaScript отключен в вашем браузере. Пожалуйста, включите JavaScript, чтобы продолжить."
+      ],
+      "h3": [],
+      "text_blocks": [],
+      "links": []
+    },
+    "checked_at": "2026-10-16T08:10:24.018460+00:00"
+  }
+}
