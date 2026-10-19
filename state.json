@@ -221,7 +221,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-19T01:14:47.620889+00:00"
+    "checked_at": "2026-10-19T06:14:21.794696+00:00"
   },
   "https://ac-u.ru/seo/": {
     "name": "Акцепт — SEO",
@@ -801,7 +801,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-19T01:14:48.165079+00:00"
+    "checked_at": "2026-10-19T06:14:22.345443+00:00"
   },
   "https://ac-u.ru/sozdanie-saitov/": {
     "name": "Акцепт — создание сайтов",
@@ -1051,11 +1051,11 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-19T01:14:48.531407+00:00"
+    "checked_at": "2026-10-19T06:14:22.706655+00:00"
   },
   "https://nan.ru/": {
     "name": "NAN — главная",
-    "hash": "79e5f61004ee5d0abf23d1ae9b06735d705af7f9f2069a2b4cd2a04e712878f0",
+    "hash": "945c2fa22f9b5db714f4dc97039602538704ad2c563233845579b8598c601a1c",
     "snapshot": {
       "title": "NAN agency: IT-интегратор и разработчик ПО в Новосибирске | Услуги внедрения ИТ-решений для бизнеса",
       "description": "Специализация компании NAN agency — разработка digital IT-решений, технологий для автоматизации и управления бизнесом, интеграция с внешними сервисами. Полный комплекс услуг от создания продукта до его продвижения на рынок.",
@@ -1141,6 +1141,8 @@
         "https://nan.ru/promotion/prodvizhenie-mobilnyh-prilozheniy-aso.html",
         "https://nan.ru/promotion/seo-prodvizhenie.html",
         "https://nan.ru/svedeniya-ob-it-deyatelnosti.html",
+        "https://nan.ru/themes/nan/upload/custom/Diplomy_reitingov/Diplom_2026_-_Razrabotciki_i_integratory_PO__-_Razrabotciki_-_10_mesto.pdf",
+        "https://nan.ru/themes/nan/upload/custom/Diplomy_reitingov/Diplom_2026_-_Razrabotka__prodvizenie_sajtov_-_10_mesto.pdf",
         "https://nan.ru/themes/nan/upload/custom/files/Polozjenie_o_konfidencialnosty.pdf",
         "https://nan.ru/themes/nan/upload/custom/files/polzovatelskoe_solglashenie.pdf",
         "https://nan.ru/themes/nan/upload/custom/files/reytingi/403eff6ca3745f74e79ecbc13ddba607.pdf",
@@ -1180,7 +1182,7 @@
         "https://nan.ru/web-support/tehpodderzhka.html"
       ]
     },
-    "checked_at": "2026-10-19T01:14:49.555073+00:00"
+    "checked_at": "2026-10-19T06:14:23.716172+00:00"
   },
   "https://artena.ru/": {
     "name": "Artena — главная",
@@ -1196,7 +1198,7 @@
         "https://artena.ru/protect971/index.php"
       ]
     },
-    "checked_at": "2026-10-19T01:14:51.699404+00:00"
+    "checked_at": "2026-10-19T06:14:25.740854+00:00"
   },
   "https://vmeste.marketing/": {
     "name": "Vmeste Marketing — главная",
@@ -1301,7 +1303,7 @@
         "https://vmeste.marketing/privacy"
       ]
     },
-    "checked_at": "2026-10-19T01:14:53.027680+00:00"
+    "checked_at": "2026-10-19T06:14:27.180586+00:00"
   },
   "https://nevsky.agency/": {
     "name": "Nevsky Agency — главная",
@@ -1535,7 +1537,7 @@
         "https://nevsky.agency/yandex-direct/audit"
       ]
     },
-    "checked_at": "2026-10-19T01:14:53.939504+00:00"
+    "checked_at": "2026-10-19T06:14:28.088835+00:00"
   },
   "https://nevsky.agency/yandex-direct": {
     "name": "Nevsky Agency — Яндекс Директ",
@@ -1737,7 +1739,7 @@
         "https://nevsky.agency/yandex-direct/audit"
       ]
     },
-    "checked_at": "2026-10-19T01:14:54.186061+00:00"
+    "checked_at": "2026-10-19T06:14:28.336297+00:00"
   },
   "https://nevsky.agency/seo": {
     "name": "Nevsky Agency — SEO",
@@ -1952,7 +1954,7 @@
         "https://nevsky.agency/yandex-direct/audit"
       ]
     },
-    "checked_at": "2026-10-19T01:14:54.439201+00:00"
+    "checked_at": "2026-10-19T06:14:28.602139+00:00"
   },
   "https://www.advertpro.ru/": {
     "name": "AdvertPro — главная",
@@ -2336,6 +2338,6 @@
         "https://www.advertpro.ru/uslugi/upravlenie-reputaciey/prodvizhenie-na-kartah"
       ]
     },
-    "checked_at": "2026-10-19T01:14:56.089919+00:00"
+    "checked_at": "2026-10-19T06:14:30.084599+00:00"
   }
 }

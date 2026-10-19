@@ -5,6 +5,20 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Mon, 19 Oct 2026 01:14:56 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 06:14:30 +0000</lastBuildDate>
+<item>
+<title>NAN — главная — изменены ссылки</title>
+<link>https://nan.ru/</link>
+<guid isPermaLink="false">890939cff7992022888cdb25193ac6c11408412f7bf92df7c3089ad8398b3cfe</guid>
+<pubDate>Mon, 19 Oct 2026 06:14:23 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://nan.ru/themes/nan/upload/custom/Diplomy_reitingov/Diplom_2026_-_Razrabotciki_i_integratory_PO__-_Razrabotciki_-_10_mesto.pdf</li>
+<li>➕ https://nan.ru/themes/nan/upload/custom/Diplomy_reitingov/Diplom_2026_-_Razrabotka__prodvizenie_sajtov_-_10_mesto.pdf</li>
+</ul>
+]]></description>
+</item>
 </channel>
 </rss>
