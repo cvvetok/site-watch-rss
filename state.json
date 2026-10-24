@@ -221,7 +221,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-24T14:31:14.798802+00:00"
+    "checked_at": "2026-10-24T18:07:47.324506+00:00"
   },
   "https://ac-u.ru/seo/": {
     "name": "Акцепт — SEO",
@@ -801,7 +801,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-24T14:31:15.427636+00:00"
+    "checked_at": "2026-10-24T18:07:47.999215+00:00"
   },
   "https://ac-u.ru/sozdanie-saitov/": {
     "name": "Акцепт — создание сайтов",
@@ -1051,7 +1051,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-24T14:31:15.837949+00:00"
+    "checked_at": "2026-10-24T18:07:48.422327+00:00"
   },
   "https://nan.ru/": {
     "name": "NAN — главная",
@@ -1182,7 +1182,7 @@
         "https://nan.ru/web-support/tehpodderzhka.html"
       ]
     },
-    "checked_at": "2026-10-24T14:31:17.096727+00:00"
+    "checked_at": "2026-10-24T18:07:49.728891+00:00"
   },
   "https://artena.ru/": {
     "name": "Artena — главная",
@@ -1198,7 +1198,7 @@
         "https://artena.ru/protect971/index.php"
       ]
     },
-    "checked_at": "2026-10-24T14:31:19.652292+00:00"
+    "checked_at": "2026-10-24T18:07:52.716525+00:00"
   },
   "https://vmeste.marketing/": {
     "name": "Vmeste Marketing — главная",
@@ -1303,7 +1303,7 @@
         "https://vmeste.marketing/privacy"
       ]
     },
-    "checked_at": "2026-10-24T14:31:21.269545+00:00"
+    "checked_at": "2026-10-24T18:07:54.299159+00:00"
   },
   "https://nevsky.agency/": {
     "name": "Nevsky Agency — главная",
@@ -1538,7 +1538,7 @@
         "https://nevsky.agency/yandex-direct/audit"
       ]
     },
-    "checked_at": "2026-10-24T14:31:22.521195+00:00"
+    "checked_at": "2026-10-24T18:07:55.599095+00:00"
   },
   "https://nevsky.agency/yandex-direct": {
     "name": "Nevsky Agency — Яндекс Директ",
@@ -1741,11 +1741,11 @@
         "https://nevsky.agency/yandex-direct/audit"
       ]
     },
-    "checked_at": "2026-10-24T14:31:22.808603+00:00"
+    "checked_at": "2026-10-24T18:07:55.905849+00:00"
   },
   "https://nevsky.agency/seo": {
     "name": "Nevsky Agency — SEO",
-    "hash": "8723b9d461cdb5e8e436ef66dc54e5d370924762b15debd4d20018aef7e85a31",
+    "hash": "8fd9d4eec9706a52567176c24e81a81f49a50287adb890241567716e570b1c7d",
     "snapshot": {
       "title": "SEO-продвижение сайта в Яндексе в СПб | Невский Маркетинг",
       "description": "SEO-продвижение сайта в Яндексе: план на полгода по данным Вордстата, новые страницы, статьи, техническая часть. 49 000 ₽ в месяц, отчёт каждый месяц.",
@@ -1918,8 +1918,8 @@
         "https://nevsky.agency/audit",
         "https://nevsky.agency/blog",
         "https://nevsky.agency/blog/geo-prodvizhenie-v-nejrosetyah",
-        "https://nevsky.agency/blog/kak-dobavit-sajt-v-yandex-vebmaster",
-        "https://nevsky.agency/blog/prodvizhenie-v-yandex-kartah",
+        "https://nevsky.agency/blog/semanticheskoe-yadro",
+        "https://nevsky.agency/blog/skolko-stoit-seo-prodvizhenie",
         "https://nevsky.agency/cases",
         "https://nevsky.agency/consent",
         "https://nevsky.agency/cookies",
@@ -1957,7 +1957,7 @@
         "https://nevsky.agency/yandex-direct/audit"
       ]
     },
-    "checked_at": "2026-10-24T14:31:23.100911+00:00"
+    "checked_at": "2026-10-24T18:07:56.228641+00:00"
   },
   "https://www.advertpro.ru/": {
     "name": "AdvertPro — главная",
@@ -2358,6 +2358,6 @@
         "https://www.advertpro.ru/uslugi/upravlenie-reputaciey/prodvizhenie-na-kartah"
       ]
     },
-    "checked_at": "2026-10-24T14:31:25.295133+00:00"
+    "checked_at": "2026-10-24T18:08:00.327337+00:00"
   }
 }
