@@ -5,7 +5,54 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Sat, 24 Oct 2026 10:57:13 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 14:31:25 +0000</lastBuildDate>
+<item>
+<title>Nevsky Agency — SEO — изменены ссылки</title>
+<link>https://nevsky.agency/seo</link>
+<guid isPermaLink="false">04c890274608204d0cf4a0f5180cb6a80b345032069a653dca764281ae385a19</guid>
+<pubDate>Sat, 24 Oct 2026 14:31:23 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://nevsky.agency/blog/geo-prodvizhenie-v-nejrosetyah</li>
+<li>➕ https://nevsky.agency/kanal</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://nevsky.agency/blog/kak-dobavit-organizaciyu-v-yandex-karty</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Nevsky Agency — Яндекс Директ — изменены TITLE, ссылки</title>
+<link>https://nevsky.agency/yandex-direct</link>
+<guid isPermaLink="false">a4361417a42f36347e249d973d54a1b227f5f4102b77f85b6d1dc683e3196196</guid>
+<pubDate>Sat, 24 Oct 2026 14:31:22 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменён TITLE</h3>
+<p><strong>Было:</strong><br>Настройка и ведение Яндекс Директа в СПб | Невский Маркетинг</p>
+<p><strong>Стало:</strong><br>Настройка Яндекс Директа под ключ и ведение в СПб | Невский Маркетинг</p>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://nevsky.agency/kanal</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Nevsky Agency — главная — изменены ссылки</title>
+<link>https://nevsky.agency/</link>
+<guid isPermaLink="false">152512a1d95290d618416e121e0ef7a25b0315a0275555f3b2a4f4c335cb5bae</guid>
+<pubDate>Sat, 24 Oct 2026 14:31:22 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://nevsky.agency/kanal</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>AdvertPro — главная — изменены текст, ссылки</title>
 <link>https://www.advertpro.ru/</link>
