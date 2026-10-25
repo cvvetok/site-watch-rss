@@ -5,7 +5,149 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Sat, 24 Oct 2026 23:11:57 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 01:09:19 +0000</lastBuildDate>
+<item>
+<title>Nevsky Agency — SEO — изменены текст, ссылки</title>
+<link>https://nevsky.agency/seo</link>
+<guid isPermaLink="false">f12ee43b52bb2014e8c610f6e8d40ce112d8b19cd838cea184bcdecd0bd6f6d4</guid>
+<pubDate>Sun, 25 Oct 2026 01:09:17 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Грузоперевозки и логистика</li>
+<li>➕ Швейные производства</li>
+<li>➕ Стройка и недвижимость</li>
+<li>➕ Организация мероприятий</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Строительство и ремонт</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://nevsky.agency/otrasli/gruzoperevozki</li>
+<li>➕ https://nevsky.agency/otrasli/internet-magaziny</li>
+<li>➕ https://nevsky.agency/otrasli/it-kompanii</li>
+<li>➕ https://nevsky.agency/otrasli/organizaciya-meropriyatij</li>
+<li>➕ https://nevsky.agency/otrasli/restorany</li>
+<li>➕ https://nevsky.agency/otrasli/shvejnoe-proizvodstvo</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://nevsky.agency/otrasli/nedvizhimost</li>
+<li>➖ https://nevsky.agency/otrasli/onlajn-shkoly</li>
+<li>➖ https://nevsky.agency/otrasli/stomatologiya</li>
+<li>➖ https://nevsky.agency/otrasli/stroitelstvo</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Nevsky Agency — Яндекс Директ — изменены текст, ссылки</title>
+<link>https://nevsky.agency/yandex-direct</link>
+<guid isPermaLink="false">ba6a8d3062b9834b8ec7e9f769df48413d7a0633adabc66a3e285c278c572c43</guid>
+<pubDate>Sun, 25 Oct 2026 01:09:16 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Грузоперевозки и логистика</li>
+<li>➕ Швейные производства</li>
+<li>➕ Стройка и недвижимость</li>
+<li>➕ Организация мероприятий</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Строительство и ремонт</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://nevsky.agency/cases/triforce-academy</li>
+<li>➕ https://nevsky.agency/otrasli/gruzoperevozki</li>
+<li>➕ https://nevsky.agency/otrasli/internet-magaziny</li>
+<li>➕ https://nevsky.agency/otrasli/it-kompanii</li>
+<li>➕ https://nevsky.agency/otrasli/organizaciya-meropriyatij</li>
+<li>➕ https://nevsky.agency/otrasli/restorany</li>
+<li>➕ https://nevsky.agency/otrasli/shvejnoe-proizvodstvo</li>
+<li>➕ https://nevsky.agency/yandex-karty</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://nevsky.agency/cases/id-group-portfolio</li>
+<li>➖ https://nevsky.agency/otrasli/nedvizhimost</li>
+<li>➖ https://nevsky.agency/otrasli/onlajn-shkoly</li>
+<li>➖ https://nevsky.agency/otrasli/stomatologiya</li>
+<li>➖ https://nevsky.agency/otrasli/stroitelstvo</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Nevsky Agency — главная — изменены текст, ссылки</title>
+<link>https://nevsky.agency/</link>
+<guid isPermaLink="false">487b2018189175c3d5018f58ada725b00f71767771ddcb5c0247734a3c9f8130</guid>
+<pubDate>Sun, 25 Oct 2026 01:09:16 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ 154 проекта в портфолио</li>
+<li>➕ Гастропаб «0,5 промилле» Сайт гастробара в центре Москвы</li>
+<li>➕ DEZORA Сайт заведения с полезной едой</li>
+<li>➕ KEIDJ Сайт кальянного лаунджа в Москве</li>
+<li>➕ Гренада Сайт организатора деловых мероприятий</li>
+<li>➕ Айди Айджи Сайт агентства мероприятий и персонала</li>
+<li>➕ Кавер-группа «ТРЕНДЫ» Лендинг кавер-группы для свадеб и корпоративов</li>
+<li>➕ ROSPISHI — домашний текстиль с русскими узорами Магазин столового текстиля с русскими узорами</li>
+<li>➕ KERI LUMIERE Сайт бренда интерьерной парфюмерии</li>
+<li>➕ Bakunin Drinks Сайт бренда лимонадов и тоников</li>
+<li>➕ Мой продукт Сайт разработчика корпоративных систем</li>
+<li>➕ Специнформтехнологии Лендинг подрядчика по защите информации</li>
+<li>➕ Аэропульс Сайт сервиса для авиакомпаний</li>
+<li>➕ Запросы и показы: Вордстат, 30 дней по России, снято 9–25 октября 2026.</li>
+<li>➕ Грузоперевозки и логистика</li>
+<li>➕ Швейные производства</li>
+<li>➕ Стройка и недвижимость</li>
+<li>➕ Организация мероприятий</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ 150 проектов в портфолио</li>
+<li>➖ Запросы и показы: Вордстат, 30 дней по России, снято 9–12 октября 2026.</li>
+<li>➖ Строительство и ремонт</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://nevsky.agency/cases/05-promille</li>
+<li>➕ https://nevsky.agency/cases/aeropuls</li>
+<li>➕ https://nevsky.agency/cases/bakunin-drinks</li>
+<li>➕ https://nevsky.agency/cases/dezora</li>
+<li>➕ https://nevsky.agency/cases/grenada</li>
+<li>➕ https://nevsky.agency/cases/id-ig</li>
+<li>➕ https://nevsky.agency/cases/kaver-gruppa-trendi</li>
+<li>➕ https://nevsky.agency/cases/keidj</li>
+<li>➕ https://nevsky.agency/cases/keri-lumiere</li>
+<li>➕ https://nevsky.agency/cases/moi-produkt</li>
+<li>➕ https://nevsky.agency/cases/rospishi</li>
+<li>➕ https://nevsky.agency/cases/sit-ib</li>
+<li>➕ https://nevsky.agency/otrasli/gruzoperevozki</li>
+<li>➕ https://nevsky.agency/otrasli/internet-magaziny</li>
+<li>➕ https://nevsky.agency/otrasli/it-kompanii</li>
+<li>➕ https://nevsky.agency/otrasli/organizaciya-meropriyatij</li>
+<li>➕ https://nevsky.agency/otrasli/restorany</li>
+<li>➕ https://nevsky.agency/otrasli/shvejnoe-proizvodstvo</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://nevsky.agency/otrasli/nedvizhimost</li>
+<li>➖ https://nevsky.agency/otrasli/onlajn-shkoly</li>
+<li>➖ https://nevsky.agency/otrasli/stomatologiya</li>
+<li>➖ https://nevsky.agency/otrasli/stroitelstvo</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Nevsky Agency — SEO — изменены ссылки</title>
 <link>https://nevsky.agency/seo</link>
