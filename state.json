@@ -221,7 +221,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-25T11:24:10.855087+00:00"
+    "checked_at": "2026-10-25T16:15:10.403762+00:00"
   },
   "https://ac-u.ru/seo/": {
     "name": "Акцепт — SEO",
@@ -801,7 +801,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-25T11:24:11.399913+00:00"
+    "checked_at": "2026-10-25T16:15:11.083158+00:00"
   },
   "https://ac-u.ru/sozdanie-saitov/": {
     "name": "Акцепт — создание сайтов",
@@ -1051,7 +1051,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-25T11:24:11.761474+00:00"
+    "checked_at": "2026-10-25T16:15:11.535196+00:00"
   },
   "https://nan.ru/": {
     "name": "NAN — главная",
@@ -1182,7 +1182,7 @@
         "https://nan.ru/web-support/tehpodderzhka.html"
       ]
     },
-    "checked_at": "2026-10-25T11:24:12.847123+00:00"
+    "checked_at": "2026-10-25T16:15:12.809888+00:00"
   },
   "https://artena.ru/": {
     "name": "Artena — главная",
@@ -1198,7 +1198,7 @@
         "https://artena.ru/protect971/index.php"
       ]
     },
-    "checked_at": "2026-10-25T11:24:15.454930+00:00"
+    "checked_at": "2026-10-25T16:15:15.320113+00:00"
   },
   "https://vmeste.marketing/": {
     "name": "Vmeste Marketing — главная",
@@ -1303,11 +1303,11 @@
         "https://vmeste.marketing/privacy"
       ]
     },
-    "checked_at": "2026-10-25T11:24:17.183646+00:00"
+    "checked_at": "2026-10-25T16:15:17.173101+00:00"
   },
   "https://nevsky.agency/": {
     "name": "Nevsky Agency — главная",
-    "hash": "08b159ef705e593e822e9e8721e013548ada12c699920b48d525ee030adf380b",
+    "hash": "b90d8d43ed6f5808e566427e911ff2337f8bbafb5754f1229883bc7a21e4f246",
     "snapshot": {
       "title": "Маркетинговое агентство: сайт, реклама и ИИ | Невский Маркетинг",
       "description": "Маркетинговое агентство «Невский Маркетинг»: сайты и Яндекс Директ для малого и среднего бизнеса, ИИ для расчётов, КП и ответов клиентам. Москва, Петербург, Сочи.",
@@ -1347,10 +1347,26 @@
         "Строительная компания",
         "Стройка и недвижимость",
         "Организация мероприятий",
-        "Тариф «Маркетинг + ИИ»",
+        "Цена заявки по нишам",
+        "Редизайн без потери поиска",
+        "Ответы Алисы и Нейро",
         "Что отдать нейросети уже сейчас",
         "Какая CRM нужна малому бизнесу",
         "Telegram-бот для бизнеса",
+        "Тариф «Маркетинг + ИИ»",
+        "Лендинг одна страница под услугу",
+        "Сайт компании услуги, работы, о компании",
+        "Интернет-магазин каталог и корзина",
+        "Калькулятор для сайта расчёт цены на сайте",
+        "Сервисы и личные кабинеты кабинет, CRM, связки",
+        "Яндекс Директ реклама в поиске и сетях",
+        "Яндекс Карты и 2ГИС карточка, отзывы, реклама",
+        "Абонентское ведение реклама и сайт каждый месяц",
+        "Аудит Директа разбор вашей рекламы",
+        "Проверка сайта бесплатно и сразу",
+        "Сайт в Вебмастере пошаговая инструкция",
+        "Внедрение ИИ и CRM CRM под путь заявки",
+        "Telegram-боты заявки и ответы клиентам",
         "Маркетинговое агентство . Сайт и реклама, которые приводят вам клиентов",
         "А ИИ берёт на себя рутину: считает сметы, собирает КП и отвечает на типовые вопросы.",
         "1 Вас находят в Яндексе 1 Вас находят в Яндексе Пример Я каркас склада под ключ Реклама · ваш-сайт.ru Каркас склада под ключ от завода Свой цех и монтаж. Расчёт по проекту за день. Реклама и SEO →",
@@ -1482,8 +1498,22 @@
         "https://nevsky.agency/audit",
         "https://nevsky.agency/blog",
         "https://nevsky.agency/blog/chto-takoe-crm",
+        "https://nevsky.agency/blog/crm-dlya-avtoservisa",
+        "https://nevsky.agency/blog/crm-dlya-proizvodstva",
+        "https://nevsky.agency/blog/crm-dlya-salona-krasoty",
+        "https://nevsky.agency/blog/crm-dlya-stomatologii",
+        "https://nevsky.agency/blog/crm-dlya-stroitelnoj-kompanii",
+        "https://nevsky.agency/blog/geo-prodvizhenie-v-nejrosetyah",
+        "https://nevsky.agency/blog/kak-dobavit-sajt-v-yandex-vebmaster",
+        "https://nevsky.agency/blog/redizajn-sajta",
+        "https://nevsky.agency/blog/semanticheskoe-yadro",
+        "https://nevsky.agency/blog/skolko-stoit-seo-prodvizhenie",
+        "https://nevsky.agency/blog/skolko-stoit-zayavka-v-direkte-2026",
+        "https://nevsky.agency/blog/skvoznaya-analitika",
         "https://nevsky.agency/blog/telegram-bot-dlya-biznesa",
         "https://nevsky.agency/blog/tema/razbory",
+        "https://nevsky.agency/blog/tema/reklama",
+        "https://nevsky.agency/blog/tilda-ili-kod",
         "https://nevsky.agency/blog/vnedrenie-ii-v-biznes",
         "https://nevsky.agency/cases",
         "https://nevsky.agency/cases/05-promille",
@@ -1513,6 +1543,7 @@
         "https://nevsky.agency/cases/klining",
         "https://nevsky.agency/cases/komarova",
         "https://nevsky.agency/cases/kontsern-nova",
+        "https://nevsky.agency/cases/korporativnye-sajty",
         "https://nevsky.agency/cases/krasota",
         "https://nevsky.agency/cases/list-stali",
         "https://nevsky.agency/cases/lonem",
@@ -1538,6 +1569,7 @@
         "https://nevsky.agency/cases/tatyana-ahmerova",
         "https://nevsky.agency/cases/tot-samii-kopantsev",
         "https://nevsky.agency/cases/vektor-chistoti",
+        "https://nevsky.agency/cases/yandex-direct",
         "https://nevsky.agency/consent",
         "https://nevsky.agency/cookies",
         "https://nevsky.agency/crm",
@@ -1592,6 +1624,14 @@
         "https://nevsky.agency/razrabotka-servisov",
         "https://nevsky.agency/requisites",
         "https://nevsky.agency/seo",
+        "https://nevsky.agency/seo/avtoservis",
+        "https://nevsky.agency/seo/internet-magazin",
+        "https://nevsky.agency/seo/medicina",
+        "https://nevsky.agency/seo/proizvodstvo",
+        "https://nevsky.agency/seo/salon-krasoty",
+        "https://nevsky.agency/seo/stomatologiya",
+        "https://nevsky.agency/seo/stroitelstvo",
+        "https://nevsky.agency/seo/yurist",
         "https://nevsky.agency/tarify",
         "https://nevsky.agency/telegram-boty",
         "https://nevsky.agency/yandex-direct",
@@ -1599,11 +1639,11 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-10-25T11:24:18.437213+00:00"
+    "checked_at": "2026-10-25T16:15:18.829951+00:00"
   },
   "https://nevsky.agency/yandex-direct": {
     "name": "Nevsky Agency — Яндекс Директ",
-    "hash": "c5a87693e162c07de5e36a5e3656ee717805dbaa28a97a7eacaeb0bde670aac6",
+    "hash": "ede898cab418a8ac1d32736e69bd6e12b25c4cf426161799b51e48cb26740331",
     "snapshot": {
       "title": "Настройка Яндекс Директа под ключ и ведение в СПб | Невский Маркетинг",
       "description": "Настройка и ведение Яндекс Директа от 29 000 ₽ в месяц. Запуск за 5–7 рабочих дней, каждую неделю отчёт: сколько заявок и почём. Петербург и вся Россия.",
@@ -1657,10 +1697,26 @@
         "Строительная компания",
         "Стройка и недвижимость",
         "Организация мероприятий",
-        "Тариф «Маркетинг + ИИ»",
+        "Цена заявки по нишам",
+        "Редизайн без потери поиска",
+        "Ответы Алисы и Нейро",
         "Что отдать нейросети уже сейчас",
         "Какая CRM нужна малому бизнесу",
         "Telegram-бот для бизнеса",
+        "Тариф «Маркетинг + ИИ»",
+        "Лендинг одна страница под услугу",
+        "Сайт компании услуги, работы, о компании",
+        "Интернет-магазин каталог и корзина",
+        "Калькулятор для сайта расчёт цены на сайте",
+        "Сервисы и личные кабинеты кабинет, CRM, связки",
+        "Яндекс Директ реклама в поиске и сетях",
+        "Яндекс Карты и 2ГИС карточка, отзывы, реклама",
+        "Абонентское ведение реклама и сайт каждый месяц",
+        "Аудит Директа разбор вашей рекламы",
+        "Проверка сайта бесплатно и сразу",
+        "Сайт в Вебмастере пошаговая инструкция",
+        "Внедрение ИИ и CRM CRM под путь заявки",
+        "Telegram-боты заявки и ответы клиентам",
         "Каркас склада под ключ от завода",
         "Свой цех и монтажная бригада. Расчёт по проекту за день.",
         "Уборка офиса по договору, цена за м²",
@@ -1763,20 +1819,35 @@
         "https://nevsky.agency/audit",
         "https://nevsky.agency/blog",
         "https://nevsky.agency/blog/chto-takoe-crm",
+        "https://nevsky.agency/blog/crm-dlya-avtoservisa",
+        "https://nevsky.agency/blog/crm-dlya-proizvodstva",
+        "https://nevsky.agency/blog/crm-dlya-salona-krasoty",
+        "https://nevsky.agency/blog/crm-dlya-stomatologii",
+        "https://nevsky.agency/blog/crm-dlya-stroitelnoj-kompanii",
+        "https://nevsky.agency/blog/geo-prodvizhenie-v-nejrosetyah",
+        "https://nevsky.agency/blog/kak-dobavit-sajt-v-yandex-vebmaster",
         "https://nevsky.agency/blog/kak-poschitat-byudzhet-na-direkt",
         "https://nevsky.agency/blog/minus-slova-v-direkte",
+        "https://nevsky.agency/blog/redizajn-sajta",
+        "https://nevsky.agency/blog/semanticheskoe-yadro",
+        "https://nevsky.agency/blog/skolko-stoit-seo-prodvizhenie",
         "https://nevsky.agency/blog/skolko-stoit-zayavka-v-direkte-2026",
+        "https://nevsky.agency/blog/skvoznaya-analitika",
         "https://nevsky.agency/blog/telegram-bot-dlya-biznesa",
+        "https://nevsky.agency/blog/tema/reklama",
+        "https://nevsky.agency/blog/tilda-ili-kod",
         "https://nevsky.agency/blog/vnedrenie-ii-v-biznes",
         "https://nevsky.agency/cases",
         "https://nevsky.agency/cases/albero",
         "https://nevsky.agency/cases/chistoritet",
         "https://nevsky.agency/cases/glavgenstroi-metallokonstruktsii",
+        "https://nevsky.agency/cases/korporativnye-sajty",
         "https://nevsky.agency/cases/milash-studio",
         "https://nevsky.agency/cases/remzyata",
         "https://nevsky.agency/cases/stomatologiya-sv-panteleimona",
         "https://nevsky.agency/cases/studiya-estetiki-spb",
         "https://nevsky.agency/cases/triforce-academy",
+        "https://nevsky.agency/cases/yandex-direct",
         "https://nevsky.agency/cases/zenremstroy",
         "https://nevsky.agency/consent",
         "https://nevsky.agency/cookies",
@@ -1832,6 +1903,14 @@
         "https://nevsky.agency/razrabotka-servisov",
         "https://nevsky.agency/requisites",
         "https://nevsky.agency/seo",
+        "https://nevsky.agency/seo/avtoservis",
+        "https://nevsky.agency/seo/internet-magazin",
+        "https://nevsky.agency/seo/medicina",
+        "https://nevsky.agency/seo/proizvodstvo",
+        "https://nevsky.agency/seo/salon-krasoty",
+        "https://nevsky.agency/seo/stomatologiya",
+        "https://nevsky.agency/seo/stroitelstvo",
+        "https://nevsky.agency/seo/yurist",
         "https://nevsky.agency/tarify",
         "https://nevsky.agency/telegram-boty",
         "https://nevsky.agency/yandex-direct",
@@ -1839,11 +1918,11 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-10-25T11:24:18.769077+00:00"
+    "checked_at": "2026-10-25T16:15:19.181713+00:00"
   },
   "https://nevsky.agency/seo": {
     "name": "Nevsky Agency — SEO",
-    "hash": "183644c846887361b5a5a39acc6e6d4e1818ed541faa73777867bbd939f71b8a",
+    "hash": "45a1638df5ddd903bd5b6db518cb14e1a6cd6fdb484bd45cb754efb026dfc625",
     "snapshot": {
       "title": "SEO-продвижение сайта в Яндексе в СПб | Невский Маркетинг",
       "description": "SEO-продвижение сайта в Яндексе в Санкт-Петербурге и по России: план на полгода по данным Вордстата, новые страницы, статьи, техническая часть. 49 000 ₽ в месяц, отчёт каждый месяц.",
@@ -1856,6 +1935,7 @@
         "Объём считаем от спроса, а не от тарифа",
         "Что в отчёте по поиску",
         "Сколько стоит",
+        "SEO по отраслям",
         "Что спрашивают перед началом SEO",
         "Статьи по теме",
         "Разберём ваш сайт для поиска",
@@ -1897,10 +1977,26 @@
         "Строительная компания",
         "Стройка и недвижимость",
         "Организация мероприятий",
-        "Тариф «Маркетинг + ИИ»",
+        "Цена заявки по нишам",
+        "Редизайн без потери поиска",
+        "Ответы Алисы и Нейро",
         "Что отдать нейросети уже сейчас",
         "Какая CRM нужна малому бизнесу",
         "Telegram-бот для бизнеса",
+        "Тариф «Маркетинг + ИИ»",
+        "Лендинг одна страница под услугу",
+        "Сайт компании услуги, работы, о компании",
+        "Интернет-магазин каталог и корзина",
+        "Калькулятор для сайта расчёт цены на сайте",
+        "Сервисы и личные кабинеты кабинет, CRM, связки",
+        "Яндекс Директ реклама в поиске и сетях",
+        "Яндекс Карты и 2ГИС карточка, отзывы, реклама",
+        "Абонентское ведение реклама и сайт каждый месяц",
+        "Аудит Директа разбор вашей рекламы",
+        "Проверка сайта бесплатно и сразу",
+        "Сайт в Вебмастере пошаговая инструкция",
+        "Внедрение ИИ и CRM CRM под путь заявки",
+        "Telegram-боты заявки и ответы клиентам",
         "9 Услуги ваш-сайт.ru › uslugi Опалубка для фундамента ваш-сайт.ru › fundament",
         "Пример: страница поднимается по мере работы",
         "SEO-продвижение сайта в Я ндексе",
@@ -1938,7 +2034,7 @@
         "Считаем фундамент по вашему проекту: цена за м², сроки и что входит в монтаж.",
         "Показываем цифры в одном окне",
         "Для сайтов на коде подключаем панель: посещаемость из Метрики, показы, клики и позиции из Вебмастера вместе. Появляется на третьем месяце и остаётся у вас после окончания работ.",
-        "nevsky.agency · 9 окт 2025 – 8 окт 2026",
+        "Сводка за год по месяцам",
         "Начинаем после договора, оплаты и доступов к сайту, Метрике и Вебмастеру. От вас нужно немного, и это записано заранее .",
         "Собираем запросы, разбираем выдачу, ставим цели на заявки и фиксируем точку отсчёта. Итог месяца: план на полгода с прогнозом.",
         "Первыми выходят страницы услуг, цен и условий: с ними ищут исполнителя. Параллельно исправляем технические ошибки.",
@@ -1986,6 +2082,15 @@
         "Цели на заявки и звонки",
         "Отчёт по заявкам и их цене каждый понедельник",
         "Можно вместе с SEO : реклама даёт заявки, пока страницы закрепляются в поиске",
+        "Что ищут клиенты в вашей отрасли, какие страницы для этого нужны сайту и что мы уже сделали для таких же компаний.",
+        "SEO для производства «изготовление металлоконструкций»: 30 978 показов в месяц 4 работы",
+        "SEO для строительной компании «дом из газобетона»: 87 540 показов в месяц 4 работы",
+        "SEO для клиники и медцентра «сдать анализы»: 1 389 808 показов в месяц 3 работы",
+        "SEO для стоматологии «брекеты»: 713 379 показов в месяц 3 работы",
+        "SEO для юристов и адвокатов «банкротство физических лиц»: 204 063 показов в месяц 4 работы",
+        "SEO для автосервиса «кузовной ремонт»: 193 282 показов в месяц 3 работы",
+        "SEO для салона красоты «маникюр»: 2 779 530 показов в месяц 3 работы",
+        "SEO для интернет-магазина «скатерть на стол»: 50 249 показов в месяц 4 работы",
         "Что спрашивают перед началом SEO",
         "Не нашли ответ? Спросите в мессенджере, разберём вашу ситуацию.",
         "Разберём ваш сайт для поиска",
@@ -2026,12 +2131,25 @@
         "https://nevsky.agency/audit",
         "https://nevsky.agency/blog",
         "https://nevsky.agency/blog/chto-takoe-crm",
+        "https://nevsky.agency/blog/crm-dlya-avtoservisa",
+        "https://nevsky.agency/blog/crm-dlya-proizvodstva",
+        "https://nevsky.agency/blog/crm-dlya-salona-krasoty",
+        "https://nevsky.agency/blog/crm-dlya-stomatologii",
+        "https://nevsky.agency/blog/crm-dlya-stroitelnoj-kompanii",
         "https://nevsky.agency/blog/geo-prodvizhenie-v-nejrosetyah",
+        "https://nevsky.agency/blog/kak-dobavit-sajt-v-yandex-vebmaster",
+        "https://nevsky.agency/blog/redizajn-sajta",
         "https://nevsky.agency/blog/semanticheskoe-yadro",
         "https://nevsky.agency/blog/skolko-stoit-seo-prodvizhenie",
+        "https://nevsky.agency/blog/skolko-stoit-zayavka-v-direkte-2026",
+        "https://nevsky.agency/blog/skvoznaya-analitika",
         "https://nevsky.agency/blog/telegram-bot-dlya-biznesa",
+        "https://nevsky.agency/blog/tema/reklama",
+        "https://nevsky.agency/blog/tilda-ili-kod",
         "https://nevsky.agency/blog/vnedrenie-ii-v-biznes",
         "https://nevsky.agency/cases",
+        "https://nevsky.agency/cases/korporativnye-sajty",
+        "https://nevsky.agency/cases/yandex-direct",
         "https://nevsky.agency/consent",
         "https://nevsky.agency/cookies",
         "https://nevsky.agency/crm",
@@ -2085,6 +2203,14 @@
         "https://nevsky.agency/razrabotka-servisov",
         "https://nevsky.agency/requisites",
         "https://nevsky.agency/seo",
+        "https://nevsky.agency/seo/avtoservis",
+        "https://nevsky.agency/seo/internet-magazin",
+        "https://nevsky.agency/seo/medicina",
+        "https://nevsky.agency/seo/proizvodstvo",
+        "https://nevsky.agency/seo/salon-krasoty",
+        "https://nevsky.agency/seo/stomatologiya",
+        "https://nevsky.agency/seo/stroitelstvo",
+        "https://nevsky.agency/seo/yurist",
         "https://nevsky.agency/tarify",
         "https://nevsky.agency/telegram-boty",
         "https://nevsky.agency/yandex-direct",
@@ -2092,7 +2218,7 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-10-25T11:24:19.226177+00:00"
+    "checked_at": "2026-10-25T16:15:19.707978+00:00"
   },
   "https://www.advertpro.ru/": {
     "name": "AdvertPro — главная",
@@ -2493,6 +2619,6 @@
         "https://www.advertpro.ru/uslugi/upravlenie-reputaciey/prodvizhenie-na-kartah"
       ]
     },
-    "checked_at": "2026-10-25T11:24:21.241295+00:00"
+    "checked_at": "2026-10-25T16:15:23.886019+00:00"
   }
 }
