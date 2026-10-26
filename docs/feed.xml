@@ -5,7 +5,41 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Mon, 26 Oct 2026 06:10:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 12:58:26 +0000</lastBuildDate>
+<item>
+<title>Nevsky Agency — SEO — изменены текст</title>
+<link>https://nevsky.agency/seo</link>
+<guid isPermaLink="false">15ddbf27254d96c453f207b13aafe7991e08684bc81ed260669e368a3b66e18d</guid>
+<pubDate>Mon, 26 Oct 2026 12:58:25 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Пример: сентябрь, двенадцатый месяц работы</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Сводка за год по месяцам</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>NAN — главная — изменены текст</title>
+<link>https://nan.ru/</link>
+<guid isPermaLink="false">b82508ef6f6be77114ef5d6de565058cab0ad8a87396b20ff64dc210059fbc5a</guid>
+<pubDate>Mon, 26 Oct 2026 12:58:18 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Академгородок ул. Николаева 11/5, 7 этаж, 720 офис</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Академгородок ул. Бульвар молодежи 38, 1-й этаж</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Nevsky Agency — SEO — изменены текст</title>
 <link>https://nevsky.agency/seo</link>

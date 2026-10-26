@@ -2,6 +2,20 @@
   {
     "title": "Nevsky Agency — SEO — изменены текст",
     "link": "https://nevsky.agency/seo",
+    "description": "<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Пример: сентябрь, двенадцатый месяц работы</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Сводка за год по месяцам</li>\n</ul>",
+    "date": "2026-10-26T12:58:25.058843+00:00",
+    "guid": "15ddbf27254d96c453f207b13aafe7991e08684bc81ed260669e368a3b66e18d"
+  },
+  {
+    "title": "NAN — главная — изменены текст",
+    "link": "https://nan.ru/",
+    "description": "<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Академгородок ул. Николаева 11/5, 7 этаж, 720 офис</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Академгородок ул. Бульвар молодежи 38, 1-й этаж</li>\n</ul>",
+    "date": "2026-10-26T12:58:18.976801+00:00",
+    "guid": "b82508ef6f6be77114ef5d6de565058cab0ad8a87396b20ff64dc210059fbc5a"
+  },
+  {
+    "title": "Nevsky Agency — SEO — изменены текст",
+    "link": "https://nevsky.agency/seo",
     "description": "<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Остальные страницы из дерева КП. Адреса всех 31 страницы идут отдельным документом.</li>\n</ul>",
     "date": "2026-10-26T00:21:54.332969+00:00",
     "guid": "4e7d150258c237d35bf2a4cde85edba88a54912d22af1667cdad327a1d9c1939"
