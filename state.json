@@ -221,7 +221,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-25T21:46:06.923025+00:00"
+    "checked_at": "2026-10-26T00:21:45.182966+00:00"
   },
   "https://ac-u.ru/seo/": {
     "name": "Акцепт — SEO",
@@ -801,7 +801,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-25T21:46:07.430881+00:00"
+    "checked_at": "2026-10-26T00:21:45.848574+00:00"
   },
   "https://ac-u.ru/sozdanie-saitov/": {
     "name": "Акцепт — создание сайтов",
@@ -1051,7 +1051,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-25T21:46:07.769511+00:00"
+    "checked_at": "2026-10-26T00:21:46.264205+00:00"
   },
   "https://nan.ru/": {
     "name": "NAN — главная",
@@ -1182,7 +1182,7 @@
         "https://nan.ru/web-support/tehpodderzhka.html"
       ]
     },
-    "checked_at": "2026-10-25T21:46:08.811564+00:00"
+    "checked_at": "2026-10-26T00:21:47.437173+00:00"
   },
   "https://artena.ru/": {
     "name": "Artena — главная",
@@ -1198,7 +1198,7 @@
         "https://artena.ru/protect971/index.php"
       ]
     },
-    "checked_at": "2026-10-25T21:46:11.209127+00:00"
+    "checked_at": "2026-10-26T00:21:50.396121+00:00"
   },
   "https://vmeste.marketing/": {
     "name": "Vmeste Marketing — главная",
@@ -1303,7 +1303,7 @@
         "https://vmeste.marketing/privacy"
       ]
     },
-    "checked_at": "2026-10-25T21:46:12.758171+00:00"
+    "checked_at": "2026-10-26T00:21:52.026894+00:00"
   },
   "https://nevsky.agency/": {
     "name": "Nevsky Agency — главная",
@@ -1639,7 +1639,7 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-10-25T21:46:13.986384+00:00"
+    "checked_at": "2026-10-26T00:21:53.495227+00:00"
   },
   "https://nevsky.agency/yandex-direct": {
     "name": "Nevsky Agency — Яндекс Директ",
@@ -1918,11 +1918,11 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-10-25T21:46:14.253518+00:00"
+    "checked_at": "2026-10-26T00:21:53.832162+00:00"
   },
   "https://nevsky.agency/seo": {
     "name": "Nevsky Agency — SEO",
-    "hash": "45a1638df5ddd903bd5b6db518cb14e1a6cd6fdb484bd45cb754efb026dfc625",
+    "hash": "485cbc48b21600790a7a8eabd1b73aeac3c5af779dcaf3fd578f8d0ed5e90124",
     "snapshot": {
       "title": "SEO-продвижение сайта в Яндексе в СПб | Невский Маркетинг",
       "description": "SEO-продвижение сайта в Яндексе в Санкт-Петербурге и по России: план на полгода по данным Вордстата, новые страницы, статьи, техническая часть. 49 000 ₽ в месяц, отчёт каждый месяц.",
@@ -2110,6 +2110,7 @@
         "Global Express, Challenger, Gulfstream, Embraer Legacy, вертолёты Airbus, плюс две общие страницы. Оператор видит свою машину и понимает, что вы с ней работали.",
         "Операторы деловой и бизнес-авиации, авиакомпании, организации по ТОиР. У каждого сегмента свои задачи и своя номенклатура, на общей странице это не показать.",
         "AOG support, срочные поставки, документы на поставку, логистика и сроки, гарантия. Здесь снимаются возражения, которые в поиск не выносят, но задают на переговорах.",
+        "Остальные страницы из дерева КП. Адреса всех 31 страницы идут отдельным документом.",
         "Структура сайта поставщика авиационного оборудования",
         "План на шесть месяцев",
         "План выпуска страниц и статей",
@@ -2218,7 +2219,7 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-10-25T21:46:14.517701+00:00"
+    "checked_at": "2026-10-26T00:21:54.333042+00:00"
   },
   "https://www.advertpro.ru/": {
     "name": "AdvertPro — главная",
@@ -2619,6 +2620,6 @@
         "https://www.advertpro.ru/uslugi/upravlenie-reputaciey/prodvizhenie-na-kartah"
       ]
     },
-    "checked_at": "2026-10-25T21:46:17.453030+00:00"
+    "checked_at": "2026-10-26T00:21:56.387119+00:00"
   }
 }
