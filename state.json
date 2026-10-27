@@ -221,7 +221,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-27T05:01:12.888538+00:00"
+    "checked_at": "2026-10-27T10:31:45.562934+00:00"
   },
   "https://ac-u.ru/seo/": {
     "name": "Акцепт — SEO",
@@ -801,7 +801,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-27T05:01:13.542571+00:00"
+    "checked_at": "2026-10-27T10:31:46.093780+00:00"
   },
   "https://ac-u.ru/sozdanie-saitov/": {
     "name": "Акцепт — создание сайтов",
@@ -1051,7 +1051,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-10-27T05:01:13.960980+00:00"
+    "checked_at": "2026-10-27T10:31:46.461842+00:00"
   },
   "https://nan.ru/": {
     "name": "NAN — главная",
@@ -1182,7 +1182,7 @@
         "https://nan.ru/web-support/tehpodderzhka.html"
       ]
     },
-    "checked_at": "2026-10-27T05:01:15.170691+00:00"
+    "checked_at": "2026-10-27T10:31:47.533267+00:00"
   },
   "https://artena.ru/": {
     "name": "Artena — главная",
@@ -1198,7 +1198,7 @@
         "https://artena.ru/protect971/index.php"
       ]
     },
-    "checked_at": "2026-10-27T05:01:17.675898+00:00"
+    "checked_at": "2026-10-27T10:31:49.742321+00:00"
   },
   "https://vmeste.marketing/": {
     "name": "Vmeste Marketing — главная",
@@ -1303,7 +1303,7 @@
         "https://vmeste.marketing/privacy"
       ]
     },
-    "checked_at": "2026-10-27T05:01:19.155842+00:00"
+    "checked_at": "2026-10-27T10:31:51.085727+00:00"
   },
   "https://nevsky.agency/": {
     "name": "Nevsky Agency — главная",
@@ -1627,7 +1627,7 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-10-27T05:01:20.807989+00:00"
+    "checked_at": "2026-10-27T10:31:53.053006+00:00"
   },
   "https://nevsky.agency/yandex-direct": {
     "name": "Nevsky Agency — Яндекс Директ",
@@ -1893,7 +1893,7 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-10-27T05:01:21.567863+00:00"
+    "checked_at": "2026-10-27T10:31:53.723824+00:00"
   },
   "https://nevsky.agency/seo": {
     "name": "Nevsky Agency — SEO",
@@ -2182,11 +2182,11 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-10-27T05:01:22.316194+00:00"
+    "checked_at": "2026-10-27T10:31:54.407008+00:00"
   },
   "https://www.advertpro.ru/": {
     "name": "AdvertPro — главная",
-    "hash": "08da7c9d5a90c28ae58be6c08aa5891145d859eb4f41b069cb4e5df9f860ed51",
+    "hash": "67ec13c729e088480cf2cee0b3f9049ab4b1bf4d9d82cd88d47b6be5a35323fe",
     "snapshot": {
       "title": "Маркетинговое агентство в Москве - digital-агентство полного цикла, услуги продвижения и создания сайтов | AdvertPro",
       "description": "Разработка и продвижение сайтов под ключ от AdvertPro. Комплексный интернет-маркетинг: SEO, контекстная реклама, создание сайтов, SERM и техническая поддержка. Digital-агентство полного цикла с 19-летним опытом помогает получать заявки из поиска, рекламы и других интернет-каналов.",
@@ -2429,6 +2429,8 @@
         "Технический директор",
         "Управляющий директор",
         "Операционный директор",
+        "Специалист поискового продвижения",
+        "Системный администратор",
         "Специалист контекстной рекламы",
         "Senior Seo-специалист",
         "Project manager (менеджер проектов)",
@@ -2582,6 +2584,6 @@
         "https://www.advertpro.ru/uslugi/upravlenie-reputaciey/prodvizhenie-na-kartah"
       ]
     },
-    "checked_at": "2026-10-27T05:01:24.282823+00:00"
+    "checked_at": "2026-10-27T10:31:57.397545+00:00"
   }
 }
