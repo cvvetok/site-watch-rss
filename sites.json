@@ -42,5 +42,149 @@
   {
     "name": "AdvertPro — главная",
     "url": "https://www.advertpro.ru/"
+  },
+  {
+    "name": "Rush Agency — главная",
+    "url": "https://www.rush-agency.ru/"
+  },
+  {
+    "name": "Rush Agency — кейсы",
+    "url": "https://www.rush-agency.ru/cases/"
+  },
+  {
+    "name": "Rush Agency — о компании",
+    "url": "https://www.rush-agency.ru/about/"
+  },
+  {
+    "name": "Rush Agency — блог",
+    "url": "https://www.rush-agency.ru/blog/"
+  },
+  {
+    "name": "Rush Agency — контакты",
+    "url": "https://www.rush-agency.ru/contacts/"
+  },
+  {
+    "name": "Rush Agency — вакансии",
+    "url": "https://www.rush-agency.ru/jobs/"
+  },
+  {
+    "name": "Rush Agency — партнёры",
+    "url": "https://www.rush-agency.ru/partners/"
+  },
+  {
+    "name": "Rush Agency — отзывы",
+    "url": "https://www.rush-agency.ru/reviews/"
+  },
+  {
+    "name": "Rush Agency — SEO-продвижение",
+    "url": "https://www.rush-agency.ru/seo-prodvizhenie/"
+  },
+  {
+    "name": "Rush Agency — продвижение сайта за рубежом",
+    "url": "https://www.rush-agency.ru/prodvizhenie-sajta-za-rubezhom/"
+  },
+  {
+    "name": "Rush Agency — продвижение сайта в AI",
+    "url": "https://www.rush-agency.ru/prodvizhenie-sajta-v-ai/"
+  },
+  {
+    "name": "Rush Agency — ORM",
+    "url": "https://www.rush-agency.ru/orm/"
+  },
+  {
+    "name": "IT-Agency — главная",
+    "url": "https://www.it-agency.ru/"
+  },
+  {
+    "name": "IT-Agency — проекты",
+    "url": "https://www.it-agency.ru/projects/"
+  },
+  {
+    "name": "IT-Agency — услуги",
+    "url": "https://www.it-agency.ru/services/"
+  },
+  {
+    "name": "IT-Agency — академия",
+    "url": "https://www.it-agency.ru/academy/"
+  },
+  {
+    "name": "IT-Agency — карьера",
+    "url": "https://www.it-agency.ru/career/"
+  },
+  {
+    "name": "IT-Agency — компания",
+    "url": "https://www.it-agency.ru/company/"
+  },
+  {
+    "name": "IT-Agency — контакты",
+    "url": "https://www.it-agency.ru/contacts/"
+  },
+  {
+    "name": "Ingate — главная",
+    "url": "https://ingate.ru/"
+  },
+  {
+    "name": "Ingate — услуги",
+    "url": "https://ingate.ru/uslugi/"
+  },
+  {
+    "name": "Ingate — кейсы",
+    "url": "https://ingate.ru/cases/"
+  },
+  {
+    "name": "Ingate — компания",
+    "url": "https://ingate.ru/company/"
+  },
+  {
+    "name": "Ingate — блог",
+    "url": "https://ingate.ru/blog/"
+  },
+  {
+    "name": "Ingate — карьера",
+    "url": "https://hr.ingate.ru/"
+  },
+  {
+    "name": "Kokoc Group — главная",
+    "url": "https://kokocgroup.ru/"
+  },
+  {
+    "name": "Kokoc Group — о компании",
+    "url": "https://kokocgroup.ru/about/"
+  },
+  {
+    "name": "Kokoc Group — блог",
+    "url": "https://kokocgroup.ru/blog"
+  },
+  {
+    "name": "Kokoc Group — карьера",
+    "url": "https://career.kokocgroup.ru/"
+  },
+  {
+    "name": "Kokoc Group — контакты",
+    "url": "https://kokocgroup.ru/contacts/"
+  },
+  {
+    "name": "Realweb — главная",
+    "url": "https://realweb.ru/"
+  },
+  {
+    "name": "Realweb — кейсы",
+    "url": "https://realweb.ru/case"
+  },
+  {
+    "name": "Realweb — исследования",
+    "url": "https://realweb.ru/researches"
+  },
+  {
+    "name": "Realweb — о компании",
+    "url": "https://realweb.ru/about-us"
+  },
+  {
+    "name": "Realweb — карьера",
+    "url": "https://realweb.ru/career"
+  },
+  {
+    "name": "Realweb — контакты",
+    "url": "https://realweb.ru/contacts"
   }
 ]
