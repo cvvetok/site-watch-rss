@@ -1,5 +1,26 @@
 [
   {
+    "title": "Nevsky Agency — SEO — изменены TITLE, текст, ссылки",
+    "link": "https://nevsky.agency/seo",
+    "description": "<h3>Изменён TITLE</h3>\n<p><strong>Было:</strong><br>SEO-продвижение сайта в Яндексе в СПб | Невский Маркетинг</p>\n<p><strong>Стало:</strong><br>SEO-продвижение сайта в Яндексе в СПб: цены | Невский Маркетинг</p>\n<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ ИИ-агенты сводки, черновики, отчёты</li>\n</ul>\n<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://nevsky.agency/ii-agenty</li>\n</ul>",
+    "date": "2026-10-31T19:57:59.940573+00:00",
+    "guid": "82ac4163cfa312786d6ef830c5308ee3cc89948e433b5c07593aa2fa2bbb452a"
+  },
+  {
+    "title": "Nevsky Agency — Яндекс Директ — изменены Description, текст, ссылки",
+    "link": "https://nevsky.agency/yandex-direct",
+    "description": "<h3>Изменён META DESCRIPTION</h3>\n<p><strong>Было:</strong><br>Настройка и ведение Яндекс Директа от 29 000 ₽ в месяц. Запуск за 5–7 рабочих дней, каждую неделю отчёт: сколько заявок и почём. Петербург и вся Россия.</p>\n<p><strong>Стало:</strong><br>Контекстная реклама в Яндексе: настройка и ведение Директа от 29 000 ₽ в месяц. Запуск за 5–7 рабочих дней, каждую неделю отчёт: сколько заявок и почём. Петербург и вся Россия.</p>\n<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ ИИ-агенты сводки, черновики, отчёты</li>\n</ul>\n<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://nevsky.agency/ii-agenty</li>\n</ul>",
+    "date": "2026-10-31T19:57:58.986535+00:00",
+    "guid": "0b8344521017fa0f0f387bc812a1f191e47999724f86a98f0bbe300044ca5f49"
+  },
+  {
+    "title": "Nevsky Agency — главная — изменены текст, ссылки",
+    "link": "https://nevsky.agency/",
+    "description": "<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ ИИ-агенты сводки, черновики, отчёты</li>\n</ul>\n<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://nevsky.agency/ii-agenty</li>\n</ul>",
+    "date": "2026-10-31T19:57:57.874929+00:00",
+    "guid": "9b5e041b3e2096bfdb36894df761ce4a8da6b9ea485f685e2517cefffc77ceb6"
+  },
+  {
     "title": "Ingate — кейсы — изменены ссылки",
     "link": "https://ingate.ru/cases/",
     "description": "<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://ingate.ru/cases/universal</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ https://ingate.ru/cases/nutrilak_2</li>\n</ul>",
