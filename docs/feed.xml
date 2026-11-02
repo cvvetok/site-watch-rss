@@ -5,7 +5,138 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Mon, 02 Nov 2026 11:13:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 20:49:41 +0000</lastBuildDate>
+<item>
+<title>IT-Agency — академия — изменены H3, текст, ссылки</title>
+<link>https://www.it-agency.ru/academy/</link>
+<guid isPermaLink="false">9ebfc34153624428b6c7f06ab96e2939f89e63f680f27f6abd1f64d2524d4f63</guid>
+<pubDate>Mon, 02 Nov 2026 20:48:57 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Что уже можно автоматизировать в отделе маркетинга с помощью ИИ-агентов</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Промпты: контент-план на основе сегментации, барьеров и мотивации целевой аудитории</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Юлия Кравченко — эксперт месяца, руководитель направления оптимизаторов</li>
+<li>➕ Что уже можно автоматизировать в отделе маркетинга с помощью ИИ-агентов</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Алла Рауд — эксперт месяца, руководитель направления продвижения приложений</li>
+<li>➖ Промпты: контент-план на основе сегментации, барьеров и мотивации целевой аудитории</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.it-agency.ru/academy/marketing-automation-event</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.it-agency.ru/academy/prompt-kontent-plan-i-segmenty-celevoi-audotorii</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>IT-Agency — главная — изменены H3, текст, ссылки</title>
+<link>https://www.it-agency.ru/</link>
+<guid isPermaLink="false">f96892b5ed68944586dda9ac34c6cb2d4302cd4532dea43fd557fc78ce57304e</guid>
+<pubDate>Mon, 02 Nov 2026 20:48:56 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Что уже можно автоматизировать в отделе маркетинга с помощью ИИ-агентов</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Я создал в ИИ бота, который следит за рекламными кабинетами. Экономим часы работы и десятки тысяч рублей каждый месяц</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Что уже можно автоматизировать в отделе маркетинга с помощью ИИ-агентов</li>
+<li>➕ Павел Злобин, зам. руководителя по производственной части</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Я создал в ИИ бота, который следит за рекламными кабинетами. Экономим часы работы и десятки тысяч рублей каждый месяц</li>
+<li>➖ Кирилл Лосев, интернет-маркетолог</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.it-agency.ru/academy/marketing-automation-event</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.it-agency.ru/academy/ai-bot-that-monitors-advertising-accounts</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Rush Agency — продвижение сайта в AI — изменены H2, текст</title>
+<link>https://www.rush-agency.ru/prodvizhenie-sajta-v-ai/</link>
+<guid isPermaLink="false">b0b7ef13a3d863047798c18452f89d7dad7d088e9fe342be1fcca473ee98f333</guid>
+<pubDate>Mon, 02 Nov 2026 20:48:55 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H2</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ ? Первые результаты уже через 3 месяца</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ 🚀 Первые результаты уже через 3 месяца</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ ? Первые результаты уже через 3 месяца</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ 🚀 Первые результаты уже через 3 месяца</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Rush Agency — продвижение сайта за рубежом — изменены Description, H2</title>
+<link>https://www.rush-agency.ru/prodvizhenie-sajta-za-rubezhom/</link>
+<guid isPermaLink="false">717ca2df25912821b4917cd9ecef4927325b6aa6eead94a998d9c02151aea23f</guid>
+<pubDate>Mon, 02 Nov 2026 20:48:54 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменён META DESCRIPTION</h3>
+<p><strong>Было:</strong><br>Продвижение сайта за рубежом: особенности и цены от ⚡ Rush Agency ⚡ Приводим трафик, увеличиваем продажи на зарубежных рынках 🌎 Единственный системный отдел западного SEO в РФ 🌎 Эффективная поисковая оптимизация сайтов в Google 🌎 Линкбилдинг 💼 Успешные кейсы</p>
+<p><strong>Стало:</strong><br>Продвижение сайта за рубежом: особенности и цены от ⚡ Rush Agency ⚡ Приводим трафик, увеличиваем продажи на зарубежных рынках ? Единственный системный отдел западного SEO в РФ ? Эффективная поисковая оптимизация сайтов в Google ? Линкбилдинг ? Успешные кейсы</p>
+<h3>Изменения H2</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Кейсы ?</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Кейсы 💼</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Rush Agency — главная — изменены Description</title>
+<link>https://www.rush-agency.ru/</link>
+<guid isPermaLink="false">14feed8e2a68e26e0c0de50b025785b386e3f504ba1a65579bfae9fafbbe0a76</guid>
+<pubDate>Mon, 02 Nov 2026 20:48:51 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменён META DESCRIPTION</h3>
+<p><strong>Было:</strong><br>🚀 Агентство по продвижению сайтов в Москве ⚡️ Rush Agencу ⚡️ Приводим поисковой трафик 📈 улучшаем конверсию вашего сайта 🎯 повышаем продажи 💸 Более 500 успешных кейсов 💼 Go в топ вместе с нами! ✈️</p>
+<p><strong>Стало:</strong><br>? Агентство по продвижению сайтов в Москве ⚡️ Rush Agencу ⚡️ Приводим поисковой трафик ? улучшаем конверсию вашего сайта ? повышаем продажи ? Более 500 успешных кейсов ? Go в топ вместе с нами! ✈️</p>
+]]></description>
+</item>
 <item>
 <title>Kokoc Group — блог — изменены H3, текст, ссылки</title>
 <link>https://kokocgroup.ru/blog</link>
