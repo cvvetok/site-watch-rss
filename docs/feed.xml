@@ -5,7 +5,59 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Mon, 02 Nov 2026 02:41:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 11:13:08 +0000</lastBuildDate>
+<item>
+<title>Kokoc Group — блог — изменены H3, текст, ссылки</title>
+<link>https://kokocgroup.ru/blog</link>
+<guid isPermaLink="false">30c3f7a3481d8c1da34bd10d1a84b53ef5b166c93ede1625bf26d41b830155e3</guid>
+<pubDate>Mon, 02 Nov 2026 11:13:02 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Момент Дану-ны: где взрослые на самом деле учатся</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Человеку нужен человек. Как мы автоматизировали рутину в подборе без потери человечности</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Момент Дану-ны: где взрослые на самом деле учатся</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Человеку нужен человек. Как мы автоматизировали рутину в подборе без потери человечности</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://kokocgroup.ru/blog/moment-danuny-gde-vzroslye-na-samom-dele-uchatsia</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://kokocgroup.ru/blog/cheloveku-nuzhen-chelovek-kak-my-avtomatizirovali-rutinu-v-podbore-bez-poteri-chelovechnosti</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Nevsky Agency — главная — изменены текст</title>
+<link>https://nevsky.agency/</link>
+<guid isPermaLink="false">6de93967a9e2dd91416ddd494ff4e6a96390107930faa721694e8eac0be9f0a3</guid>
+<pubDate>Mon, 02 Nov 2026 11:03:39 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ 153 проекта в портфолио</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ 152 проекта в портфолио</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Nevsky Agency — SEO — изменены H2, текст, ссылки</title>
 <link>https://nevsky.agency/seo</link>
