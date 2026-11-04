@@ -1,5 +1,26 @@
 [
   {
+    "title": "IT-Agency — проекты — изменены текст",
+    "link": "https://www.it-agency.ru/projects/",
+    "description": "<h3>Изменения текста</h3>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Континентальная Хоккейная Лига</li>\n</ul>",
+    "date": "2026-11-04T14:41:08.333139+00:00",
+    "guid": "d676d9fd7f7d3e59af4a4417488c198b496f568a6dd1062e3e2af5595219ed42"
+  },
+  {
+    "title": "Nevsky Agency — Яндекс Директ — изменены Description",
+    "link": "https://nevsky.agency/yandex-direct",
+    "description": "<h3>Изменён META DESCRIPTION</h3>\n<p><strong>Было:</strong><br>Контекстная реклама в Яндексе: настройка и ведение Директа от 29 000 ₽ в месяц. Запуск за 5–7 рабочих дней, каждую неделю отчёт: сколько заявок и почём. Петербург и вся Россия.</p>\n<p><strong>Стало:</strong><br>Контекстная реклама в Яндексе: настройка и ведение Директа от 29 990 ₽ в месяц. Запуск за 5–7 рабочих дней, каждую неделю отчёт: сколько заявок и почём. Петербург и вся Россия.</p>",
+    "date": "2026-11-04T14:40:53.878005+00:00",
+    "guid": "ddd35bb0976e83401107f837b5919e9d8712f5a61a82da8ba6b1252422420195"
+  },
+  {
+    "title": "Nevsky Agency — главная — изменены текст",
+    "link": "https://nevsky.agency/",
+    "description": "<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Тарифы с ведением Директа действуют при рекламном бюджете до 200 000 ₽ в месяц, выше считаем отдельно</li>\n</ul>",
+    "date": "2026-11-04T14:40:52.453810+00:00",
+    "guid": "e9a06ccae2ac48020de9426f37fc9cbeba73a4701247bd6eb34a2b0883aae7a0"
+  },
+  {
     "title": "Realweb — главная — изменены ссылки",
     "link": "https://realweb.ru/",
     "description": "<h3>Изменения внутренних ссылок</h3>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ https://realweb.ru/research-silver-generation</li>\n</ul>",
