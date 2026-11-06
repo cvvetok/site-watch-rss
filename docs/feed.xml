@@ -5,7 +5,24 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Fri, 06 Nov 2026 00:18:22 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 06:52:30 +0000</lastBuildDate>
+<item>
+<title>Rush Agency — блог — изменены ссылки</title>
+<link>https://www.rush-agency.ru/blog/</link>
+<guid isPermaLink="false">73df78189c70e1432b077df02e88f399336735cf658dacb94ce50673bf219139</guid>
+<pubDate>Fri, 06 Nov 2026 06:51:21 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.rush-agency.ru/blog/kak-zanyat-top-1-v-google-maps</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.rush-agency.ru/blog/chto-takoe-reputaczionnyj-audit</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Kokoc Group — блог — изменены H3, текст, ссылки</title>
 <link>https://kokocgroup.ru/blog</link>
