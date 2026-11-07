@@ -268,7 +268,7 @@
         "https://ac-u.ru/vosstanovlenie-sayta-beget"
       ]
     },
-    "checked_at": "2026-11-06T20:52:45.178004+00:00"
+    "checked_at": "2026-11-07T00:55:33.893612+00:00"
   },
   "https://ac-u.ru/seo/": {
     "name": "Акцепт — SEO",
@@ -691,7 +691,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-11-06T20:52:45.539070+00:00"
+    "checked_at": "2026-11-07T00:55:34.304124+00:00"
   },
   "https://ac-u.ru/sozdanie-saitov/": {
     "name": "Акцепт — создание сайтов",
@@ -939,7 +939,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-11-06T20:52:45.743771+00:00"
+    "checked_at": "2026-11-07T00:55:34.537891+00:00"
   },
   "https://nan.ru/": {
     "name": "NAN — главная",
@@ -1070,7 +1070,7 @@
         "https://nan.ru/web-support/tehpodderzhka.html"
       ]
     },
-    "checked_at": "2026-11-06T20:52:46.888789+00:00"
+    "checked_at": "2026-11-07T00:55:35.716359+00:00"
   },
   "https://artena.ru/": {
     "name": "Artena — главная",
@@ -1086,7 +1086,7 @@
         "https://artena.ru/protect971/index.php"
       ]
     },
-    "checked_at": "2026-11-06T20:52:49.653120+00:00"
+    "checked_at": "2026-11-07T00:55:38.254423+00:00"
   },
   "https://vmeste.marketing/": {
     "name": "Vmeste Marketing — главная",
@@ -1191,11 +1191,11 @@
         "https://vmeste.marketing/privacy"
       ]
     },
-    "checked_at": "2026-11-06T20:52:50.946712+00:00"
+    "checked_at": "2026-11-07T00:55:39.671519+00:00"
   },
   "https://nevsky.agency/": {
     "name": "Nevsky Agency — главная",
-    "hash": "ad33b157aba684691181f865ac7bc580ccf244e87f46e7309d19b014383130f6",
+    "hash": "feee4d2a64a62b5af6a370ef9484e08ac4a2aaa3d3e558b92b1820be1e11d0e5",
     "snapshot": {
       "title": "Маркетинговое агентство: сайт, реклама и ИИ | Невский Маркетинг",
       "description": "Маркетинговое агентство «Невский Маркетинг»: сайты и Яндекс Директ для малого и среднего бизнеса, ИИ для расчётов, КП и ответов клиентам. Москва, Петербург, Сочи.",
@@ -1212,8 +1212,7 @@
         "Сколько стоит",
         "Все услуги",
         "Разберём ваш бизнес",
-        "Приведём вам клиентов. Начнём с разговора.",
-        "Оставить заявку"
+        "Приведём вам клиентов. Начнём с разговора."
       ],
       "h3": [
         "Директ",
@@ -1226,8 +1225,7 @@
         "Что сейчас не устраивает?",
         "Как удобнее получить разбор?",
         "Куда прислать разбор?",
-        "Спасибо!",
-        "Заявка отправлена"
+        "Спасибо!"
       ],
       "text_blocks": [
         "Сайты делаем и дорабатываем",
@@ -1304,8 +1302,8 @@
         "Чисторитет Сайт и реклама клининга во Владимире",
         "Вектор чистоты Сайт клининговой компании в Сочи",
         "Студия чистоты Сайт клининговой компании в Петербурге",
-        "Студия эстетики СПб Сайт и реклама студии аппаратного массажа",
         "Flash Epil Лендинг электроэпиляции для сети студий",
+        "Астхик Абнусян Лендинг свадебного стилиста и визажиста",
         "Nabat Clinic Сайт клиники косметологии и дерматологии",
         "Мой логопед Лендинг онлайн-школы логопедии для детей",
         "ITEC Сайт школы иностранных языков",
@@ -1327,7 +1325,7 @@
         "Bakunin Drinks Сайт бренда лимонадов и тоников",
         "Мой продукт Сайт разработчика корпоративных систем",
         "Аэропульс Сайт сервиса для авиакомпаний",
-        "CasperAI Сайт ИИ-ассистента, который помогает бизнесу не терять заявки: продукт объяснён через задачи отдела продаж",
+        "GetOffer Лендинг карьерного сервиса для разработчиков",
         "Запросы и показы: Вордстат, 30 дней по России, снято 9–25 октября 2026.",
         "Сайт, реклама и ИИ в одном окне",
         "Один руководитель проекта, один чат, один отчёт. Договариваемся внутри команды сами и сами предлагаем, что улучшить , не дожидаясь задач от вас.",
@@ -1372,6 +1370,7 @@
         "Прогноз и план на 30 дней",
         "Приведём вам клиентов. Начнём с разговора.",
         "Калькулятор для сайта",
+        "Продвижение в нейросетях",
         "Сервисы и личные кабинеты",
         "Обзор для производств",
         "Лестницы и ограждения",
@@ -1380,9 +1379,7 @@
         "Стройка и недвижимость",
         "Онлайн по всей России и за рубежом",
         "Города наших клиентов",
-        "Пн–Пт, 10:00–20:00 МСК",
-        "Ответим в течение часа в рабочее время и сами предложим, что улучшить.",
-        "Разбор бизнеса. Позвоним в течение часа в рабочее время."
+        "Пн–Пт, 10:00–20:00 МСК"
       ],
       "links": [
         "https://nevsky.agency",
@@ -1409,10 +1406,10 @@
         "https://nevsky.agency/cases",
         "https://nevsky.agency/cases/05-promille",
         "https://nevsky.agency/cases/aeropuls",
+        "https://nevsky.agency/cases/asthik-abnusyan",
         "https://nevsky.agency/cases/avto",
         "https://nevsky.agency/cases/bakunin-drinks",
         "https://nevsky.agency/cases/carbon",
-        "https://nevsky.agency/cases/casperai",
         "https://nevsky.agency/cases/chistoritet",
         "https://nevsky.agency/cases/crm-i-boty",
         "https://nevsky.agency/cases/dezora",
@@ -1421,6 +1418,7 @@
         "https://nevsky.agency/cases/eksperty",
         "https://nevsky.agency/cases/flash-epil",
         "https://nevsky.agency/cases/gemservis",
+        "https://nevsky.agency/cases/getoffer",
         "https://nevsky.agency/cases/glavgenstroi-metallokonstruktsii",
         "https://nevsky.agency/cases/grenada",
         "https://nevsky.agency/cases/guitarstudio",
@@ -1457,7 +1455,6 @@
         "https://nevsky.agency/cases/satushkina",
         "https://nevsky.agency/cases/stomatologiya-sv-panteleimona",
         "https://nevsky.agency/cases/studiya-chistoti",
-        "https://nevsky.agency/cases/studiya-estetiki-spb",
         "https://nevsky.agency/cases/tatyana-ahmerova",
         "https://nevsky.agency/cases/tot-samii-kopantsev",
         "https://nevsky.agency/cases/vektor-chistoti",
@@ -1507,9 +1504,11 @@
         "https://nevsky.agency/razrabotka-sajtov/wordpress",
         "https://nevsky.agency/razrabotka-servisov",
         "https://nevsky.agency/requisites",
+        "https://nevsky.agency/sankt-peterburg",
         "https://nevsky.agency/seo",
         "https://nevsky.agency/seo/audit",
         "https://nevsky.agency/seo/avtoservis",
+        "https://nevsky.agency/seo/geo",
         "https://nevsky.agency/seo/internet-magazin",
         "https://nevsky.agency/seo/medicina",
         "https://nevsky.agency/seo/onlajn-shkola",
@@ -1529,11 +1528,11 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-11-06T20:52:52.090673+00:00"
+    "checked_at": "2026-11-07T00:55:40.695581+00:00"
   },
   "https://nevsky.agency/yandex-direct": {
     "name": "Nevsky Agency — Яндекс Директ",
-    "hash": "346387746c954f51771afb3b076f76a9f36af0287b56faeab0d021fbf4f5787e",
+    "hash": "f789af69c4a07cde10617634b170f11efd0777c9482d497cbf5d3941aba31363",
     "snapshot": {
       "title": "Настройка Яндекс Директа под ключ и ведение в СПб | Невский Маркетинг",
       "description": "Контекстная реклама в Яндексе: настройка и ведение Директа от 29 990 ₽ в месяц. Запуск за 5–7 рабочих дней, каждую неделю отчёт: сколько заявок и почём. Петербург и вся Россия.",
@@ -1554,8 +1553,7 @@
         "Цифры из наших проектов",
         "Разберём вашу рекламу",
         "Сайт, реклама и ИИ в одном окне",
-        "Приведём вам клиентов. Начнём с разговора.",
-        "Оставить заявку"
+        "Приведём вам клиентов. Начнём с разговора."
       ],
       "h3": [
         "Milash Studio",
@@ -1580,8 +1578,7 @@
         "Что нужно сделать?",
         "Как удобнее получить разбор?",
         "Куда прислать разбор?",
-        "Спасибо!",
-        "Заявка отправлена"
+        "Спасибо!"
       ],
       "text_blocks": [
         "Сайты делаем и дорабатываем",
@@ -1680,13 +1677,13 @@
         "Всё, что обычно держит клиента у агентства, у нас наоборот.",
         "Директ для вашей отрасли",
         "Отдельная страница под каждую отрасль, где мы уже работали: спрос в Яндексе, наши кейсы, цены и план запуска.",
-        "Отзывы с Профи.ру и Яндекс Карт как есть, без правок. Новые появляются здесь сами.",
-        "Впервые директор не вносил правки на сайт, настолько профессионально ребята работают. Тематика сайта: презентация обучающего практического (не онлайн) курса.",
-        "…Непременно будем рекомендовать всем знакомым и будем в дальнейшем сотрудничать по рекламе. Успехов и процветания🙏🏼",
-        "Хочу выразить благодарность Команде Владислава, в первую очередь, за результат, за великолепный сайт-визитку для Клиники! С удовольствием рекомендую ребят за профессиональный подход, за простой и понятный алгоритм коммуникации, за оперативные корректировки,…",
+        "Клиенты чаще пишут о сайте, с которого началась работа. Первыми стоят 4 отзыва, где упоминают продвижение, рекламу или ведение. Тексты с площадок без правок.",
         "Огромная благодарность Владу и его команде! Сделали сайт очень профессионально и начали ведение. Всегда на связи, подсказывает если есть вопросы. Идет на встречу.",
-        "С Владиславом было очень комфортно работать. Он быстро включился в задачу, внимательно отнёсся к моим пожеланиям по сайту и всегда был на связи. Всё объяснял понятно, предлагал удачные решения по структуре и оформлению, а сам процесс шёл спокойно…",
-        "Мне очень понравилось работать с командой Владислава. Во-первых они очень профессионально подошли к вопросу, и очень быстро отработали. Во-вторых очень грамотно отвечали на мои, как мне казалось, глупые вопросы. В-третьих цена ну просто супер.",
+        "Прекрасная компания по разработке и продвижению сайта. Очень грамотные и оперативные специалисты. Делали для нашей компании полноценный корпоративный сайт.",
+        "Спасибо Владиславу и его команде за создание сайта. Было очень удобно работать. Все пожелания учитывались. Продолжаем работать по продвижению.",
+        "Отличная работа по созданию сайта, плюс помощь в продвижении.",
+        "Хочу выразить благодарность Команде Владислава, в первую очередь, за результат, за великолепный сайт-визитку для Клиники! С удовольствием рекомендую ребят за профессиональный подход, за простой и понятный алгоритм коммуникации, за оперативные корректировки,…",
+        "Впервые директор не вносил правки на сайт, настолько профессионально ребята работают. Тематика сайта: презентация обучающего практического (не онлайн) курса.",
         "SEO, когда нужны заявки из поиска без оплаты за клик",
         "Подключаем к любому тарифу. Хорошо работает вместе с Директом: реклама даёт заявки сразу, поиск подтягивается за несколько месяцев.",
         "План на полгода : какие страницы и запросы двигаем и в каком порядке",
@@ -1705,6 +1702,7 @@
         "Один руководитель проекта, один чат и один отчёт. Всё можно взять вместе или по отдельности.",
         "Приведём вам клиентов. Начнём с разговора.",
         "Калькулятор для сайта",
+        "Продвижение в нейросетях",
         "Сервисы и личные кабинеты",
         "Обзор для производств",
         "Лестницы и ограждения",
@@ -1713,9 +1711,7 @@
         "Стройка и недвижимость",
         "Онлайн по всей России и за рубежом",
         "Города наших клиентов",
-        "Пн–Пт, 10:00–20:00 МСК",
-        "Ответим в течение часа в рабочее время и сами предложим, что улучшить.",
-        "Разбор бизнеса. Позвоним в течение часа в рабочее время."
+        "Пн–Пт, 10:00–20:00 МСК"
       ],
       "links": [
         "https://nevsky.agency",
@@ -1816,9 +1812,11 @@
         "https://nevsky.agency/razrabotka-sajtov/wordpress",
         "https://nevsky.agency/razrabotka-servisov",
         "https://nevsky.agency/requisites",
+        "https://nevsky.agency/sankt-peterburg",
         "https://nevsky.agency/seo",
         "https://nevsky.agency/seo/audit",
         "https://nevsky.agency/seo/avtoservis",
+        "https://nevsky.agency/seo/geo",
         "https://nevsky.agency/seo/internet-magazin",
         "https://nevsky.agency/seo/medicina",
         "https://nevsky.agency/seo/onlajn-shkola",
@@ -1838,14 +1836,14 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-11-06T20:52:52.299410+00:00"
+    "checked_at": "2026-11-07T00:55:41.286786+00:00"
   },
   "https://nevsky.agency/seo": {
     "name": "Nevsky Agency — SEO",
-    "hash": "40642e344b8fe1d07f5f57b5eee93702bfc3601e3505a298a537de30cd28a1a4",
+    "hash": "a1952b7f9bba56aa8919d9c148adffaa6ff984c42fd2379ae7ca206a4270c1aa",
     "snapshot": {
       "title": "SEO-продвижение сайта в Яндексе в СПб: цены | Невский Маркетинг",
-      "description": "SEO-продвижение сайта в Яндексе в Санкт-Петербурге и по России: план на полгода по данным Вордстата, новые страницы, статьи, техническая часть. 49 000 ₽ в месяц, отчёт каждый месяц.",
+      "description": "SEO-продвижение сайта в Яндексе в Санкт-Петербурге и по России: план на полгода по Вордстату, страницы, статьи, техническая часть. Цена 49 000 ₽ в месяц.",
       "h1": [
         "SEO-продвижение сайта в Я ндексе"
       ],
@@ -1861,8 +1859,7 @@
         "Статьи о продвижении",
         "Разберём ваш сайт для поиска",
         "Поиск лучше работает вместе с сайтом и рекламой",
-        "Приведём вам клиентов. Начнём с разговора.",
-        "Оставить заявку"
+        "Приведём вам клиентов. Начнём с разговора."
       ],
       "h3": [
         "1 Реклама дорожает . нужен второй источник",
@@ -1889,8 +1886,7 @@
         "Спасибо!",
         "Спрос в отрасли",
         "Структура сайта",
-        "План на шесть месяцев",
-        "Заявка отправлена"
+        "План на шесть месяцев"
       ],
       "text_blocks": [
         "Сайты делаем и дорабатываем",
@@ -2017,7 +2013,8 @@
         "SEO для ресторана и кафе «банкетный зал»: 264 231 показов в месяц 2 работы",
         "SEO для интернет-магазина «скатерть на стол»: 50 249 показов в месяц 4 работы",
         "Сайт для этих же отраслей",
-        "Отзывов о самом SEO на площадках пока нет: клиенты пишут о сайте, с которого началась работа, трое упоминают и продвижение. Тексты с Профи.ру без правок.",
+        "Клиенты чаще пишут о сайте, с которого началась работа. Первыми стоят 4 отзыва, где упоминают продвижение, рекламу или ведение. Тексты с площадок без правок.",
+        "Огромная благодарность Владу и его команде! Сделали сайт очень профессионально и начали ведение. Всегда на связи, подсказывает если есть вопросы. Идет на встречу.",
         "Прекрасная компания по разработке и продвижению сайта. Очень грамотные и оперативные специалисты. Делали для нашей компании полноценный корпоративный сайт.",
         "Спасибо Владиславу и его команде за создание сайта. Было очень удобно работать. Все пожелания учитывались. Продолжаем работать по продвижению.",
         "Отличная работа по созданию сайта, плюс помощь в продвижении.",
@@ -2050,6 +2047,7 @@
         "План на полгода: выпуск страниц и статей по месяцам",
         "Приведём вам клиентов. Начнём с разговора.",
         "Калькулятор для сайта",
+        "Продвижение в нейросетях",
         "Сервисы и личные кабинеты",
         "Обзор для производств",
         "Лестницы и ограждения",
@@ -2058,9 +2056,7 @@
         "Стройка и недвижимость",
         "Онлайн по всей России и за рубежом",
         "Города наших клиентов",
-        "Пн–Пт, 10:00–20:00 МСК",
-        "Ответим в течение часа в рабочее время и сами предложим, что улучшить.",
-        "Разбор бизнеса. Позвоним в течение часа в рабочее время."
+        "Пн–Пт, 10:00–20:00 МСК"
       ],
       "links": [
         "https://nevsky.agency",
@@ -2146,9 +2142,11 @@
         "https://nevsky.agency/razrabotka-sajtov/yurist",
         "https://nevsky.agency/razrabotka-servisov",
         "https://nevsky.agency/requisites",
+        "https://nevsky.agency/sankt-peterburg",
         "https://nevsky.agency/seo",
         "https://nevsky.agency/seo/audit",
         "https://nevsky.agency/seo/avtoservis",
+        "https://nevsky.agency/seo/geo",
         "https://nevsky.agency/seo/internet-magazin",
         "https://nevsky.agency/seo/medicina",
         "https://nevsky.agency/seo/onlajn-shkola",
@@ -2168,7 +2166,7 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-11-06T20:52:53.146041+00:00"
+    "checked_at": "2026-11-07T00:55:42.020466+00:00"
   },
   "https://www.advertpro.ru/": {
     "name": "AdvertPro — главная",
@@ -2576,7 +2574,7 @@
         "https://www.advertpro.ru/uslugi/upravlenie-reputaciey/prodvizhenie-na-kartah"
       ]
     },
-    "checked_at": "2026-11-06T20:52:55.063895+00:00"
+    "checked_at": "2026-11-07T00:55:43.955110+00:00"
   },
   "https://www.rush-agency.ru/": {
     "name": "Rush Agency — главная",
@@ -2834,7 +2832,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2023/05/dogovor-na-seo-konsalting-dlya-sajta-2023_rush-agency.pdf"
       ]
     },
-    "checked_at": "2026-11-06T20:52:56.273281+00:00"
+    "checked_at": "2026-11-07T00:55:45.197936+00:00"
   },
   "https://www.rush-agency.ru/cases/": {
     "name": "Rush Agency — кейсы",
@@ -3019,7 +3017,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-06T20:52:56.582620+00:00"
+    "checked_at": "2026-11-07T00:55:45.524480+00:00"
   },
   "https://www.rush-agency.ru/about/": {
     "name": "Rush Agency — о компании",
@@ -3536,7 +3534,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2026/07/pochemu-vklady-i-investiczii-ne-sdelayut-tebya-bogatym-anar-babaev-na-pensiyu-v-35.mp4"
       ]
     },
-    "checked_at": "2026-11-06T20:52:56.927340+00:00"
+    "checked_at": "2026-11-07T00:55:45.892064+00:00"
   },
   "https://www.rush-agency.ru/blog/": {
     "name": "Rush Agency — блог",
@@ -3779,7 +3777,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-06T20:52:57.310214+00:00"
+    "checked_at": "2026-11-07T00:55:46.310485+00:00"
   },
   "https://www.rush-agency.ru/contacts/": {
     "name": "Rush Agency — контакты",
@@ -3952,7 +3950,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-06T20:52:57.612300+00:00"
+    "checked_at": "2026-11-07T00:55:46.620031+00:00"
   },
   "https://www.rush-agency.ru/jobs/": {
     "name": "Rush Agency — вакансии",
@@ -4122,7 +4120,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-06T20:52:57.958445+00:00"
+    "checked_at": "2026-11-07T00:55:46.978649+00:00"
   },
   "https://www.rush-agency.ru/partners/": {
     "name": "Rush Agency — партнёры",
@@ -4306,7 +4304,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-06T20:52:58.280514+00:00"
+    "checked_at": "2026-11-07T00:55:47.319028+00:00"
   },
   "https://www.rush-agency.ru/reviews/": {
     "name": "Rush Agency — отзывы",
@@ -4506,7 +4504,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2026/08/dreamwhite.jpg"
       ]
     },
-    "checked_at": "2026-11-06T20:52:58.581847+00:00"
+    "checked_at": "2026-11-07T00:55:47.638923+00:00"
   },
   "https://www.rush-agency.ru/seo-prodvizhenie/": {
     "name": "Rush Agency — SEO-продвижение",
@@ -4776,7 +4774,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-06T20:52:58.919449+00:00"
+    "checked_at": "2026-11-07T00:55:48.001885+00:00"
   },
   "https://www.rush-agency.ru/prodvizhenie-sajta-za-rubezhom/": {
     "name": "Rush Agency — продвижение сайта за рубежом",
@@ -4987,7 +4985,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-06T20:52:59.271991+00:00"
+    "checked_at": "2026-11-07T00:55:48.363075+00:00"
   },
   "https://www.rush-agency.ru/prodvizhenie-sajta-v-ai/": {
     "name": "Rush Agency — продвижение сайта в AI",
@@ -5204,7 +5202,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-06T20:52:59.592775+00:00"
+    "checked_at": "2026-11-07T00:55:48.690617+00:00"
   },
   "https://www.rush-agency.ru/orm/": {
     "name": "Rush Agency — ORM",
@@ -5576,7 +5574,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2026/10/kak-zashhitit-reputacziyu-biznesa-v-internete-chernyj-pr-negativnye-otzyvy-i-shantazh-serm-orm.mp4"
       ]
     },
-    "checked_at": "2026-11-06T20:52:59.980880+00:00"
+    "checked_at": "2026-11-07T00:55:49.103745+00:00"
   },
   "https://www.it-agency.ru/": {
     "name": "IT-Agency — главная",
@@ -5720,7 +5718,7 @@
         "https://www.it-agency.ru/worths"
       ]
     },
-    "checked_at": "2026-11-06T20:53:01.184411+00:00"
+    "checked_at": "2026-11-07T00:55:50.274502+00:00"
   },
   "https://www.it-agency.ru/projects/": {
     "name": "IT-Agency — проекты",
@@ -6566,7 +6564,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-06T20:53:01.779270+00:00"
+    "checked_at": "2026-11-07T00:55:50.887991+00:00"
   },
   "https://www.it-agency.ru/services/": {
     "name": "IT-Agency — услуги",
@@ -6749,7 +6747,7 @@
         "https://www.it-agency.ru/services/yandex-direct-contextual-advertising"
       ]
     },
-    "checked_at": "2026-11-06T20:53:02.010777+00:00"
+    "checked_at": "2026-11-07T00:55:51.114172+00:00"
   },
   "https://www.it-agency.ru/academy/": {
     "name": "IT-Agency — академия",
@@ -7008,7 +7006,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-06T20:53:02.357287+00:00"
+    "checked_at": "2026-11-07T00:55:51.410433+00:00"
   },
   "https://www.it-agency.ru/career/": {
     "name": "IT-Agency — карьера",
@@ -7119,7 +7117,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-06T20:53:02.631291+00:00"
+    "checked_at": "2026-11-07T00:55:51.677988+00:00"
   },
   "https://www.it-agency.ru/company/": {
     "name": "IT-Agency — компания",
@@ -7217,7 +7215,7 @@
         "https://www.it-agency.ru/worths"
       ]
     },
-    "checked_at": "2026-11-06T20:53:02.812968+00:00"
+    "checked_at": "2026-11-07T00:55:51.859391+00:00"
   },
   "https://www.it-agency.ru/contacts/": {
     "name": "IT-Agency — контакты",
@@ -7305,7 +7303,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-06T20:53:02.991484+00:00"
+    "checked_at": "2026-11-07T00:55:52.045052+00:00"
   },
   "https://ingate.ru/": {
     "name": "Ingate — главная",
@@ -7516,7 +7514,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-06T20:53:07.612305+00:00"
+    "checked_at": "2026-11-07T00:55:55.261220+00:00"
   },
   "https://ingate.ru/uslugi/": {
     "name": "Ingate — услуги",
@@ -7703,7 +7701,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-06T20:53:08.376450+00:00"
+    "checked_at": "2026-11-07T00:55:57.335130+00:00"
   },
   "https://ingate.ru/cases/": {
     "name": "Ingate — кейсы",
@@ -7813,7 +7811,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-06T20:53:09.086985+00:00"
+    "checked_at": "2026-11-07T00:55:58.053114+00:00"
   },
   "https://ingate.ru/company/": {
     "name": "Ingate — компания",
@@ -7909,7 +7907,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-06T20:53:09.797448+00:00"
+    "checked_at": "2026-11-07T00:56:01.133706+00:00"
   },
   "https://ingate.ru/blog/": {
     "name": "Ingate — блог",
@@ -8045,7 +8043,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-06T20:53:13.152306+00:00"
+    "checked_at": "2026-11-07T00:56:05.871674+00:00"
   },
   "https://kokocgroup.ru/": {
     "name": "Kokoc Group — главная",
@@ -8108,7 +8106,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-06T20:53:16.323467+00:00"
+    "checked_at": "2026-11-07T00:56:11.883818+00:00"
   },
   "https://kokocgroup.ru/about/": {
     "name": "Kokoc Group — о компании",
@@ -8155,7 +8153,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-06T20:53:16.605059+00:00"
+    "checked_at": "2026-11-07T00:56:12.171923+00:00"
   },
   "https://kokocgroup.ru/blog": {
     "name": "Kokoc Group — блог",
@@ -8254,7 +8252,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-06T20:53:17.236507+00:00"
+    "checked_at": "2026-11-07T00:56:12.794987+00:00"
   },
   "https://career.kokocgroup.ru/": {
     "name": "Kokoc Group — карьера",
@@ -8329,7 +8327,7 @@
         "https://career.kokocgroup.ru/vacancies?job_type=Развитие и поддержка бизнеса"
       ]
     },
-    "checked_at": "2026-11-06T20:53:18.349088+00:00"
+    "checked_at": "2026-11-07T00:56:13.834193+00:00"
   },
   "https://kokocgroup.ru/contacts/": {
     "name": "Kokoc Group — контакты",
@@ -8374,7 +8372,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-06T20:53:18.568528+00:00"
+    "checked_at": "2026-11-07T00:56:14.052568+00:00"
   },
   "https://realweb.ru/": {
     "name": "Realweb — главная",
@@ -8421,7 +8419,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-06T20:53:19.875703+00:00"
+    "checked_at": "2026-11-07T00:56:15.408389+00:00"
   },
   "https://realweb.ru/case": {
     "name": "Realweb — кейсы",
@@ -8459,7 +8457,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-06T20:53:20.464036+00:00"
+    "checked_at": "2026-11-07T00:56:15.865128+00:00"
   },
   "https://realweb.ru/researches": {
     "name": "Realweb — исследования",
@@ -8497,7 +8495,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-06T20:53:20.886394+00:00"
+    "checked_at": "2026-11-07T00:56:16.384504+00:00"
   },
   "https://realweb.ru/about-us": {
     "name": "Realweb — о компании",
@@ -8535,7 +8533,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-06T20:53:21.421854+00:00"
+    "checked_at": "2026-11-07T00:56:16.958186+00:00"
   },
   "https://realweb.ru/career": {
     "name": "Realweb — карьера",
@@ -8576,7 +8574,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-06T20:53:21.753262+00:00"
+    "checked_at": "2026-11-07T00:56:17.565479+00:00"
   },
   "https://realweb.ru/contacts": {
     "name": "Realweb — контакты",
@@ -8986,6 +8984,6 @@
         "https://hr.ingate.ru/vacancy/current.php?ID=18623"
       ]
     },
-    "checked_at": "2026-11-06T20:53:15.509732+00:00"
+    "checked_at": "2026-11-07T00:56:11.112851+00:00"
   }
 }
