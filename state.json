@@ -268,11 +268,11 @@
         "https://ac-u.ru/vosstanovlenie-sayta-beget"
       ]
     },
-    "checked_at": "2026-11-09T07:56:59.232791+00:00"
+    "checked_at": "2026-11-09T18:45:53.473193+00:00"
   },
   "https://ac-u.ru/seo/": {
     "name": "Акцепт — SEO",
-    "hash": "c7535466192b8cd2471da86a55d7e84c87d983219c374a050b5054ba6704f01b",
+    "hash": "542e3c3770d385be17902fa7ef34bddbff58afa4d6783a679dd8c864ea1ed759",
     "snapshot": {
       "title": "🚀 SEO продвижение сайтов с гарантией в Москве: цена | Заказать SEO раскрутку в ТОП поисковых систем Яндекс и Google",
       "description": "SEO-продвижение сайта с гарантией результата — вывод в ТОП-10 Яндекс и Google с возвратом средств при невыполнении. Комплексная оптимизация, рост позиций и заявок. Работаем с 2004 года. Заказать SEO с гарантией в Санкт-Петербурге и по всей России. Бесплатный аудит и прогноз трафика.",
@@ -333,12 +333,7 @@
         "Как мы к этому подходим",
         "Системная работа с поиском: структура, контент, техника и рост без резких скачков.",
         "Важно: на каждый проект мы подключаем маркетолога.",
-        "Как решаются задачи по SEO и сайту: с нами и без нас",
-        "Медицина и здоровье",
-        "Промышленность и производство",
-        "Строительство и недвижимость",
-        "B2B-услуги",
-        "Образование и сервисы"
+        "Как решаются задачи по SEO и сайту: с нами и без нас"
       ],
       "text_blocks": [
         "Прикладные решения, которые работают",
@@ -552,34 +547,67 @@
         "Стоматологические клиники",
         "Производства оборудования",
         "Юридические компании",
-        "Центры ЭКО и репродуктивные клиники",
-        "Офтальмологические клиники и центры лазерной коррекции зрения",
-        "Клиники пластической хирургии",
-        "Клиники лечения позвоночника, суставов и остеопатии",
-        "Косметологические клиники",
-        "Медицинские товары и препараты",
-        "Реабилитационные центры",
-        "Центры лечения зависимостей",
-        "Промышленность и производство",
-        "Заводы и производства",
-        "Производители оборудования",
-        "Компании по продаже станков и промышленного оборудования",
-        "Промышленные компрессоры и генераторы",
-        "Пищевое оборудование",
-        "Упаковочное оборудование",
-        "Компании по продаже оборудования для ресторанов и магазинов",
-        "Складская техника и логистическое оборудование",
-        "Строительство и недвижимость",
         "Агентства недвижимости",
-        "Застройщики и девелоперы ЖК",
-        "Продажа земельных участков и коттеджных поселков",
-        "Строительство загородных домов, бань и коттеджей",
-        "Студии премиального дизайна интерьеров",
-        "Компании по элитному ремонту квартир",
-        "Бухгалтерские услуги",
+        "Бассейны и СПА-комплексы",
+        "Дата-центры и облака",
+        "Детские центры и сады",
+        "Комплектующие для производства",
+        "Контрактное производство",
+        "Массажные салоны и СПА",
+        "Налоговые споры и защита бизнеса",
+        "Оборудование для ресторанов",
+        "Пекарни и кондитерские",
+        "Пластическая хирургия",
+        "Полимеры и композиты",
+        "Производство упаковки",
+        "Профкосметика для салонов",
+        "Серверное и сетевое оборудование",
+        "Системы безопасности",
+        "Солнечные электростанции",
+        "Строительные компании",
+        "Тендерное сопровождение",
+        "Техобеспечение мероприятий",
+        "Химчистки и прачечные",
+        "Щитовое оборудование",
+        "IT-компании и интеграторы",
+        "Антиквариат и коллекционирование",
+        "Винотеки и алкогольные бутики",
+        "Вывоз мусора и демонтаж",
+        "Детейлинг и автомойки",
+        "Коворкинги и аренда офисов",
+        "Компрессоры и генераторы",
         "Корпоративные подарки",
-        "Юридические компании общей практики",
-        "Образование и сервисы",
+        "Лечение зависимостей",
+        "Лётные и морские школы",
+        "Металлопрокат и металлобазы",
+        "Обучение инвестициям",
+        "Оружейные магазины и тиры",
+        "Охотничьи и рыболовные туры",
+        "Пансионаты и уход за пожилыми",
+        "Пожарная безопасность",
+        "Премиальные часы и украшения",
+        "Производство электроники",
+        "Реабилитационные центры",
+        "Теплицы и агрокомплексы",
+        "Тренажёры и оснащение залов",
+        "Упаковочное оборудование",
+        "Вентиляция и кондиционирование",
+        "Водоочистка и водоподготовка",
+        "Зарубежная недвижимость",
+        "Зоогостиницы и передержка",
+        "Инвестиционный консалтинг",
+        "Коллекционные автомобили",
+        "Международное структурирование",
+        "Негабаритные и опасные грузы",
+        "Отопление и котельные",
+        "Пищевое оборудование",
+        "Позвоночник и остеопатия",
+        "Рекламная продукция и мерч",
+        "Сертификация продукции",
+        "Снижение веса и диетология",
+        "Спортплощадки и корты",
+        "Таможенный брокер и ВЭД",
+        "Финансовый консалтинг",
         "Не нашли свою отрасль? Оставьте заявку — подберём стратегию продвижения под ваш бизнес.",
         "Отзывы наших клиентов",
         "Нестандартный дизайн",
@@ -636,6 +664,7 @@
         "https://ac-u.ru/seo/dizajn-intererov-premium-segmenta",
         "https://ac-u.ru/seo/ehlitnyj-remont-kvartir",
         "https://ac-u.ru/seo/korporativnye-podarki",
+        "https://ac-u.ru/seo/kosmetologiya",
         "https://ac-u.ru/seo/lechenie-pozvonochnika-sustavov-osteopatiya",
         "https://ac-u.ru/seo/lechenie-zavisimostej",
         "https://ac-u.ru/seo/lechenie-zreniya",
@@ -645,19 +674,88 @@
         "https://ac-u.ru/seo/pishchevoe-oborudovanie",
         "https://ac-u.ru/seo/plasticheskaya-hirurgiya",
         "https://ac-u.ru/seo/prodazha-zemelnyh-uchastkov-i-kottedzhnyh-poselkov",
+        "https://ac-u.ru/seo/prodvizhenie-antikvariata-i-kollektsionirovaniya",
+        "https://ac-u.ru/seo/prodvizhenie-apteki",
+        "https://ac-u.ru/seo/prodvizhenie-arendy-spetstekhniki",
+        "https://ac-u.ru/seo/prodvizhenie-avtosalona",
+        "https://ac-u.ru/seo/prodvizhenie-avtoservisa",
+        "https://ac-u.ru/seo/prodvizhenie-bani-i-sauny",
+        "https://ac-u.ru/seo/prodvizhenie-biznes-obrazovaniya",
         "https://ac-u.ru/seo/prodvizhenie-bukhgalterskogo-sayta",
+        "https://ac-u.ru/seo/prodvizhenie-bureniya-skvazhin",
+        "https://ac-u.ru/seo/prodvizhenie-data-tsentra",
+        "https://ac-u.ru/seo/prodvizhenie-deteylinga",
+        "https://ac-u.ru/seo/prodvizhenie-detskogo-tsentra",
+        "https://ac-u.ru/seo/prodvizhenie-dietologa-i-programm-snizheniya-vesa",
         "https://ac-u.ru/seo/prodvizhenie-dizaynerskikh-byuro",
         "https://ac-u.ru/seo/prodvizhenie-dostavki-edy",
+        "https://ac-u.ru/seo/prodvizhenie-evakuatora",
+        "https://ac-u.ru/seo/prodvizhenie-event-agentstva",
+        "https://ac-u.ru/seo/prodvizhenie-finansovogo-konsaltinga",
+        "https://ac-u.ru/seo/prodvizhenie-fitnes-kluba",
+        "https://ac-u.ru/seo/prodvizhenie-franshizy",
+        "https://ac-u.ru/seo/prodvizhenie-gostinitsy",
+        "https://ac-u.ru/seo/prodvizhenie-gruming-salona",
         "https://ac-u.ru/seo/prodvizhenie-internet-magazina",
+        "https://ac-u.ru/seo/prodvizhenie-investitsionnogo-konsaltinga",
+        "https://ac-u.ru/seo/prodvizhenie-it-integratora",
+        "https://ac-u.ru/seo/prodvizhenie-kaminov-i-barbekyu",
+        "https://ac-u.ru/seo/prodvizhenie-keyteringa",
+        "https://ac-u.ru/seo/prodvizhenie-khimchistki",
         "https://ac-u.ru/seo/prodvizhenie-klinik-eko",
-        "https://ac-u.ru/seo/prodvizhenie-kosmetologicheskikh-klinik",
+        "https://ac-u.ru/seo/prodvizhenie-kollektsionnyh-avtomobiley",
+        "https://ac-u.ru/seo/prodvizhenie-kompanii-po-kiberbezopasnosti",
+        "https://ac-u.ru/seo/prodvizhenie-konnogo-kluba",
+        "https://ac-u.ru/seo/prodvizhenie-kontraktnogo-proizvodstva",
+        "https://ac-u.ru/seo/prodvizhenie-kontraktnogo-proizvodstva-elektroniki",
+        "https://ac-u.ru/seo/prodvizhenie-kovorkinga",
+        "https://ac-u.ru/seo/prodvizhenie-lestnits",
+        "https://ac-u.ru/seo/prodvizhenie-letnoy-i-morskoy-shkoly",
+        "https://ac-u.ru/seo/prodvizhenie-lizingovoy-kompanii",
         "https://ac-u.ru/seo/prodvizhenie-magazinov-bytovoy-tekhniki",
+        "https://ac-u.ru/seo/prodvizhenie-maloy-aviatsii",
+        "https://ac-u.ru/seo/prodvizhenie-massazhnogo-salona",
+        "https://ac-u.ru/seo/prodvizhenie-mebeli-na-zakaz",
         "https://ac-u.ru/seo/prodvizhenie-meditsinskikh-saytov",
+        "https://ac-u.ru/seo/prodvizhenie-meditsinskogo-turizma",
         "https://ac-u.ru/seo/prodvizhenie-medklinik",
+        "https://ac-u.ru/seo/prodvizhenie-metalloprokata",
+        "https://ac-u.ru/seo/prodvizhenie-mezhdunarodnogo-nalogovogo-konsaltinga",
+        "https://ac-u.ru/seo/prodvizhenie-migratsionnyh-uslug",
+        "https://ac-u.ru/seo/prodvizhenie-montazha-otopleniya-i-kotelnyh",
+        "https://ac-u.ru/seo/prodvizhenie-nalogovogo-yurista",
+        "https://ac-u.ru/seo/prodvizhenie-natyazhnyh-potolkov",
+        "https://ac-u.ru/seo/prodvizhenie-obucheniya-investitsiyam",
+        "https://ac-u.ru/seo/prodvizhenie-ohotnichih-i-rybolovnyh-turov",
+        "https://ac-u.ru/seo/prodvizhenie-okon",
         "https://ac-u.ru/seo/prodvizhenie-onlayn-shkol-i-obrazovatelnykh-tsentrov",
+        "https://ac-u.ru/seo/prodvizhenie-oruzheynogo-magazina",
+        "https://ac-u.ru/seo/prodvizhenie-otsenochnoy-kompanii",
+        "https://ac-u.ru/seo/prodvizhenie-pansionata-dlya-pozhilyh",
+        "https://ac-u.ru/seo/prodvizhenie-patentnogo-byuro",
+        "https://ac-u.ru/seo/prodvizhenie-pekarni-i-konditerskoy",
+        "https://ac-u.ru/seo/prodvizhenie-perevozki-negabaritnyh-gruzov",
+        "https://ac-u.ru/seo/prodvizhenie-perevozok-i-pereezdov",
+        "https://ac-u.ru/seo/prodvizhenie-postavshchika-himicheskogo-syrya",
+        "https://ac-u.ru/seo/prodvizhenie-postavshchika-komplektuyushchih",
+        "https://ac-u.ru/seo/prodvizhenie-postavshchika-polimerov-i-kompozitov",
+        "https://ac-u.ru/seo/prodvizhenie-postavshchika-professionalnoy-kosmetiki",
+        "https://ac-u.ru/seo/prodvizhenie-postavshchika-servernogo-oborudovaniya",
+        "https://ac-u.ru/seo/prodvizhenie-postavshchika-trenazherov",
+        "https://ac-u.ru/seo/prodvizhenie-pozharnoy-bezopasnosti",
+        "https://ac-u.ru/seo/prodvizhenie-premialnyh-chasov-i-yuvelirnyh-izdeliy",
+        "https://ac-u.ru/seo/prodvizhenie-prodazhi-i-arendy-yaht",
+        "https://ac-u.ru/seo/prodvizhenie-prodazhi-selhoztehniki",
         "https://ac-u.ru/seo/prodvizhenie-proizvoditeley-oborudovaniya",
         "https://ac-u.ru/seo/prodvizhenie-proizvodstva",
+        "https://ac-u.ru/seo/prodvizhenie-proizvodstva-elektroshchitovogo-oborudovaniya",
+        "https://ac-u.ru/seo/prodvizhenie-proizvodstva-reklamnoy-produktsii",
+        "https://ac-u.ru/seo/prodvizhenie-proizvodstva-upakovki",
+        "https://ac-u.ru/seo/prodvizhenie-prokata-avtomobiley",
         "https://ac-u.ru/seo/prodvizhenie-promyshlennikov",
+        "https://ac-u.ru/seo/prodvizhenie-relokatsii-biznesa",
+        "https://ac-u.ru/seo/prodvizhenie-restorana",
+        "https://ac-u.ru/seo/prodvizhenie-salona-krasoty",
         "https://ac-u.ru/seo/prodvizhenie-sayta-gruzoperevozok",
         "https://ac-u.ru/seo/prodvizhenie-sayta-izdatelstva",
         "https://ac-u.ru/seo/prodvizhenie-sayta-kadrovogo-agentstva",
@@ -665,10 +763,42 @@
         "https://ac-u.ru/seo/prodvizhenie-sayta-kosmetologii",
         "https://ac-u.ru/seo/prodvizhenie-sayta-strakhovoy-kompanii",
         "https://ac-u.ru/seo/prodvizhenie-saytov-med-preparatov",
+        "https://ac-u.ru/seo/prodvizhenie-septikov-i-ochistnyh-sooruzheniy",
+        "https://ac-u.ru/seo/prodvizhenie-servisnogo-tsentra",
+        "https://ac-u.ru/seo/prodvizhenie-shinomontazha",
+        "https://ac-u.ru/seo/prodvizhenie-sistem-bezopasnosti",
+        "https://ac-u.ru/seo/prodvizhenie-solnechnyh-elektrostantsiy",
+        "https://ac-u.ru/seo/prodvizhenie-spetsodezhdy",
         "https://ac-u.ru/seo/prodvizhenie-stomatologicheskikh-klinik",
         "https://ac-u.ru/seo/prodvizhenie-stroitelnoy-kompanii",
+        "https://ac-u.ru/seo/prodvizhenie-stroitelstva-basseynov",
+        "https://ac-u.ru/seo/prodvizhenie-stroitelstva-sportivnyh-ploshchadok",
+        "https://ac-u.ru/seo/prodvizhenie-taksi",
+        "https://ac-u.ru/seo/prodvizhenie-tamozhennogo-brokera",
+        "https://ac-u.ru/seo/prodvizhenie-tehnicheskogo-obespecheniya-meropriyatiy",
+        "https://ac-u.ru/seo/prodvizhenie-tendernogo-soprovozhdeniya",
+        "https://ac-u.ru/seo/prodvizhenie-teplits-i-agrokompleksov",
+        "https://ac-u.ru/seo/prodvizhenie-teplovyh-nasosov",
+        "https://ac-u.ru/seo/prodvizhenie-tsentra-sertifikatsii",
+        "https://ac-u.ru/seo/prodvizhenie-tsvetochnogo-magazina",
+        "https://ac-u.ru/seo/prodvizhenie-turagentstva",
+        "https://ac-u.ru/seo/prodvizhenie-uchebnogo-tsentra-po-ohrane-truda",
+        "https://ac-u.ru/seo/prodvizhenie-umnogo-doma",
+        "https://ac-u.ru/seo/prodvizhenie-uslug-litsenzirovaniya",
+        "https://ac-u.ru/seo/prodvizhenie-ventilyatsii-i-konditsionirovaniya",
+        "https://ac-u.ru/seo/prodvizhenie-veterinarnoy-kliniki",
+        "https://ac-u.ru/seo/prodvizhenie-vinoteki-i-alkogolnogo-butika",
+        "https://ac-u.ru/seo/prodvizhenie-vodoochistki-i-vodopodgotovki",
+        "https://ac-u.ru/seo/prodvizhenie-vorot-i-zaborov",
+        "https://ac-u.ru/seo/prodvizhenie-vykupa-avto",
+        "https://ac-u.ru/seo/prodvizhenie-vyvoza-musora",
+        "https://ac-u.ru/seo/prodvizhenie-yazykovoy-shkoly",
         "https://ac-u.ru/seo/prodvizhenie-yuridicheskikh-kompaniy",
         "https://ac-u.ru/seo/prodvizhenie-yuridicheskikh-saytov",
+        "https://ac-u.ru/seo/prodvizhenie-yuristov-po-bankrotstvu",
+        "https://ac-u.ru/seo/prodvizhenie-zarubezhnoy-nedvizhimosti",
+        "https://ac-u.ru/seo/prodvizhenie-zoogostinitsy",
+        "https://ac-u.ru/seo/prodvizhenie-zoomagazina",
         "https://ac-u.ru/seo/promyshlennye-kompressory-i-generatory",
         "https://ac-u.ru/seo/reabilitacionnye-centry",
         "https://ac-u.ru/seo/seo-agentstv-nedvizhimosti",
@@ -691,7 +821,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-11-09T07:56:59.576710+00:00"
+    "checked_at": "2026-11-09T18:45:53.877345+00:00"
   },
   "https://ac-u.ru/sozdanie-saitov/": {
     "name": "Акцепт — создание сайтов",
@@ -939,7 +1069,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-11-09T07:56:59.774975+00:00"
+    "checked_at": "2026-11-09T18:45:54.117537+00:00"
   },
   "https://nan.ru/": {
     "name": "NAN — главная",
@@ -1070,7 +1200,7 @@
         "https://nan.ru/web-support/tehpodderzhka.html"
       ]
     },
-    "checked_at": "2026-11-09T07:57:00.843094+00:00"
+    "checked_at": "2026-11-09T18:45:55.854176+00:00"
   },
   "https://artena.ru/": {
     "name": "Artena — главная",
@@ -1086,7 +1216,7 @@
         "https://artena.ru/protect971/index.php"
       ]
     },
-    "checked_at": "2026-11-09T07:57:03.154660+00:00"
+    "checked_at": "2026-11-09T18:45:58.653676+00:00"
   },
   "https://vmeste.marketing/": {
     "name": "Vmeste Marketing — главная",
@@ -1191,7 +1321,7 @@
         "https://vmeste.marketing/privacy"
       ]
     },
-    "checked_at": "2026-11-09T07:57:04.495415+00:00"
+    "checked_at": "2026-11-09T18:46:00.303127+00:00"
   },
   "https://nevsky.agency/": {
     "name": "Nevsky Agency — главная",
@@ -1528,7 +1658,7 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-11-09T07:57:05.365707+00:00"
+    "checked_at": "2026-11-09T18:46:01.571641+00:00"
   },
   "https://nevsky.agency/yandex-direct": {
     "name": "Nevsky Agency — Яндекс Директ",
@@ -1836,7 +1966,7 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-11-09T07:57:05.566547+00:00"
+    "checked_at": "2026-11-09T18:46:01.788336+00:00"
   },
   "https://nevsky.agency/seo": {
     "name": "Nevsky Agency — SEO",
@@ -2167,11 +2297,11 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-11-09T07:57:05.813818+00:00"
+    "checked_at": "2026-11-09T18:46:02.052895+00:00"
   },
   "https://www.advertpro.ru/": {
     "name": "AdvertPro — главная",
-    "hash": "4ec866bff8d0d26c3146dbbadb1123ff61325fd4ef64ca560a0e6fc7225dba17",
+    "hash": "e3bb53eb0df609ccb545eb01bca2e8ecee9dabc48e92821f60ed5a8ecba940bf",
     "snapshot": {
       "title": "Маркетинговое агентство в Москве - digital-агентство полного цикла, услуги продвижения и создания сайтов | AdvertPro",
       "description": "Разработка и продвижение сайтов под ключ от AdvertPro. Комплексный интернет-маркетинг: SEO, контекстная реклама, создание сайтов, SERM и техническая поддержка. Digital-агентство полного цикла с 19-летним опытом помогает получать заявки из поиска, рекламы и других интернет-каналов.",
@@ -2323,6 +2453,12 @@
         "Технические доработки на сайте",
         "Сбор видимости в нейроответах",
         "Реализуем задачи для бизнеса разных отраслей",
+        "Продвижение в нейроответах оконной компании",
+        "Увеличили присутствие оконной компании в нейроответах в 1,5 раза за счёт комплексной работы: SEO-оптимизации сайта, SERM, продвижения коммерческих страниц и экспертного контента под требования нейросетей.",
+        "Цель Увеличить присутствие оконной компании в нейроответах",
+        "Увеличить присутствие оконной компании в нейроответах",
+        "Результат Рост упоминаний в нейроответах x1,5",
+        "Рост упоминаний в нейроответах x1,5",
         "SEO продвижение сайта вейп-продукции",
         "Рост трафика из поисковых систем с 0 до 48 000 визитов",
         "Цель Привлечь больше трафика на сайт",
@@ -2362,12 +2498,6 @@
         "Рост видимости в ТОП 10 в Яндексе с 45 до 505 запросов",
         "Результат Рост видимости с 45 до 505 запросов",
         "Рост видимости с 45 до 505 запросов",
-        "Компания «Сваи Пересвет»",
-        "Рост лидов из поисковых систем с 0 до 25 заявок",
-        "Цель Привлечь больше лидов на сайт",
-        "Привлечь больше лидов на сайт",
-        "Результат Рост лидов с 0 до 25 заявок",
-        "Рост лидов с 0 до 25 заявок",
         "Больше проектов и решений",
         "Получить кейсы из моей ниши",
         "Надежный партнер, а не подрядчик",
@@ -2575,7 +2705,7 @@
         "https://www.advertpro.ru/uslugi/upravlenie-reputaciey/prodvizhenie-na-kartah"
       ]
     },
-    "checked_at": "2026-11-09T07:57:07.569342+00:00"
+    "checked_at": "2026-11-09T18:46:04.893843+00:00"
   },
   "https://www.rush-agency.ru/": {
     "name": "Rush Agency — главная",
@@ -2833,7 +2963,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2023/05/dogovor-na-seo-konsalting-dlya-sajta-2023_rush-agency.pdf"
       ]
     },
-    "checked_at": "2026-11-09T07:57:08.663628+00:00"
+    "checked_at": "2026-11-09T18:46:06.348540+00:00"
   },
   "https://www.rush-agency.ru/cases/": {
     "name": "Rush Agency — кейсы",
@@ -3018,7 +3148,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-09T07:57:08.964739+00:00"
+    "checked_at": "2026-11-09T18:46:06.764374+00:00"
   },
   "https://www.rush-agency.ru/about/": {
     "name": "Rush Agency — о компании",
@@ -3535,7 +3665,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2026/07/pochemu-vklady-i-investiczii-ne-sdelayut-tebya-bogatym-anar-babaev-na-pensiyu-v-35.mp4"
       ]
     },
-    "checked_at": "2026-11-09T07:57:09.303066+00:00"
+    "checked_at": "2026-11-09T18:46:07.150762+00:00"
   },
   "https://www.rush-agency.ru/blog/": {
     "name": "Rush Agency — блог",
@@ -3778,7 +3908,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-09T07:57:09.683185+00:00"
+    "checked_at": "2026-11-09T18:46:07.551250+00:00"
   },
   "https://www.rush-agency.ru/contacts/": {
     "name": "Rush Agency — контакты",
@@ -3951,7 +4081,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-09T07:57:09.963339+00:00"
+    "checked_at": "2026-11-09T18:46:07.892177+00:00"
   },
   "https://www.rush-agency.ru/jobs/": {
     "name": "Rush Agency — вакансии",
@@ -4121,7 +4251,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-09T07:57:10.525176+00:00"
+    "checked_at": "2026-11-09T18:46:08.292672+00:00"
   },
   "https://www.rush-agency.ru/partners/": {
     "name": "Rush Agency — партнёры",
@@ -4305,7 +4435,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-09T07:57:10.865849+00:00"
+    "checked_at": "2026-11-09T18:46:08.716515+00:00"
   },
   "https://www.rush-agency.ru/reviews/": {
     "name": "Rush Agency — отзывы",
@@ -4505,7 +4635,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2026/08/dreamwhite.jpg"
       ]
     },
-    "checked_at": "2026-11-09T07:57:11.155246+00:00"
+    "checked_at": "2026-11-09T18:46:09.119800+00:00"
   },
   "https://www.rush-agency.ru/seo-prodvizhenie/": {
     "name": "Rush Agency — SEO-продвижение",
@@ -4775,7 +4905,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-09T07:57:12.593332+00:00"
+    "checked_at": "2026-11-09T18:46:09.557545+00:00"
   },
   "https://www.rush-agency.ru/prodvizhenie-sajta-za-rubezhom/": {
     "name": "Rush Agency — продвижение сайта за рубежом",
@@ -4986,7 +5116,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-09T07:57:13.078573+00:00"
+    "checked_at": "2026-11-09T18:46:10.076379+00:00"
   },
   "https://www.rush-agency.ru/prodvizhenie-sajta-v-ai/": {
     "name": "Rush Agency — продвижение сайта в AI",
@@ -5210,7 +5340,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-09T07:57:13.388109+00:00"
+    "checked_at": "2026-11-09T18:46:10.490864+00:00"
   },
   "https://www.rush-agency.ru/orm/": {
     "name": "Rush Agency — ORM",
@@ -5582,7 +5712,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2026/10/kak-zashhitit-reputacziyu-biznesa-v-internete-chernyj-pr-negativnye-otzyvy-i-shantazh-serm-orm.mp4"
       ]
     },
-    "checked_at": "2026-11-09T07:57:13.787562+00:00"
+    "checked_at": "2026-11-09T18:46:10.949162+00:00"
   },
   "https://www.it-agency.ru/": {
     "name": "IT-Agency — главная",
@@ -5726,7 +5856,7 @@
         "https://www.it-agency.ru/worths"
       ]
     },
-    "checked_at": "2026-11-09T07:57:14.824278+00:00"
+    "checked_at": "2026-11-09T18:46:12.338047+00:00"
   },
   "https://www.it-agency.ru/projects/": {
     "name": "IT-Agency — проекты",
@@ -6572,7 +6702,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-09T07:57:15.377196+00:00"
+    "checked_at": "2026-11-09T18:46:12.966648+00:00"
   },
   "https://www.it-agency.ru/services/": {
     "name": "IT-Agency — услуги",
@@ -6755,7 +6885,7 @@
         "https://www.it-agency.ru/services/yandex-direct-contextual-advertising"
       ]
     },
-    "checked_at": "2026-11-09T07:57:15.591109+00:00"
+    "checked_at": "2026-11-09T18:46:13.224753+00:00"
   },
   "https://www.it-agency.ru/academy/": {
     "name": "IT-Agency — академия",
@@ -7014,7 +7144,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-09T07:57:15.867299+00:00"
+    "checked_at": "2026-11-09T18:46:13.546312+00:00"
   },
   "https://www.it-agency.ru/career/": {
     "name": "IT-Agency — карьера",
@@ -7125,7 +7255,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-09T07:57:16.141493+00:00"
+    "checked_at": "2026-11-09T18:46:13.856221+00:00"
   },
   "https://www.it-agency.ru/company/": {
     "name": "IT-Agency — компания",
@@ -7223,7 +7353,7 @@
         "https://www.it-agency.ru/worths"
       ]
     },
-    "checked_at": "2026-11-09T07:57:16.312486+00:00"
+    "checked_at": "2026-11-09T18:46:14.076642+00:00"
   },
   "https://www.it-agency.ru/contacts/": {
     "name": "IT-Agency — контакты",
@@ -7311,11 +7441,11 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-09T07:57:16.471697+00:00"
+    "checked_at": "2026-11-09T18:46:14.287132+00:00"
   },
   "https://ingate.ru/": {
     "name": "Ingate — главная",
-    "hash": "8fdd7a2910ebae1382e2fbdaebc0995a91977b93d8b02fafb85b36cf7fada408",
+    "hash": "1769e230cdc236ee6beaad0ca7749ffd3a2316dcb1ff9f79ce22477ac02c2c6b",
     "snapshot": {
       "title": "Ingate Group: продвижение сайтов, маркетинг и performance-подход усиленные искусственным интеллектом",
       "description": "В группу компаний Ingate Group входят маркетинговые агентства и SaaS-сервисы, уже использующие AI в своих процессах и продуктах. Продвижение и раскрутка сайтов, социальных сетей и других источников трафика и продаж.",
@@ -7441,8 +7571,8 @@
         "https://ingate.ru/blog/?tag=seo",
         "https://ingate.ru/blog/?tag=serm",
         "https://ingate.ru/blog/?tag=smm",
+        "https://ingate.ru/blog/kak-rabotat-s-negativnymi-otzyvami-klientov-i-vystroit-protsess-v-kompanii",
         "https://ingate.ru/blog/uvidel-reklamu-v-marte-kupil-v-sentyabre-ili-kak-agrobrendu-ne-poteryat-klienta-po-doroge",
-        "https://ingate.ru/blog/yandeks-leg-reklama-krutitsya",
         "https://ingate.ru/blog/zachem-biznesu-serm-i-kak-otsenit-ego-vklad-v-prodazhi",
         "https://ingate.ru/books",
         "https://ingate.ru/calendar",
@@ -7522,11 +7652,11 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-09T07:57:19.619312+00:00"
+    "checked_at": "2026-11-09T18:46:16.889010+00:00"
   },
   "https://ingate.ru/uslugi/": {
     "name": "Ingate — услуги",
-    "hash": "1fdeea7e0868363709766f1993c64bcc88334b924e5e556db2d66d8470a4556d",
+    "hash": "83099a42553125a390bbb670e65a0b99936c9c7cb7349ec2c3c5d592216e828d",
     "snapshot": {
       "title": "Услуги по продвижению бизнеса в интернете: цены и кейсы - заказать в Ingate Group",
       "description": "Комплексные услуги продвижения бизнеса в интернете: SEO, SMM, PPC, AI‑решения и аналитика. Кейсы и расчёт стоимости. Закажите в Ingate Group. +7 (495) 151-20-68",
@@ -7631,7 +7761,7 @@
         "https://ingate.ru/blog/?tag=serm",
         "https://ingate.ru/blog/?tag=smm",
         "https://ingate.ru/blog/?tag=tech",
-        "https://ingate.ru/blog/uvidel-reklamu-v-marte-kupil-v-sentyabre-ili-kak-agrobrendu-ne-poteryat-klienta-po-doroge",
+        "https://ingate.ru/blog/kak-rabotat-s-negativnymi-otzyvami-klientov-i-vystroit-protsess-v-kompanii",
         "https://ingate.ru/blog/zachem-biznesu-serm-i-kak-otsenit-ego-vklad-v-prodazhi",
         "https://ingate.ru/books",
         "https://ingate.ru/calendar",
@@ -7709,7 +7839,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-09T07:57:20.430372+00:00"
+    "checked_at": "2026-11-09T18:46:18.550228+00:00"
   },
   "https://ingate.ru/cases/": {
     "name": "Ingate — кейсы",
@@ -7819,7 +7949,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-09T07:57:21.169711+00:00"
+    "checked_at": "2026-11-09T18:46:19.244208+00:00"
   },
   "https://ingate.ru/company/": {
     "name": "Ingate — компания",
@@ -7915,11 +8045,11 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-09T07:57:21.913694+00:00"
+    "checked_at": "2026-11-09T18:46:20.599547+00:00"
   },
   "https://ingate.ru/blog/": {
     "name": "Ingate — блог",
-    "hash": "9611a24fa0259af14d7d38e99c56d84157f531f12795f1e0b5167a53cc740b5c",
+    "hash": "ad11ab7a0744e5f03840a66d4e921d6ae1135601f24484d0bcc60263b1285c48",
     "snapshot": {
       "title": "Блог Ingate: SEO, медийная реклама, интернет-маркетинг",
       "description": "Экспертный блог Ingate Group: публикуем статьи, полезные материалы и кейсы по разным направлениям digital",
@@ -7973,11 +8103,11 @@
         "https://ingate.ru/blog/analytics",
         "https://ingate.ru/blog/brendovaya-slepota-pochemu-neyroseti-vybirayut-za-vashego-klienta-i-kak-popast-v-ikh-otvet",
         "https://ingate.ru/blog/kak-prodvigat-sayt-po-poziciyam",
+        "https://ingate.ru/blog/kak-rabotat-s-negativnymi-otzyvami-klientov-i-vystroit-protsess-v-kompanii",
         "https://ingate.ru/blog/kak-rasschitat-kpi-dlya-biznesa",
         "https://ingate.ru/blog/kpi-v-marketinge",
         "https://ingate.ru/blog/seo",
         "https://ingate.ru/blog/smm",
-        "https://ingate.ru/blog/sotsmedia-v-2026-godu-trend-ukhoda-ot-okhvatov-k-svoim-lyudyam",
         "https://ingate.ru/blog/uvidel-reklamu-v-marte-kupil-v-sentyabre-ili-kak-agrobrendu-ne-poteryat-klienta-po-doroge",
         "https://ingate.ru/blog/yandeks-leg-reklama-krutitsya",
         "https://ingate.ru/blog/zachem-biznesu-serm-i-kak-otsenit-ego-vklad-v-prodazhi",
@@ -8051,7 +8181,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-09T07:57:25.189293+00:00"
+    "checked_at": "2026-11-09T18:46:23.098453+00:00"
   },
   "https://kokocgroup.ru/": {
     "name": "Kokoc Group — главная",
@@ -8114,7 +8244,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-09T07:57:27.103363+00:00"
+    "checked_at": "2026-11-09T18:46:27.405802+00:00"
   },
   "https://kokocgroup.ru/about/": {
     "name": "Kokoc Group — о компании",
@@ -8161,7 +8291,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-09T07:57:27.386412+00:00"
+    "checked_at": "2026-11-09T18:46:27.685005+00:00"
   },
   "https://kokocgroup.ru/blog": {
     "name": "Kokoc Group — блог",
@@ -8260,7 +8390,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-09T07:57:28.161176+00:00"
+    "checked_at": "2026-11-09T18:46:28.318182+00:00"
   },
   "https://career.kokocgroup.ru/": {
     "name": "Kokoc Group — карьера",
@@ -8335,7 +8465,7 @@
         "https://career.kokocgroup.ru/vacancies?job_type=Развитие и поддержка бизнеса"
       ]
     },
-    "checked_at": "2026-11-09T07:57:29.228959+00:00"
+    "checked_at": "2026-11-09T18:46:29.576481+00:00"
   },
   "https://kokocgroup.ru/contacts/": {
     "name": "Kokoc Group — контакты",
@@ -8380,7 +8510,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-09T07:57:29.413278+00:00"
+    "checked_at": "2026-11-09T18:46:29.808562+00:00"
   },
   "https://realweb.ru/": {
     "name": "Realweb — главная",
@@ -8427,7 +8557,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-09T07:57:30.523788+00:00"
+    "checked_at": "2026-11-09T18:46:31.308027+00:00"
   },
   "https://realweb.ru/case": {
     "name": "Realweb — кейсы",
@@ -8465,7 +8595,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-09T07:57:30.934544+00:00"
+    "checked_at": "2026-11-09T18:46:31.848353+00:00"
   },
   "https://realweb.ru/researches": {
     "name": "Realweb — исследования",
@@ -8503,7 +8633,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-09T07:57:31.462431+00:00"
+    "checked_at": "2026-11-09T18:46:32.417240+00:00"
   },
   "https://realweb.ru/about-us": {
     "name": "Realweb — о компании",
@@ -8541,7 +8671,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-09T07:57:31.992427+00:00"
+    "checked_at": "2026-11-09T18:46:32.844197+00:00"
   },
   "https://realweb.ru/career": {
     "name": "Realweb — карьера",
@@ -8582,7 +8712,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-09T07:57:32.567333+00:00"
+    "checked_at": "2026-11-09T18:46:33.223883+00:00"
   },
   "https://realweb.ru/contacts": {
     "name": "Realweb — контакты",
@@ -8620,7 +8750,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-09T07:57:32.780812+00:00"
+    "checked_at": "2026-11-09T18:46:33.488647+00:00"
   },
   "https://hr.ingate.ru/": {
     "name": "Ingate — карьера",
@@ -8992,6 +9122,6 @@
         "https://hr.ingate.ru/vacancy/current.php?ID=18623"
       ]
     },
-    "checked_at": "2026-11-09T00:53:08.455814+00:00"
+    "checked_at": "2026-11-09T18:46:26.504662+00:00"
   }
 }
