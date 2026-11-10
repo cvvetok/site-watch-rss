@@ -1,19 +1,244 @@
 {
   "https://www.web-canape.ru/": {
-    "name": "WebCanape",
-    "hash": "2f434642e2bc2992b55180a843d6df0d0a0213547e1bad1353b56e761ecd36b9",
+    "name": "WebCanape — главная",
+    "hash": "a006ea3ae96e70553fd3ec4c0bc822f671aa054062fa168d85742640c8f598bc",
     "snapshot": {
-      "title": "",
-      "description": "",
-      "h1": [],
+      "title": "Создание и продвижение сайтов в Москве: заказать создание сайта под ключ – веб-студия WebCanape",
+      "description": "Создание и продвижение сайтов под ключ любой сложности в Москве для малого и среднего бизнеса. В портфолио свыше 3000 разработанных сайтов. WebCanape — digital-агентство с понятными гарантиями.",
+      "h1": [
+        "Разработка и продвижение сайтов с гарантией результата"
+      ],
       "h2": [
-        "JavaScript отключен в вашем браузере. Пожалуйста, включите JavaScript, чтобы продолжить."
+        "WebCanape — digital-агентство с понятными гарантиями",
+        "Гарантируем качество услуг и клиентского сервиса",
+        "Услуги по разработке и продвижению, которые выбирают наши клиенты",
+        "Наши достижения",
+        "Команда WebCanape",
+        "История успеха наших клиентов",
+        "Нужно обсудить проект и познакомиться?",
+        "Отдел продаж",
+        "Оставьте заявку",
+        "С нами в команде эксперт Яндекса",
+        "Почему нам доверяют разработку и продвижение сайтов",
+        "Нам доверяют"
       ],
       "h3": [],
-      "text_blocks": [],
-      "links": []
+      "text_blocks": [
+        "Сайты Разработка сайтов Корпоративные сайты Сайты с каталогом Интернет-магазины Landing page Сайты-визитки Готовые сайты Сайты для органов власти Системы управления Canape CMS 1C Битрикс Tilda Wordpress Другие услуги Проектирование сайта Техническое задание Фирменный стиль Портфолио Корпоративные сайты Landing page Интернет-магазины Сайты-визитки Сайты с каталогом Сайты на Tilda Кейсы",
+        "Продвижение SEO-продвижение GEO-продвижение (в нейросетях) По России По Москве По регионам По трафику По лидам В Яндексе В маркетплейсах Сферы бизнеса Интернет-магазины Строительство Промышленность Стройматериалы Отели, гостиницы Образование Мебель Дополнительно Кейсы по SEO Digital-стратегия SEO-аудит Юзабилити аудит Базовая SEO-оптимизация Маркетинговый аудит Контент-маркетинг Сквозная аналитика",
+        "Реклама Рекламные каналы Яндекс Директ Промостраницы Алиса AI Телеграм Вконтакте Авито Google Ads Типы рекламы Контекстная Таргетированная Медийная Гео-реклама Ретаргетинг Видео реклама Дополнительно Кейсы по рекламе Аудит контекстной рекламы Аудит таргетированной рекламы Аудит рекламы конкурентов Digital-стратегия Цены на услуги",
+        "Поддержка Техподдержка Регламент работы Тарифы техподдержки Наполнение сайтов Дизайн и верстка Смена CMS Программирование Цены на доработки Внедрение и интеграция ЕСИА Поддержка Битрикс Доработка сайта Перенос на Битрикс Синхронизация с 1С Обновление версии Смена хостинга Аудит сайта Лечение вирусов Композитный сайт Хостинг Тарифы хостинга SSL-сертификаты Смена хостинга Почему WebCanape Все цены",
+        "Нейросети GEO-продвижение ChatGPT Алиса AI Perplexity Grok DeepSeek Claude Copilot Qwen Gemini Реклама в нейросетях Реклама в Алиса AI",
+        "Разработка и продвижение сайтов с гарантией результата",
+        "Разрабатываем сайты для решения бизнес-задач с ИИ-автоматизацией. За 18 лет нами создано 3500+ сайтов.",
+        "Возвращаем деньги если нарушим сроки.",
+        "Продвигаем сайты в поисковых системах и нейросетях. 1000+ успешных проектов.",
+        "Если не будет результатов — заплатим вам за невыполненные обязательства.",
+        "Мы партнер по рекламе Яндекса с 2012 года. Запускаем интернет-рекламу, вовлекаем клиентов в воронку продаж.",
+        "Фиксируем гарантии и KPI в договоре.",
+        "WebCanape — digital-агентство с понятными гарантиями",
+        "Гарантируем качество услуг и клиентского сервиса",
+        "Ⅰ место в номинации «Сайт вендора, платформы, сервиса»",
+        "Ⅰ место в номинации «Городской портал для предпринимателей»",
+        "Ⅰ место в номинации «Лучший интернет-проект»",
+        "Ⅰ место в номинации «Сайт конференции, мероприятия»",
+        "Услуги по разработке и продвижению, которые выбирают наши клиенты",
+        "Не весь маркетинг работает одинаково. Выводя бизнес в онлайн с разработанной стратегией, вы будете представлять желаемое, как этого достичь и когда ждать результатов.",
+        "Команда WebCanape изучит ваш продукт, конкурентов и спрос, полностью погрузится в бизнес-процессы и спрогнозирует сроки достижения целей, рассчитает бюджеты, распишет шаги, которые нужно предпринять.",
+        "Вы получите пошаговое руководство по продвижению вашего бренда в сети, которое реализуете на практике.",
+        "Чтобы сделать сайт, закрывающий все потребности бизнеса, мы проводим маркетинговую проработку: исследуем рынок, ЦА, формируем техническое задание.",
+        "Делаем лендинги, корпоративные сайты и интернет-магазины. При разработке учитываем требования поисковиков, чтобы вывести сайт в ТОП.",
+        "После завершения разработки сайта мы продолжаем его развивать: делаем при необходимости доработки, следим за контентом. Внедряем сквозную аналитику и помогаем оптимизировать ваши бизнес-процессы.",
+        "У нас комплексный подход. Использовать что-то одно и ждать поток клиентов — уже не работает. Конкуренция растет, у потребителя всё больше выбор и нужно действовать со всех сторон.",
+        "Работаем со всем поисковом пространством, чтобы занять больше строк на первой странице выдачи. Оптимизируем сайт для поисковых систем, сервисов Яндекс и Google, агрегаторов. Над этим работает команда: аккаунт-менеджер, SEO-специалист, копирайтер, редактор, контент-менеджер, дизайнер.",
+        "Вернем пользователей и привлечем ЦА на сайт с помощью контекстной и таргетированной рекламы. Создадим план продвижения, протестируем инструменты и найдем выгодный источник заявок.",
+        "Профессиональный и ответственный подход, внимательное отношение к деталям — все это ценно для нас, как для заказчика. Команда выступает не просто исполнителем, а надёжным партнёром, который понимает специфику бизнеса и помогает последовательно развивать присутствие компании в интернете.",
+        "Металлпроект выражает благодарность агентству WebCanape за многолетнее и продуктивное сотрудничество. Уже много лет специалисты WebCanape помогают нам развивать сайты компании и выстраивать комплексное интернет-продвижение. Мы пользуемся услугами SEO- и GEO-продвижения, а также контекстной рекламы. Профессиональный и ответственный подход, внимательное отношение к деталям, оперативная реакция на форс-мажоры — все это ценно для нас, как для заказчика. Команда Павла Сущенко выступает не просто исполнителем, а надёжным партнёром, который понимает специфику бизнеса и помогает последовательно развивать присутствие компании в интернете.",
+        "Первичная профсоюзная организация АО \"Томскнефть\" ВНК выражает благодарность агентству Web canape за реализацию нашего нового сайта. Результат полностью соответствует заявленному видению: нам удалось создать современный футуристический продукт, который отличается высокой интерактивностью и качественной динамикой. Отдельно хотим отметить уникальный подход команды к работе с задачами. Несмотря на то, что мы формулировали требования на концептуальном, а не техническом языке, итоговые страницы и вкладки получились не только визуально эффектными, но и технически безупречными. Мы высоко ценим профессионализм Web canape, которые смогли грамотно переложить наши творческие идеи на язык современных веб-стандартов. Нам повезло работать с такими надежными партнерами. Выражаем надежду на дальнейшее плодотворное сотрудничество.",
+        "Сотрудничаем с компанией по seo-оптимизации сайтов несколько лет. Разные менеджеры, разные проекты, но результат всегда виден. Как человек, который работает со стороны заказчика, могу похвалить команду за четкий менеджмент, быструю реакцию на просьбы, умение находить компромисс и работать в связке с разработчиками (другая компания). Помогут советом, проконсультируют. Так что как оптимизаторов ребят рекомендую.",
+        "Благодарим команду WebCanape за профессионализм: оказывают техническую поддержку сайта, постоянно его дорабатывают и улучшают, воплощают все идеи в жизнь! Также ведут рекламу и seo, настоящие профессионалы, которым можно полностью довериться. Безукоризненно вежливые и тактичные, работаем уже много лет. Сотрудничать с ними одно удовольствие! И самое главное - работают на результат.",
+        "История успеха наших клиентов",
+        "Нужно обсудить проект и познакомиться?",
+        "С нами в команде эксперт Яндекса",
+        "Почему нам доверяют разработку и продвижение сайтов",
+        "Мы создали 2500+ сайтов, поэтому работая с нами, вы точно получите качественный продукт за оптимальный бюджет. Всегда разделяем риски со своими клиентами и ответственны за то, что делаем. Это подтверждается в договоре: гарантии соблюдения сроков, гарантии качества оказания услуги, гарантии на итоговый результат.",
+        "Вы получаете не услугу, а маркетинговую команду. Ее главная цель — обеспечить результат для вашего бизнеса и увеличить прибыль. Каждый проект уникален: создаем сайты, которые будут закрывать ваши бизнес-задачи.",
+        "Вам нужно разработать сайт под ключ или переработать старый сайт? Мы предлагаем вам создать сайт, который будет закрывать конкретные маркетинговые или бизнес-задачи. В зависимости от сложности решения, срок разработки — от 14 дней. Гарантию на запуск сайта в срок мы указываем в договоре. Процесс создания сайта будет проходить под вашим постоянным контролем.",
+        "Мы выстраиваем маркетинг с нуля — от анализа бизнеса и подготовки digital-стратегии до создания фирменного стиля, веб-разработки, SEO-продвижения и интернет-рекламы. Оказываем гарантийную техническую поддержку и продолжаем развитие вашего сайта.",
+        "ТОП-10 Рейтинга Известности SEO-компаний",
+        "Политика конфиденциальности",
+        "Смоленск, ул. Карла-Маркса 12 +7 (4812) 20-94-60",
+        "Москва, ул. Пятницкая 37 +7 (499) 506-97-20"
+      ],
+      "links": [
+        "https://www.web-canape.ru",
+        "https://www.web-canape.ru/about",
+        "https://www.web-canape.ru/about/llm-info-page",
+        "https://www.web-canape.ru/about/pismo-direktoru",
+        "https://www.web-canape.ru/about/politika-konfidencialnosti",
+        "https://www.web-canape.ru/about/soglasie-na-obrabotku-personalnyh-dannyh",
+        "https://www.web-canape.ru/about/soglasie-na-poluchenie-informacionnoj-i-reklamnoj-rassylki",
+        "https://www.web-canape.ru/about/sotrudnichestvo",
+        "https://www.web-canape.ru/akcii",
+        "https://www.web-canape.ru/akcii/legkij-start-v-reklame-50-skidka-na-pervyj-mesyac-vedeniya",
+        "https://www.web-canape.ru/akcii/seo-geo-v-odnom-tarife-prodvizhenie-v-poiske-i-nejrosetyah",
+        "https://www.web-canape.ru/akcii/zaschiti-svoj-sajt-uzhe-sejchas-i-poluchi-ssl-sertifikat-v-podarok",
+        "https://www.web-canape.ru/analitika/skvoznaya-analitika",
+        "https://www.web-canape.ru/audity-sajta/audit-kontekstnoj-reklamy",
+        "https://www.web-canape.ru/audity-sajta/audit-marketingovogo-potenciala-sajta",
+        "https://www.web-canape.ru/audity-sajta/audit-reklamy-konkurentov",
+        "https://www.web-canape.ru/audity-sajta/audit-targetirovannoj-reklamy",
+        "https://www.web-canape.ru/audity-sajta/seo-audit",
+        "https://www.web-canape.ru/audity-sajta/yuzabiliti-audit",
+        "https://www.web-canape.ru/canape-cms",
+        "https://www.web-canape.ru/canapelab/deklaraciya-o-garantiyah-i-kriteriyah-kachestva-okazaniya-uslug-webcanape",
+        "https://www.web-canape.ru/canapelab/hosting-webcanape-osnovnye-preimuschestva-i-sravnenie-s-konkurentami",
+        "https://www.web-canape.ru/cases",
+        "https://www.web-canape.ru/cases/31-k-konversii-za-god-kontekstnaya-reklama-postavschika-zapchastej-i-komplektuyuschih-dlya-stankov-s-chpu",
+        "https://www.web-canape.ru/cases/b2b-i-kompleksnyj-internet-marketing-kak-my-uvelichili-onlajn-prodazhi-himicheskoj-produkcii-na-111",
+        "https://www.web-canape.ru/cases/druzhba-nachinaetsya-s-ulybki-kak-za-4-mesyaca-my-vyveli-v-top-stomatologicheskuyu-kliniku",
+        "https://www.web-canape.ru/cases/ispytatelnoe-oborudovanie-v-tope-kompleksnyj-internet-marketing-dlya-b2b-proizvoditelya",
+        "https://www.web-canape.ru/cases/kompleksnyj-internet-marketing-dlya-b2b-vyvodim-kompressory-v-top-10-i-delaem-x3-po-trafiku",
+        "https://www.web-canape.ru/cases/prodvizhenie-mebelnoj-kompanii-na-avito-kak-za-7-mesyacev-v-2-raza-uvelichit-kolichestvo-zayavok-i-na-20-snizit-ih-cenu",
+        "https://www.web-canape.ru/cases/prodvizhenie-okonnoj-kompanii-na-avito-i-v-yandeks-direkt-kak-my-v-5-raz-uvelichili-kolichestvo-zayavok-i-v-2-raza-snizili-ih-cenu",
+        "https://www.web-canape.ru/cases/s-0-do-1500-lidov-v-mesyac-s-sajtom-na-shablone-kejs-prodavca-strojmaterialov",
+        "https://www.web-canape.ru/contacts",
+        "https://www.web-canape.ru/files/3/sout-2014-2019.pdf",
+        "https://www.web-canape.ru/files/324/rejting-runeta-25.png",
+        "https://www.web-canape.ru/files/349/sidorenkova-lida.jpg",
+        "https://www.web-canape.ru/files/69/wda.png",
+        "https://www.web-canape.ru/keisi",
+        "https://www.web-canape.ru/marketplejsy",
+        "https://www.web-canape.ru/nejroseti/prodvizhenie-v-nejrosetyah",
+        "https://www.web-canape.ru/nejroseti/prodvizhenie-v-nejrosetyah/prodvizhenie-v-chatgpt",
+        "https://www.web-canape.ru/nejroseti/prodvizhenie-v-nejrosetyah/prodvizhenie-v-claude",
+        "https://www.web-canape.ru/nejroseti/prodvizhenie-v-nejrosetyah/prodvizhenie-v-copilot",
+        "https://www.web-canape.ru/nejroseti/prodvizhenie-v-nejrosetyah/prodvizhenie-v-deepseek",
+        "https://www.web-canape.ru/nejroseti/prodvizhenie-v-nejrosetyah/prodvizhenie-v-gemini",
+        "https://www.web-canape.ru/nejroseti/prodvizhenie-v-nejrosetyah/prodvizhenie-v-grok",
+        "https://www.web-canape.ru/nejroseti/prodvizhenie-v-nejrosetyah/prodvizhenie-v-perplexity",
+        "https://www.web-canape.ru/nejroseti/prodvizhenie-v-nejrosetyah/prodvizhenie-v-qwen",
+        "https://www.web-canape.ru/nejroseti/prodvizhenie-v-nejrosetyah/prodvizhenie-v-yandeks-alise",
+        "https://www.web-canape.ru/novosti-webcanape/podtverzhdaem-kachestvo-ne-slovami-a-sertifikatami",
+        "https://www.web-canape.ru/novosti-webcanape/triumf-webcanape-tretij-god-podryad-pobediteli-konkursa-zolotoj-sajt",
+        "https://www.web-canape.ru/novosti-webcanape/webcanape-pobeditel-konkursa-zolotoj-sajt-2020",
+        "https://www.web-canape.ru/novosti-webcanape/webcanape-pobeditel-konkursa-zolotoj-sajt-2021",
+        "https://www.web-canape.ru/novosti-webcanape/webcanape-pobeditel-premii-biznes-uspeh-2021",
+        "https://www.web-canape.ru/ostavte-zayavku",
+        "https://www.web-canape.ru/portfolio",
+        "https://www.web-canape.ru/portfolio/?tip_portfolio=1&useJs=1",
+        "https://www.web-canape.ru/portfolio/?tip_portfolio=2&useJs=1",
+        "https://www.web-canape.ru/portfolio/?tip_portfolio=3&useJs=1",
+        "https://www.web-canape.ru/portfolio/?tip_portfolio=4&useJs=1",
+        "https://www.web-canape.ru/portfolio/?tip_portfolio=6&useJs=1&_canapeuuid=221d7578-a9e1-4142-952e-821a2f680525",
+        "https://www.web-canape.ru/portfolio/internet-magazin-stomatologicheskih-materialov-avosdent",
+        "https://www.web-canape.ru/portfolio/kultura-iskusstvo-media/kombat-forum-v-horvatii",
+        "https://www.web-canape.ru/portfolio/kultura-iskusstvo-media/sajt-promyshlennogo-marafona-effektivnoe-proizvodstvo",
+        "https://www.web-canape.ru/portfolio/lending-akseleracionnoj-programmy-vk-mini-apps",
+        "https://www.web-canape.ru/portfolio/lending-dlya-konkursa-wildberries",
+        "https://www.web-canape.ru/portfolio/neftegazovaya-otrasl/razrabotka-informacionnogo-sajta-ao-gazprom-gazoraspredelenie-cherkessk",
+        "https://www.web-canape.ru/portfolio/prezentacii-dlya-kompanij/prezentaciya-uslug-kompanii-rotek",
+        "https://www.web-canape.ru/portfolio/primer-sajty-na-tilda",
+        "https://www.web-canape.ru/portfolio/produkty-pitaniya-kulinariya/razrabotka-sajta-dlya-agroholdinga-v-joshkar-ole",
+        "https://www.web-canape.ru/portfolio/razrabotka-korporativnogo-sajta-dlya-datomix",
+        "https://www.web-canape.ru/portfolio/razrabotka-korporativnogo-sajta-dlya-instituta-mirbis",
+        "https://www.web-canape.ru/portfolio/razrabotka-lendinga-brenda-vodki-gallery",
+        "https://www.web-canape.ru/portfolio/razrabotka-lendinga-dlya-premialnoj-vodki-dikij-med",
+        "https://www.web-canape.ru/portfolio/razrabotka-sajta-dlya-akseleratora-skolkovo-i-magnit",
+        "https://www.web-canape.ru/portfolio/razrabotka-sajta-dlya-chastnoj-investicionnoj-kompanii",
+        "https://www.web-canape.ru/portfolio/razrabotka-sajta-dlya-kompanii-profi-menedzher",
+        "https://www.web-canape.ru/portfolio/razrabotka-sajta-dlya-sistemy-monitoringa",
+        "https://www.web-canape.ru/portfolio/razrabotka-sajta-otelya",
+        "https://www.web-canape.ru/portfolio/razrabotka-sajta-po-remontu-kvartiri-i-ofisov",
+        "https://www.web-canape.ru/portfolio/razrabotka-sajta-s7-startup-challenge",
+        "https://www.web-canape.ru/portfolio/razrabotka-sajta-sportivnyh-trenirovok-s-kosmonavtom",
+        "https://www.web-canape.ru/portfolio/remont-proektirovanie/razrabotka-sajta-po-remontu-kvartiri-i-ofisov",
+        "https://www.web-canape.ru/portfolio/sajt-dlya-fonda-razvitiya-centra-razrabotki-i-kommercializacii-novyh-tehnologij",
+        "https://www.web-canape.ru/portfolio/severstal-steeltech-accelerator-2020",
+        "https://www.web-canape.ru/portfolio/sozdanie-landing-page-dlya-akseleratora-roskosmosa-i-npo-energomash",
+        "https://www.web-canape.ru/portfolio/sozdanie-sajta-akkumulyatornogo-zavoda-kainar",
+        "https://www.web-canape.ru/portfolio/sozdanie-sajta-proizvoditelya-plastikovyh-okon-rehau",
+        "https://www.web-canape.ru/portfolio/uslugi-dlya-biznesa/razrabotka-sajta-dlya-konsaltingovogo-agentstva",
+        "https://www.web-canape.ru/prodvizhenie-i-reklama",
+        "https://www.web-canape.ru/prodvizhenie-sajtov",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/kontent-marketing",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/magazin-stroitelnyh-materialov",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/prodvizhenie-korporativnogo-sajta",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/prodvizhenie-molodogo-sajta",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/prodvizhenie-onlajn-kursov",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/prodvizhenie-sajta-na-bitriks",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/promyshlennye-predpriyatiya",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/razrabotka-digital-strategii",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/seo",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/seo/bazovaya-optimizaciya",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/seo/gostinicy",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/seo/internet-magazina",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/seo/mebelnye-kompanii",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/seo/moskva",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/seo/po-lidam",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/seo/po-trafiku",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/seo/pod-google",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/seo/pod-yandeks",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/seo/regiony",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/seo/stroitelnye-kompanii",
+        "https://www.web-canape.ru/prodvizhenie-sajtov/seo/vsya-rossiya",
+        "https://www.web-canape.ru/razrabotka-sajta",
+        "https://www.web-canape.ru/razrabotka-sajta/gotovye-resheniya",
+        "https://www.web-canape.ru/razrabotka-sajta/individualnye-resheniya/internet-magazin",
+        "https://www.web-canape.ru/razrabotka-sajta/individualnye-resheniya/landing-page",
+        "https://www.web-canape.ru/razrabotka-sajta/individualnye-resheniya/razrabotka-korporativnyh-sajtov",
+        "https://www.web-canape.ru/razrabotka-sajta/individualnye-resheniya/sajt-organov-gosvlasti",
+        "https://www.web-canape.ru/razrabotka-sajta/individualnye-resheniya/sajt-s-katalogom-tovarov",
+        "https://www.web-canape.ru/razrabotka-sajta/individualnye-resheniya/sajt-vizitka",
+        "https://www.web-canape.ru/razrabotka-sajta/predproektnaya-analitika",
+        "https://www.web-canape.ru/razrabotka-sajta/razrabotka-sajta-na-wordpress",
+        "https://www.web-canape.ru/razrabotka-sajta/razrabotka-tehnicheskogo-zadaniya",
+        "https://www.web-canape.ru/razrabotka-sajta/sajty-na-bitriks",
+        "https://www.web-canape.ru/razrabotka-sajta/sajty-na-tilda",
+        "https://www.web-canape.ru/razvitie-sajta/evolution",
+        "https://www.web-canape.ru/razvitie-sajta/hosting",
+        "https://www.web-canape.ru/razvitie-sajta/price-adv",
+        "https://www.web-canape.ru/razvitie-sajta/price-adv/razovye-uslugi-po-reklame/prioritetnoe-razmeschenie-yandeks-spravochnik",
+        "https://www.web-canape.ru/razvitie-sajta/razrabotka",
+        "https://www.web-canape.ru/razvitie-sajta/razrabotka/razrabotka-firmennogo-stilya",
+        "https://www.web-canape.ru/reklama",
+        "https://www.web-canape.ru/reklama/kontekstnaya-reklama",
+        "https://www.web-canape.ru/reklama/medijnaya-reklama",
+        "https://www.web-canape.ru/reklama/reklama-na-avito",
+        "https://www.web-canape.ru/reklama/reklama-v-alisa-ai",
+        "https://www.web-canape.ru/reklama/reklama-v-google",
+        "https://www.web-canape.ru/reklama/reklama-v-telegram",
+        "https://www.web-canape.ru/reklama/reklama-v-yandeks-dzen",
+        "https://www.web-canape.ru/reklama/reklama-v-yandeks-promostranicy",
+        "https://www.web-canape.ru/reklama/reklama-vk",
+        "https://www.web-canape.ru/reklama/reklama-youtube",
+        "https://www.web-canape.ru/reklama/remarketing",
+        "https://www.web-canape.ru/reklama/target-reklama",
+        "https://www.web-canape.ru/reklama/yandeks-direkt",
+        "https://www.web-canape.ru/sluzhba-podderzhki/hosting-webcanape",
+        "https://www.web-canape.ru/sluzhba-podderzhki/reglament-rabot",
+        "https://www.web-canape.ru/sluzhba-podderzhki/ssl-sertfikaty",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/audit-sajta-na-1s-bitriks",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/dizajn-i-verstka",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/dorabotka-sajta",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/dorabotka-sajta-na-1s-bitriks",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/integraciya-1s-bitriks-s-1s-predpriyatie",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/kompozitnyj-sajt",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/napolnenie-sajta",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/obnovlenie-versii-cms-1s-bitriks",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/ochistka-sajta-na-bitrikse-ot-virusov",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/perenos-sajta-na-cms-1s-bitriks",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/perenos-sajta-na-rossijskuyu-cms",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/smena-i-prodlenie-hostinga-sajta",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/smena-i-prodlenie-hostinga-sajta-na-bitriks",
+        "https://www.web-canape.ru/sluzhba-podderzhki/support/vnedrenie-i-integraciya-esia",
+        "https://www.web-canape.ru/sluzhba-podderzhki/tarify",
+        "https://www.web-canape.ru/sluzhba-podderzhki/tehpodderzhka-sajtov-na-bitriks",
+        "https://www.web-canape.ru/thanks"
+      ]
     },
-    "checked_at": "2026-10-16T08:10:24.018460+00:00"
+    "checked_at": "2026-11-10T09:46:42.728492+00:00"
   },
   "https://ac-u.ru/": {
     "name": "Акцепт — главная",
@@ -268,7 +493,7 @@
         "https://ac-u.ru/vosstanovlenie-sayta-beget"
       ]
     },
-    "checked_at": "2026-11-10T02:06:04.725026+00:00"
+    "checked_at": "2026-11-10T09:46:39.513555+00:00"
   },
   "https://ac-u.ru/seo/": {
     "name": "Акцепт — SEO",
@@ -821,7 +1046,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-11-10T02:06:06.553294+00:00"
+    "checked_at": "2026-11-10T09:46:39.911901+00:00"
   },
   "https://ac-u.ru/sozdanie-saitov/": {
     "name": "Акцепт — создание сайтов",
@@ -1069,7 +1294,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-11-10T02:06:06.826643+00:00"
+    "checked_at": "2026-11-10T09:46:40.129489+00:00"
   },
   "https://nan.ru/": {
     "name": "NAN — главная",
@@ -1200,7 +1425,7 @@
         "https://nan.ru/web-support/tehpodderzhka.html"
       ]
     },
-    "checked_at": "2026-11-10T02:06:08.142574+00:00"
+    "checked_at": "2026-11-10T09:46:41.401589+00:00"
   },
   "https://artena.ru/": {
     "name": "Artena — главная",
@@ -1216,7 +1441,7 @@
         "https://artena.ru/protect971/index.php"
       ]
     },
-    "checked_at": "2026-11-10T02:06:11.174335+00:00"
+    "checked_at": "2026-11-10T09:46:44.191753+00:00"
   },
   "https://vmeste.marketing/": {
     "name": "Vmeste Marketing — главная",
@@ -1321,7 +1546,7 @@
         "https://vmeste.marketing/privacy"
       ]
     },
-    "checked_at": "2026-11-10T02:06:12.549789+00:00"
+    "checked_at": "2026-11-10T09:46:45.955464+00:00"
   },
   "https://nevsky.agency/": {
     "name": "Nevsky Agency — главная",
@@ -1658,7 +1883,7 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-11-10T02:06:13.722779+00:00"
+    "checked_at": "2026-11-10T09:46:47.336608+00:00"
   },
   "https://nevsky.agency/yandex-direct": {
     "name": "Nevsky Agency — Яндекс Директ",
@@ -1966,7 +2191,7 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-11-10T02:06:14.004737+00:00"
+    "checked_at": "2026-11-10T09:46:47.707086+00:00"
   },
   "https://nevsky.agency/seo": {
     "name": "Nevsky Agency — SEO",
@@ -2297,11 +2522,11 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-11-10T02:06:14.336761+00:00"
+    "checked_at": "2026-11-10T09:46:47.928336+00:00"
   },
   "https://www.advertpro.ru/": {
     "name": "AdvertPro — главная",
-    "hash": "405cb4ae6d46c7af5d4e29bd3e8d8d6ea3e60c2b3b546f49f21d02aac488a468",
+    "hash": "c2780d975b2ab3987ab8fb6054b0866fd439d291edf6362708df98f781fbbfc1",
     "snapshot": {
       "title": "Маркетинговое агентство в Москве - digital-агентство полного цикла, услуги продвижения и создания сайтов | AdvertPro",
       "description": "Разработка и продвижение сайтов под ключ от AdvertPro. Комплексный интернет-маркетинг: SEO, контекстная реклама, создание сайтов, SERM и техническая поддержка. Digital-агентство полного цикла с 19-летним опытом помогает получать заявки из поиска, рекламы и других интернет-каналов.",
@@ -2453,10 +2678,18 @@
         "Технические доработки на сайте",
         "Сбор видимости в нейроответах",
         "Реализуем задачи для бизнеса разных отраслей",
-        "Продвижение в нейроответах компании в сфере IP-телефонии",
-        "Увеличили упоминания компании в сфере IP-телефонии в нейроответах в 5,1 раза за счёт контент-стратегии, экспертных статей об IP-телефонии и виртуальной АТС, оптимизации под нейросети и внутренней перелинковки.",
+        "Продвижение в нейроответах фармацевтической компании",
+        "Довели присутствие фармацевтического бренда в нейроответах до 82% за счёт продвижения по коммерческим и репутационным запросам, SERM и адаптации контента под нейросети.",
         "Цель Увеличить присутствие бренда в нейроответах",
         "Увеличить присутствие бренда в нейроответах",
+        "Результат Рост упоминаний в нейроответах до 82%",
+        "Рост упоминаний в нейроответах до 82%",
+        "Продвижение в нейроответах ювелирной компании",
+        "В 5,1 раза увеличили упоминания ювелирного бренда в нейроответах за счёт SEO-оптимизации каталога, линкбилдинга, экспертного контента о бриллиантах и работы над узнаваемостью.",
+        "Результат Рост упоминаний в нейроответах x5.1",
+        "Рост упоминаний в нейроответах x5.1",
+        "Продвижение в нейроответах компании в сфере IP-телефонии",
+        "Увеличили упоминания компании в сфере IP-телефонии в нейроответах в 5,1 раза за счёт контент-стратегии, экспертных статей об IP-телефонии и виртуальной АТС, оптимизации под нейросети и внутренней перелинковки.",
         "Результат Рост упоминаний в нейроответах x 5.1",
         "Рост упоминаний в нейроответах x 5.1",
         "Продвижение в нейроответах частного психолога",
@@ -2493,12 +2726,6 @@
         "Привлечь больше трафика и лидов на сайт",
         "Результат Рост трафика x 1,3; рост лидов x 1,5",
         "Рост трафика x 1,3; рост лидов x 1,5",
-        "Официальный дистрибьютор известного российского производителя ограждающих конструкций",
-        "Рост трафика из поисковых систем x1,7",
-        "Результат Рост трафика x 1,7",
-        "Компания «Интерклин»",
-        "Рост трафика из поисковых систем x2,8",
-        "Результат Рост трафика x 2,8",
         "Больше проектов и решений",
         "Получить кейсы из моей ниши",
         "Надежный партнер, а не подрядчик",
@@ -2706,7 +2933,7 @@
         "https://www.advertpro.ru/uslugi/upravlenie-reputaciey/prodvizhenie-na-kartah"
       ]
     },
-    "checked_at": "2026-11-10T02:06:16.584888+00:00"
+    "checked_at": "2026-11-10T09:46:49.957425+00:00"
   },
   "https://www.rush-agency.ru/": {
     "name": "Rush Agency — главная",
@@ -2964,7 +3191,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2023/05/dogovor-na-seo-konsalting-dlya-sajta-2023_rush-agency.pdf"
       ]
     },
-    "checked_at": "2026-11-10T02:06:17.971289+00:00"
+    "checked_at": "2026-11-10T09:46:51.321286+00:00"
   },
   "https://www.rush-agency.ru/cases/": {
     "name": "Rush Agency — кейсы",
@@ -3149,7 +3376,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-10T02:06:18.360210+00:00"
+    "checked_at": "2026-11-10T09:46:51.651854+00:00"
   },
   "https://www.rush-agency.ru/about/": {
     "name": "Rush Agency — о компании",
@@ -3666,7 +3893,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2026/07/pochemu-vklady-i-investiczii-ne-sdelayut-tebya-bogatym-anar-babaev-na-pensiyu-v-35.mp4"
       ]
     },
-    "checked_at": "2026-11-10T02:06:18.794298+00:00"
+    "checked_at": "2026-11-10T09:46:52.004947+00:00"
   },
   "https://www.rush-agency.ru/blog/": {
     "name": "Rush Agency — блог",
@@ -3909,7 +4136,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-10T02:06:19.297706+00:00"
+    "checked_at": "2026-11-10T09:46:52.404480+00:00"
   },
   "https://www.rush-agency.ru/contacts/": {
     "name": "Rush Agency — контакты",
@@ -4082,7 +4309,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-10T02:06:19.663574+00:00"
+    "checked_at": "2026-11-10T09:46:52.769368+00:00"
   },
   "https://www.rush-agency.ru/jobs/": {
     "name": "Rush Agency — вакансии",
@@ -4240,7 +4467,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-10T02:06:20.051245+00:00"
+    "checked_at": "2026-11-10T09:46:53.098300+00:00"
   },
   "https://www.rush-agency.ru/partners/": {
     "name": "Rush Agency — партнёры",
@@ -4424,7 +4651,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-10T02:06:20.453559+00:00"
+    "checked_at": "2026-11-10T09:46:53.442182+00:00"
   },
   "https://www.rush-agency.ru/reviews/": {
     "name": "Rush Agency — отзывы",
@@ -4624,7 +4851,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2026/08/dreamwhite.jpg"
       ]
     },
-    "checked_at": "2026-11-10T02:06:20.834154+00:00"
+    "checked_at": "2026-11-10T09:46:53.769036+00:00"
   },
   "https://www.rush-agency.ru/seo-prodvizhenie/": {
     "name": "Rush Agency — SEO-продвижение",
@@ -4894,7 +5121,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-10T02:06:21.248706+00:00"
+    "checked_at": "2026-11-10T09:46:54.109719+00:00"
   },
   "https://www.rush-agency.ru/prodvizhenie-sajta-za-rubezhom/": {
     "name": "Rush Agency — продвижение сайта за рубежом",
@@ -5105,7 +5332,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-10T02:06:21.852815+00:00"
+    "checked_at": "2026-11-10T09:46:54.459422+00:00"
   },
   "https://www.rush-agency.ru/prodvizhenie-sajta-v-ai/": {
     "name": "Rush Agency — продвижение сайта в AI",
@@ -5329,7 +5556,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-10T02:06:22.253874+00:00"
+    "checked_at": "2026-11-10T09:46:54.794299+00:00"
   },
   "https://www.rush-agency.ru/orm/": {
     "name": "Rush Agency — ORM",
@@ -5701,11 +5928,11 @@
         "https://www.rush-agency.ru/wp-content/uploads/2026/10/kak-zashhitit-reputacziyu-biznesa-v-internete-chernyj-pr-negativnye-otzyvy-i-shantazh-serm-orm.mp4"
       ]
     },
-    "checked_at": "2026-11-10T02:06:22.913428+00:00"
+    "checked_at": "2026-11-10T09:46:55.216655+00:00"
   },
   "https://www.it-agency.ru/": {
     "name": "IT-Agency — главная",
-    "hash": "74035f82cb2f959e3445bb9d518e0c9382850ecfd566d2fbdc7eb5075e7bb4b7",
+    "hash": "d590acec00cbcdc7ad648bcdb82c7033276cd3fa1a74484f26f7833345197943",
     "snapshot": {
       "title": "IT-Agency — Рекламное агентство полного цикла с консалтингом",
       "description": "Специализируемся на сквозной аналитике, performance-маркетинге и отделах продаж для средних и крупных компаний. Расскажите о вашей задаче на сайте it-agency.ru.",
@@ -5729,9 +5956,9 @@
         "Обновили и улучшили лендинг с помощью АB‑тестов",
         "Построили систему контент-маркетинга за 3,5 месяца",
         "Оптимизировали сайт и обучили редакцию, чем привлекли трафик из поисковиков",
+        "Как собирать презентации в Yandex DataLens в пару кликов и без дизайнера",
         "Что уже можно автоматизировать в отделе маркетинга с помощью ИИ-агентов",
         "Отзывы как бизнес-данные: как ORM и GEO влияют на репутацию бренда",
-        "Как с помощью ИИ экономить часы на обработке больших массивов данных",
         "Услуги",
         "Отрасли",
         "Компания"
@@ -5763,12 +5990,12 @@
         "Создание и продвижение сайтов в категории «Промосайт»",
         "Комплексные диджитал-агентства в сфере «Питание»",
         "Комплексные диджитал-агентства в категории «Финансы, инвестиции, банки»",
+        "Как собирать презентации в Yandex DataLens в пару кликов и без дизайнера",
+        "Игорь Приходько, Digital Lead по развитию",
         "Что уже можно автоматизировать в отделе маркетинга с помощью ИИ-агентов",
         "Павел Злобин, зам. руководителя по производственной части",
         "Отзывы как бизнес-данные: как ORM и GEO влияют на репутацию бренда",
         "Алла Рауд, руководитель направления продвижения приложений",
-        "Как с помощью ИИ экономить часы на обработке больших массивов данных",
-        "Юлия Кравченко, руководитель направления SEO и GEO",
         "Мы не просто ведём проекты, а помогаем бизнесу эволюционировать, меняя подходы и перестраивая процессы",
         "Сотрудничаем с партнёрами",
         "Работаем, создаём и общаемся, опираясь на наши ценности",
@@ -5807,8 +6034,8 @@
         "https://www.it-agency.ru",
         "https://www.it-agency.ru/academy",
         "https://www.it-agency.ru/academy/marketing-automation-event",
+        "https://www.it-agency.ru/academy/presentations-in-yandex-datalens",
         "https://www.it-agency.ru/academy/reviews-as-business-data",
-        "https://www.it-agency.ru/academy/seo-saves-hours-with-the-help-of-ai",
         "https://www.it-agency.ru/agreement",
         "https://www.it-agency.ru/blog",
         "https://www.it-agency.ru/career",
@@ -5845,7 +6072,7 @@
         "https://www.it-agency.ru/worths"
       ]
     },
-    "checked_at": "2026-11-10T02:06:24.391338+00:00"
+    "checked_at": "2026-11-10T09:46:56.545024+00:00"
   },
   "https://www.it-agency.ru/projects/": {
     "name": "IT-Agency — проекты",
@@ -6691,7 +6918,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-10T02:06:25.123286+00:00"
+    "checked_at": "2026-11-10T09:46:57.184367+00:00"
   },
   "https://www.it-agency.ru/services/": {
     "name": "IT-Agency — услуги",
@@ -6874,11 +7101,11 @@
         "https://www.it-agency.ru/services/yandex-direct-contextual-advertising"
       ]
     },
-    "checked_at": "2026-11-10T02:06:25.399022+00:00"
+    "checked_at": "2026-11-10T09:46:57.431002+00:00"
   },
   "https://www.it-agency.ru/academy/": {
     "name": "IT-Agency — академия",
-    "hash": "231e5c71481f08cf875d273e9debb7ff28bf4ab348032ffac276850b799d2ba6",
+    "hash": "d0c9e8622c35f7789aa481da1045201612bbd5b5f53740ae45191ba77a884a02",
     "snapshot": {
       "title": "Академия — IT-Agency",
       "description": "Академия. Рассказываем про интернет-маркетинг, аналитику и отчётность, дизайн, контент-маркетинг, веб-разработку, отделы продаж и устройство агентства. Делимся кейсами наших клиентов.",
@@ -6890,12 +7117,13 @@
       ],
       "h3": [
         "Путь сотрудника в IT-Agency от младшего до ведущего: как мы выращиваем кадры, которые ускоряют эволюцию бизнеса",
+        "Как собирать презентации в Yandex DataLens в пару кликов и без дизайнера",
         "Что уже можно автоматизировать в отделе маркетинга с помощью ИИ-агентов",
         "Отзывы как бизнес-данные: как ORM и GEO влияют на репутацию бренда",
         "Как с помощью ИИ экономить часы на обработке больших массивов данных",
         "Я создал в ИИ бота, который следит за рекламными кабинетами. Экономим часы работы и десятки тысяч рублей каждый месяц",
-        "ИИ-падаван: как я собрал секретаря в Cursor, который помнит весь контекст моей работы",
         "План обучения джедаев",
+        "ИИ-падаван: как я собрал секретаря в Cursor, который помнит весь контекст моей работы",
         "Превратили десятки таблиц в один дашборд и сократили время на подготовку отчётов в 5 раз",
         "«Прожарка от Киберкошки» или как продвигать приложения и бренды в ИИ",
         "Как мы автоматизировали оценку коммуникаций и сократили объём ручной проверки звонков",
@@ -6903,8 +7131,8 @@
         "Пишем, верстаем, анализируем: 12 способов улучшить email-маркетинг с помощью ИИ",
         "Отчётность без Excel: как мы заменили план-факт отчёт одним дашбордом и сократили время на аналитику в 10 раз",
         "Как нейросети меняют поиск: почему бизнес теряет до 35% трафика и как его вернуть",
-        "Создали в ИИ бота и автоматизировали поиск нарушителей CPA-мастеров по брендовому спросу",
         "План обучения контент-маркетолога",
+        "Создали в ИИ бота и автоматизировали поиск нарушителей CPA-мастеров по брендовому спросу",
         "Получили доступ к рекламе в ChatGPT и протестировали кабинет. Вот что узнали про форматы, требования и возможности",
         "Мы создали собственную сквозную аналитику загруженности команды и экономим 18 часов работы в месяц для стратегических задач",
         "Как с помощью ИИ писать сильные SEO-статьи, которые попадают в поиск и ответы нейросетей",
@@ -6918,24 +7146,23 @@
         "Как мы с помощью ИИ создаём уникальные подарки для 130+ человек и повышаем счастье агентства",
         "Как продвигать мобильные приложения: пошаговый гайд от старта до аналитики",
         "Забираем первые места! IT-Agency среди лидеров RUWARD AWARD 2026",
-        "Как среди 2 500+ соискателей мы нашли идеального операционного директора в агентство",
         "План обучения менеджеров",
+        "Как среди 2 500+ соискателей мы нашли идеального операционного директора в агентство",
         "Как автоматизировать очистку базы контактов и ускорить работу с Яндекс Аудиториями в 10 раз с помощью ИИ",
         "Как бесплатно сделать видео с эффектом приближения из космоса (Earth Zoom) в CapCut за пару минут",
         "ChatGPT как личный ассистент: реальные примеры делегирования задач нейросети",
         "Как после созвона сохранить всю информацию в Телеграме с помощью нейросетей",
         "Я создала свой тайм-трекер без разработчиков и опубликовала его в магазине расширений Chrome с помощью нейросети",
-        "ИИ написал код — что дальше? Почему вайбкодинг не отменяет мышление маркетолога",
         "План обучения оптимизаторов",
+        "ИИ написал код — что дальше? Почему вайбкодинг не отменяет мышление маркетолога",
         "Сквозная аналитика для мобильного приложения: как связать установку с источником трафика",
         "Я не разработчик, но создаю сервисы с вайбкодингом. Что нужно знать, чтобы начать?",
         "От нуля до ТОП-1: мобильный маркетинг и ИИ — стратегии роста в 2026 году",
         "От интуиции до стратегии: 5 уровней зрелости маркетинга",
         "Промпты: как улучшить свои тексты с помощью нейросети",
         "Промпты: оценка аудитории Телеграм-канала для рекламного размещения",
-        "Промпты: написать рекламный пост в Телеграме с учетом TOV заказчика",
         "План обучения младшего ди­зайнера",
-        "Промпты: как найти ключевые смыслы и большую идею для ведения канала в Телеграме",
+        "Промпты: написать рекламный пост в Телеграме с учетом TOV заказчика",
         "Компания",
         "Услуги",
         "Отрасли"
@@ -6950,6 +7177,8 @@
         "Построение системы роста",
         "Путь сотрудника в IT-Agency от младшего до ведущего: как мы выращиваем кадры, которые ускоряют эволюцию бизнеса",
         "Антон Рожков, Управляющий партнер дивизиона «Центральная Азия»",
+        "Как собирать презентации в Yandex DataLens в пару кликов и без дизайнера",
+        "Игорь Приходько, Digital Lead по развитию",
         "Что уже можно автоматизировать в отделе маркетинга с помощью ИИ-агентов",
         "Павел Злобин, зам. руководителя по производственной части",
         "Отзывы как бизнес-данные: как ORM и GEO влияют на репутацию бренда",
@@ -6958,12 +7187,11 @@
         "Юлия Кравченко, руководитель направления SEO и GEO",
         "Я создал в ИИ бота, который следит за рекламными кабинетами. Экономим часы работы и десятки тысяч рублей каждый месяц",
         "Кирилл Лосев, интернет-маркетолог",
-        "ИИ-падаван: как я собрал секретаря в Cursor, который помнит весь контекст моей работы",
-        "Егор Сизяков, операционный директор",
         "План обучения джедаев",
         "Система организации работы · База по маркетингу · Тексты · Контекстная реклама · Таргетированная реклама и другие каналы трафика · Аналитика · Построение отчётности · Дизайн · Разработка · Управление людьми и проектами · Работа с клиентами · Английский",
+        "ИИ-падаван: как я собрал секретаря в Cursor, который помнит весь контекст моей работы",
+        "Егор Сизяков, операционный директор",
         "Превратили десятки таблиц в один дашборд и сократили время на подготовку отчётов в 5 раз",
-        "Игорь Приходько, Digital Lead по развитию",
         "«Прожарка от Киберкошки» или как продвигать приложения и бренды в ИИ",
         "Как мы автоматизировали оценку коммуникаций и сократили объём ручной проверки звонков",
         "Мария Матвиенко, ведущий специалист по работе с отделами продаж и сопровождения",
@@ -6974,9 +7202,9 @@
         "Отчётность без Excel: как мы заменили план-факт отчёт одним дашбордом и сократили время на аналитику в 10 раз",
         "Как нейросети меняют поиск: почему бизнес теряет до 35% трафика и как его вернуть",
         "Мария Лем, ведущий оптимизатор",
-        "Создали в ИИ бота и автоматизировали поиск нарушителей CPA-мастеров по брендовому спросу",
         "План обучения контент-маркетолога",
         "Информационный стиль · Смысл и подача · Фактура · Иллюстрации · Дизайн · SEO · Аналитика · B2B · Процесс работы редакции · Бренды · Управление командой · Продукт",
+        "Создали в ИИ бота и автоматизировали поиск нарушителей CPA-мастеров по брендовому спросу",
         "Получили доступ к рекламе в ChatGPT и протестировали кабинет. Вот что узнали про форматы, требования и возможности",
         "Василий Булгаков, старший интернет-маркетолог",
         "Мы создали собственную сквозную аналитику загруженности команды и экономим 18 часов работы в месяц для стратегических задач",
@@ -6998,10 +7226,10 @@
         "Как продвигать мобильные приложения: пошаговый гайд от старта до аналитики",
         "Забираем первые места! IT-Agency среди лидеров RUWARD AWARD 2026",
         "Сергей Афонин, главный редактор",
-        "Как среди 2 500+ соискателей мы нашли идеального операционного директора в агентство",
-        "Татьяна Шумская, директор по счастью",
         "План обучения менеджеров",
         "Решение задач · Переговоры и работа с клиентом · Текст · Личная и общая системы организации работы · Проектирование сайтов · Дизайн · Повышение конверсии · Английский",
+        "Как среди 2 500+ соискателей мы нашли идеального операционного директора в агентство",
+        "Татьяна Шумская, директор по счастью",
         "Как автоматизировать очистку базы контактов и ускорить работу с Яндекс Аудиториями в 10 раз с помощью ИИ",
         "Как бесплатно сделать видео с эффектом приближения из космоса (Earth Zoom) в CapCut за пару минут",
         "ChatGPT как личный ассистент: реальные примеры делегирования задач нейросети",
@@ -7009,24 +7237,23 @@
         "Как после созвона сохранить всю информацию в Телеграме с помощью нейросетей",
         "Татьяна Коновалова, ведущий оптимизатор",
         "Я создала свой тайм-трекер без разработчиков и опубликовала его в магазине расширений Chrome с помощью нейросети",
-        "ИИ написал код — что дальше? Почему вайбкодинг не отменяет мышление маркетолога",
         "План обучения оптимизаторов",
         "Поисковые системы · Аналитика · Гугл Аналитика · Яндекс Метрика · Тексты · Отчётность · Проектирование и дизайн · Разработка · Управление проектами и людьми · Работа с клиентами · Английский",
+        "ИИ написал код — что дальше? Почему вайбкодинг не отменяет мышление маркетолога",
         "Сквозная аналитика для мобильного приложения: как связать установку с источником трафика",
         "Анна Данчева, интернет-маркетолог",
         "Я не разработчик, но создаю сервисы с вайбкодингом. Что нужно знать, чтобы начать?",
         "От нуля до ТОП-1: мобильный маркетинг и ИИ — стратегии роста в 2026 году",
-        "От интуиции до стратегии: 5 уровней зрелости маркетинга",
-        "Роман Игошин, коммерческий директор, управляющий партнёр",
         "Статьи из Академии два раза в месяц",
         "Помогают становиться лучше в маркетинге, управлении бизнесом, исследованиях, дизайне и личной эффективности.",
         "Даю согласие на обработку моих данных в соответствии с политикой обработки",
+        "От интуиции до стратегии: 5 уровней зрелости маркетинга",
+        "Роман Игошин, коммерческий директор, управляющий партнёр",
         "Промпты: как улучшить свои тексты с помощью нейросети",
         "Промпты: оценка аудитории Телеграм-канала для рекламного размещения",
-        "Промпты: написать рекламный пост в Телеграме с учетом TOV заказчика",
         "План обучения младшего ди­зайнера",
         "Решение задач и организация работы · Типографика и вёрстка · Интерфейс и представление информации · Интернет-маркетинг · Текст и редактура · Дизайн и право · HTML и CSS · Английский",
-        "Промпты: как найти ключевые смыслы и большую идею для ведения канала в Телеграме",
+        "Промпты: написать рекламный пост в Телеграме с учетом TOV заказчика",
         "Мы свяжемся с вами в течение двух часов, чтобы задать вопросы и обсудить, какую пользу можем принести",
         "Александр Кульгинский",
         "Отделы сопровождения",
@@ -7086,10 +7313,10 @@
         "https://www.it-agency.ru/academy/mobile-app-promotion-guide",
         "https://www.it-agency.ru/academy/online-lektoryi-markom-aso-ai",
         "https://www.it-agency.ru/academy/path-of-growth",
+        "https://www.it-agency.ru/academy/presentations-in-yandex-datalens",
         "https://www.it-agency.ru/academy/prompt-analiz-telegrama-dlya-reklamy",
         "https://www.it-agency.ru/academy/prompt-assistent-dlya-raboty-nad-textom",
         "https://www.it-agency.ru/academy/prompt-reklamnyi-post-dlya-telegrama",
-        "https://www.it-agency.ru/academy/prompt-upakovka-telegram-kanala",
         "https://www.it-agency.ru/academy/reporting-without-exce",
         "https://www.it-agency.ru/academy/reviews-as-business-data",
         "https://www.it-agency.ru/academy/roast-by-cyber-cat",
@@ -7133,7 +7360,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-10T02:06:25.760907+00:00"
+    "checked_at": "2026-11-10T09:46:57.751323+00:00"
   },
   "https://www.it-agency.ru/career/": {
     "name": "IT-Agency — карьера",
@@ -7244,7 +7471,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-10T02:06:26.076809+00:00"
+    "checked_at": "2026-11-10T09:46:58.043156+00:00"
   },
   "https://www.it-agency.ru/company/": {
     "name": "IT-Agency — компания",
@@ -7342,7 +7569,7 @@
         "https://www.it-agency.ru/worths"
       ]
     },
-    "checked_at": "2026-11-10T02:06:26.307776+00:00"
+    "checked_at": "2026-11-10T09:46:58.247121+00:00"
   },
   "https://www.it-agency.ru/contacts/": {
     "name": "IT-Agency — контакты",
@@ -7430,7 +7657,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-10T02:06:26.530245+00:00"
+    "checked_at": "2026-11-10T09:46:58.447519+00:00"
   },
   "https://ingate.ru/": {
     "name": "Ingate — главная",
@@ -7641,7 +7868,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-10T02:06:29.866855+00:00"
+    "checked_at": "2026-11-10T09:47:02.491651+00:00"
   },
   "https://ingate.ru/uslugi/": {
     "name": "Ingate — услуги",
@@ -7828,7 +8055,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-10T02:06:30.639715+00:00"
+    "checked_at": "2026-11-10T09:47:03.265826+00:00"
   },
   "https://ingate.ru/cases/": {
     "name": "Ingate — кейсы",
@@ -7938,7 +8165,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-10T02:06:31.346655+00:00"
+    "checked_at": "2026-11-10T09:47:03.962719+00:00"
   },
   "https://ingate.ru/company/": {
     "name": "Ingate — компания",
@@ -8034,7 +8261,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-10T02:06:32.037534+00:00"
+    "checked_at": "2026-11-10T09:47:04.613631+00:00"
   },
   "https://ingate.ru/blog/": {
     "name": "Ingate — блог",
@@ -8170,7 +8397,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-10T02:06:34.280700+00:00"
+    "checked_at": "2026-11-10T09:47:07.902589+00:00"
   },
   "https://kokocgroup.ru/": {
     "name": "Kokoc Group — главная",
@@ -8233,7 +8460,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-10T02:06:39.157831+00:00"
+    "checked_at": "2026-11-10T09:47:09.593460+00:00"
   },
   "https://kokocgroup.ru/about/": {
     "name": "Kokoc Group — о компании",
@@ -8280,11 +8507,11 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-10T02:06:39.472460+00:00"
+    "checked_at": "2026-11-10T09:47:09.950616+00:00"
   },
   "https://kokocgroup.ru/blog": {
     "name": "Kokoc Group — блог",
-    "hash": "218a3bd3e886d8713e01eae0cbaabc2f315f6c71664070d2b383b12fb94f4517",
+    "hash": "66e53475a1ce24d561851ff737285ac42ebb16d467546d6b578d64ac34c61dc0",
     "snapshot": {
       "title": "KokocGroup - Блог",
       "description": "KokocGroup - Блог",
@@ -8296,6 +8523,7 @@
       ],
       "h3": [
         "Венчур торгует вероятностью, агентство — ответственностью",
+        "Увеличили офлайн-посещения музея на 73,3%",
         "Как Divan.ru искал покупателей мебели за пределами привычных аудиторий",
         "Каждый второй e-commerce-блогер видит отток рекламодателей — 93% авторов ищут новые площадки для заработка",
         "Большинство e-commerce-блогеров используют ИИ в сезон распродаж",
@@ -8307,13 +8535,13 @@
         "Доверие вместо лидов: как ИИ и экономика трафика меняют партнерский маркетинг",
         "75% пользователей заходят на сайты клиник со смартфонов — но мобильные версии хуже удерживают пациентов",
         "Только 3% пользователей совершают покупку после первого сообщения бренда в соцсетях",
-        "Первая линия продаж уходит AI-агентам: почему бизнес больше не отвечает клиентам вручную",
-        "Креатив VS утилитарный дизайн: что важнее в email-рассылках?"
+        "Первая линия продаж уходит AI-агентам: почему бизнес больше не отвечает клиентам вручную"
       ],
       "text_blocks": [
         "Экспертные материалы, интервью, новости, кейсы и обзоры мероприятий",
         "Венчур торгует вероятностью, агентство — ответственностью",
         "В Kokoc Group объединили дивизионы Performance, Marketplaces и Growth в единую структуру — теперь за результат клиента отвечает одна команда, а не «два смежника». Возглавила объединённый дивизион Ольга Алексеева, которая пришла в компанию из венчура, M&A и партнёрской экосистемы Microsoft. В интервью о том, зачем понадобилось объединение, чем выход на рынки Индии и Индонезии похож на запуск стартапа и почему главное преимущество агентства перед инхаусом — способность говорить клиенту неудобную правду.",
+        "Увеличили офлайн-посещения музея на 73,3%",
         "Как Divan.ru искал покупателей мебели за пределами привычных аудиторий",
         "Каждый второй e-commerce-блогер видит отток рекламодателей — 93% авторов ищут новые площадки для заработка",
         "Большинство e-commerce-блогеров используют ИИ в сезон распродаж",
@@ -8326,7 +8554,6 @@
         "75% пользователей заходят на сайты клиник со смартфонов — но мобильные версии хуже удерживают пациентов",
         "Только 3% пользователей совершают покупку после первого сообщения бренда в соцсетях",
         "Первая линия продаж уходит AI-агентам: почему бизнес больше не отвечает клиентам вручную",
-        "Креатив VS утилитарный дизайн: что важнее в email-рассылках?",
         "Поговорить с нашим экспертом",
         "Оставьте заявку, и мы свяжемся с вами в ближайшее время.",
         "Партнерская программа",
@@ -8353,12 +8580,12 @@
         "https://kokocgroup.ru/blog/kak-divanru-iskal-pokupatelej-mebeli-za-predelami-privychnykh-auditorij",
         "https://kokocgroup.ru/blog/kazhdyj-vtoroj-e-commerce-bloger-vidit-ottok-reklamodatelej--93-avtorov-ishhut-novye-ploshhadki-dlya-zarabotka",
         "https://kokocgroup.ru/blog/keis-volkhovets-i-kokoc-performance-kak-analitika-360deg-izmenila-podkhod-k-mediinoi-reklame",
-        "https://kokocgroup.ru/blog/kreativ-vs-utilitarnyi-dizain-chto-vazhnee-v-email-rassylkakh",
         "https://kokocgroup.ru/blog/lid-magnit-sobiraet-kontakty-no-ne-prodaiot-chetyre-stsenariia-avtomatizatsii-v-telegram-i-vk",
         "https://kokocgroup.ru/blog/moment-danuny-gde-vzroslye-na-samom-dele-uchatsia",
         "https://kokocgroup.ru/blog/pervaia-liniia-prodazh-ukhodit-ai-agentam-pochemu-biznes-bolshe-ne-otvechaet-klientam-vruchnuiu",
         "https://kokocgroup.ru/blog/snachala-besplatnyi-shag-potom-prodazha-kak-biznes-meniaet-voronki-v-messendzherakh",
         "https://kokocgroup.ru/blog/tolko-3-polzovatelei-sovershaiut-pokupku-posle-pervogo-soobshcheniia-brenda-v-sotssetiakh",
+        "https://kokocgroup.ru/blog/uvelichili-oflain-poseshcheniia-muzeia-na-733",
         "https://kokocgroup.ru/blog/venchur-torguet-veroiatnostiu-agentstvo-otvetstvennostiu",
         "https://kokocgroup.ru/contacts",
         "https://kokocgroup.ru/division/kokoc-affiliate",
@@ -8379,7 +8606,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-10T02:06:40.181867+00:00"
+    "checked_at": "2026-11-10T09:47:10.617312+00:00"
   },
   "https://career.kokocgroup.ru/": {
     "name": "Kokoc Group — карьера",
@@ -8454,7 +8681,7 @@
         "https://career.kokocgroup.ru/vacancies?job_type=Развитие и поддержка бизнеса"
       ]
     },
-    "checked_at": "2026-11-10T02:06:41.447300+00:00"
+    "checked_at": "2026-11-10T09:47:11.848508+00:00"
   },
   "https://kokocgroup.ru/contacts/": {
     "name": "Kokoc Group — контакты",
@@ -8499,7 +8726,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-10T02:06:41.694611+00:00"
+    "checked_at": "2026-11-10T09:47:12.056234+00:00"
   },
   "https://realweb.ru/": {
     "name": "Realweb — главная",
@@ -8546,7 +8773,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-10T02:06:43.271307+00:00"
+    "checked_at": "2026-11-10T09:47:13.482314+00:00"
   },
   "https://realweb.ru/case": {
     "name": "Realweb — кейсы",
@@ -8584,7 +8811,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-10T02:06:43.597539+00:00"
+    "checked_at": "2026-11-10T09:47:13.892060+00:00"
   },
   "https://realweb.ru/researches": {
     "name": "Realweb — исследования",
@@ -8622,7 +8849,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-10T02:06:44.207388+00:00"
+    "checked_at": "2026-11-10T09:47:14.387287+00:00"
   },
   "https://realweb.ru/about-us": {
     "name": "Realweb — о компании",
@@ -8660,7 +8887,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-10T02:06:44.800363+00:00"
+    "checked_at": "2026-11-10T09:47:14.733849+00:00"
   },
   "https://realweb.ru/career": {
     "name": "Realweb — карьера",
@@ -8701,7 +8928,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-10T02:06:45.472287+00:00"
+    "checked_at": "2026-11-10T09:47:15.276574+00:00"
   },
   "https://realweb.ru/contacts": {
     "name": "Realweb — контакты",
@@ -8739,7 +8966,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-10T02:06:45.876718+00:00"
+    "checked_at": "2026-11-10T09:47:15.717282+00:00"
   },
   "https://hr.ingate.ru/": {
     "name": "Ingate — карьера",
