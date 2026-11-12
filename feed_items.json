@@ -1,5 +1,26 @@
 [
   {
+    "title": "IT-Agency — академия — изменены H3, текст, ссылки",
+    "link": "https://www.it-agency.ru/academy/",
+    "description": "<h3>Изменения H3</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Исследование: какие банки рекомендует ИИ и что делать командам ASO, SEO, GEO и PR, чтобы пользователь дошёл до продукта</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Промпты: как улучшить свои тексты с помощью нейросети</li>\n</ul>\n<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Алла Рауд — эксперт месяца, руководитель направления продвижения приложений</li>\n<li>➕ Исследование: какие банки рекомендует ИИ и что делать командам ASO, SEO, GEO и PR, чтобы пользователь дошёл до продукта</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Карина Тихонова — эксперт месяца, старший интернет-маркетолог</li>\n<li>➖ Промпты: как улучшить свои тексты с помощью нейросети</li>\n</ul>\n<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://www.it-agency.ru/academy/aso-banking-study-2026</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ https://www.it-agency.ru/academy/prompt-assistent-dlya-raboty-nad-textom</li>\n</ul>",
+    "date": "2026-11-12T11:02:21.408811+00:00",
+    "guid": "aa6984137244db7fe028984ee0221f3640f45aecfde26bb42da6b8b698239cec"
+  },
+  {
+    "title": "IT-Agency — главная — изменены H3, текст, ссылки",
+    "link": "https://www.it-agency.ru/",
+    "description": "<h3>Изменения H3</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Исследование: какие банки рекомендует ИИ и что делать командам ASO, SEO, GEO и PR, чтобы пользователь дошёл до продукта</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Как собирать презентации в Yandex DataLens в пару кликов и без дизайнера</li>\n</ul>\n<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Исследование: какие банки рекомендует ИИ и что делать командам ASO, SEO, GEO и PR, чтобы пользователь дошёл до продукта</li>\n<li>➕ Юлия Величко, специалист по маркетингу</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Как собирать презентации в Yandex DataLens в пару кликов и без дизайнера</li>\n</ul>\n<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://www.it-agency.ru/academy/aso-banking-study-2026</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ https://www.it-agency.ru/academy/presentations-in-yandex-datalens</li>\n</ul>",
+    "date": "2026-11-12T11:02:20.202430+00:00",
+    "guid": "4621d181e50cc5ad5c6cbbe4611fec66525a2aea9483373a040bb2b465410e38"
+  },
+  {
+    "title": "AdvertPro — главная — изменены ссылки",
+    "link": "https://www.advertpro.ru/",
+    "description": "<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://www.advertpro.ru/slovar-terminov</li>\n</ul>",
+    "date": "2026-11-12T11:02:14.052997+00:00",
+    "guid": "b060c3a8e648d61763e2a8bb6ebab584edf96c94d08644e76521e3223817face"
+  },
+  {
     "title": "AdvertPro — главная — изменены H2, текст",
     "link": "https://www.advertpro.ru/",
     "description": "<h3>Изменения H2</h3>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ ЧЁРНАЯ СРЕДА - 11.11!</li>\n</ul>\n<h3>Изменения текста</h3>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ ЧЁРНАЯ СРЕДА - 11.11!</li>\n<li>➖ Оплачиваете 11 ноября - и скидка 11% закрепляется за вами на целых 11 месяцев!</li>\n<li>➖ Тройная удача, которую нельзя упустить:</li>\n<li>➖ Скидка на всю работу</li>\n<li>➖ Фиксация выгодной цены на 11 месяцев</li>\n<li>➖ Специальное предложение для тех, кто обращается к нам впервые</li>\n</ul>",

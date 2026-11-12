@@ -5,7 +5,93 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Thu, 12 Nov 2026 02:57:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 11:02:40 +0000</lastBuildDate>
+<item>
+<title>IT-Agency — академия — изменены H3, текст, ссылки</title>
+<link>https://www.it-agency.ru/academy/</link>
+<guid isPermaLink="false">aa6984137244db7fe028984ee0221f3640f45aecfde26bb42da6b8b698239cec</guid>
+<pubDate>Thu, 12 Nov 2026 11:02:21 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Исследование: какие банки рекомендует ИИ и что делать командам ASO, SEO, GEO и PR, чтобы пользователь дошёл до продукта</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Промпты: как улучшить свои тексты с помощью нейросети</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Алла Рауд — эксперт месяца, руководитель направления продвижения приложений</li>
+<li>➕ Исследование: какие банки рекомендует ИИ и что делать командам ASO, SEO, GEO и PR, чтобы пользователь дошёл до продукта</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Карина Тихонова — эксперт месяца, старший интернет-маркетолог</li>
+<li>➖ Промпты: как улучшить свои тексты с помощью нейросети</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.it-agency.ru/academy/aso-banking-study-2026</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.it-agency.ru/academy/prompt-assistent-dlya-raboty-nad-textom</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>IT-Agency — главная — изменены H3, текст, ссылки</title>
+<link>https://www.it-agency.ru/</link>
+<guid isPermaLink="false">4621d181e50cc5ad5c6cbbe4611fec66525a2aea9483373a040bb2b465410e38</guid>
+<pubDate>Thu, 12 Nov 2026 11:02:20 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Исследование: какие банки рекомендует ИИ и что делать командам ASO, SEO, GEO и PR, чтобы пользователь дошёл до продукта</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Как собирать презентации в Yandex DataLens в пару кликов и без дизайнера</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Исследование: какие банки рекомендует ИИ и что делать командам ASO, SEO, GEO и PR, чтобы пользователь дошёл до продукта</li>
+<li>➕ Юлия Величко, специалист по маркетингу</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Как собирать презентации в Yandex DataLens в пару кликов и без дизайнера</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.it-agency.ru/academy/aso-banking-study-2026</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.it-agency.ru/academy/presentations-in-yandex-datalens</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>AdvertPro — главная — изменены ссылки</title>
+<link>https://www.advertpro.ru/</link>
+<guid isPermaLink="false">b060c3a8e648d61763e2a8bb6ebab584edf96c94d08644e76521e3223817face</guid>
+<pubDate>Thu, 12 Nov 2026 11:02:14 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.advertpro.ru/slovar-terminov</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>AdvertPro — главная — изменены H2, текст</title>
 <link>https://www.advertpro.ru/</link>
