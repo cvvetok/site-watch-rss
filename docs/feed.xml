@@ -5,7 +5,139 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Fri, 13 Nov 2026 07:55:23 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 16:20:32 +0000</lastBuildDate>
+<item>
+<title>IT-Agency — карьера — изменены текст, ссылки</title>
+<link>https://www.it-agency.ru/career/</link>
+<guid isPermaLink="false">9374aa2d4cbaa1ef2179c78d50f47dc0da20348287db3d59a5c12fc7eed5639f</guid>
+<pubDate>Fri, 13 Nov 2026 16:20:09 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Вакансия: автор в направление контент-маркетинга и PR</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.it-agency.ru/career/position-content-marketing-and-pr-writer</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>IT-Agency — академия — изменены H3, текст, ссылки</title>
+<link>https://www.it-agency.ru/academy/</link>
+<guid isPermaLink="false">204f4dc1aed4af56465a4136149dd9cea5faad03c91022e17d7bb994bb2ae09f</guid>
+<pubDate>Fri, 13 Nov 2026 16:20:09 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Исследование: какие аптеки рекомендует ИИ и что делать, чтобы помочь пользователю найти и скачать приложение</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ От интуиции до стратегии: 5 уровней зрелости маркетинга</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Юлия Величко — эксперт месяца, специалист по маркетингу</li>
+<li>➕ Исследование: какие аптеки рекомендует ИИ и что делать, чтобы помочь пользователю найти и скачать приложение</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Алла Рауд — эксперт месяца, руководитель направления продвижения приложений</li>
+<li>➖ От интуиции до стратегии: 5 уровней зрелости маркетинга</li>
+<li>➖ Роман Игошин, коммерческий директор, управляющий партнёр</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.it-agency.ru/academy/pharmacy-aso-study-2026</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.it-agency.ru/academy/stratpizza-stadii-marketinga-2025</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>IT-Agency — главная — изменены H3, текст, ссылки</title>
+<link>https://www.it-agency.ru/</link>
+<guid isPermaLink="false">ac6431deb197085af8ea9d0535b07f88f7f8f86abaded4d337e8a979dd14980e</guid>
+<pubDate>Fri, 13 Nov 2026 16:20:08 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Исследование: какие аптеки рекомендует ИИ и что делать, чтобы помочь пользователю найти и скачать приложение</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Не для штрафов, а для своевременной реакции. Как план-факт и медиаплан проекта упрощает работу и коммуникацию с клиентами</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Исследование: какие аптеки рекомендует ИИ и что делать, чтобы помочь пользователю найти и скачать приложение</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Не для штрафов, а для своевременной реакции. Как план-факт и медиаплан проекта упрощает работу и коммуникацию с клиентами</li>
+<li>➖ Игорь Приходько, Digital Lead по развитию</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.it-agency.ru/academy/pharmacy-aso-study-2026</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.it-agency.ru/academy/planfact-and-media-plan-simplify-the-work</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Rush Agency — вакансии — изменены TITLE, Description, H1, H2, текст, ссылки</title>
+<link>https://www.rush-agency.ru/jobs/</link>
+<guid isPermaLink="false">87ff3ff649013273ab2ae73fe4fc2647151e99728436160d79881541702c75e3</guid>
+<pubDate>Fri, 13 Nov 2026 16:20:04 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменён TITLE</h3>
+<p><strong>Было:</strong><br>Вакансии - Rush Agency</p>
+<p><strong>Стало:</strong><br>Rush Agency</p>
+<h3>Изменён META DESCRIPTION</h3>
+<p><strong>Было:</strong><br>Присоединяйтесь к команде RUSH AGENCY ⚡ Продвижение вашего бизнеса в digital-среде</p>
+<p><strong>Стало:</strong><br></p>
+<h3>Изменения H1</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Присоединяйтесь к команде Rush Agency</li>
+</ul>
+<h3>Изменения H2</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Работать у нас здорово!</li>
+<li>➖ Открытые вакансии</li>
+<li>➖ Не нашли подходящую вакансию?</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Присоединяйтесь к команде Rush Agency</li>
+<li>➖ Работать у нас здорово!</li>
+<li>➖ Не нашли подходящую вакансию?</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.rush-agency.ru/jobs/middle-seo-global</li>
+<li>➖ https://www.rush-agency.ru/jobs/middle-seo-speczialist</li>
+<li>➖ https://www.rush-agency.ru/jobs/senior-seo-speczialist</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>IT-Agency — академия — изменены H3, текст, ссылки</title>
 <link>https://www.it-agency.ru/academy/</link>
