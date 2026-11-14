@@ -5,7 +5,42 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Sat, 14 Nov 2026 03:12:35 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 10:23:27 +0000</lastBuildDate>
+<item>
+<title>Rush Agency — кейсы — изменены H2, текст, ссылки</title>
+<link>https://www.rush-agency.ru/cases/</link>
+<guid isPermaLink="false">d0e6958d749e99ab82b7ba9bbf2ac71fa90089816c22fea60d419b0d73270145</guid>
+<pubDate>Sat, 14 Nov 2026 10:22:59 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H2</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ SEO для интернет-магазина электроники на Битриксе</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ SEO-продвижение для центра разведения и тренировки собак</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ SEO для интернет-магазина электроники на Битриксе</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ SEO-продвижение для центра разведения и тренировки собак</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.rush-agency.ru/cases/seo-internet-magazin-elektroniki</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.rush-agency.ru/cases/seo-pitomnik-sobak</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Rush Agency — вакансии — изменены TITLE, Description, H1, H2, текст, ссылки</title>
 <link>https://www.rush-agency.ru/jobs/</link>
