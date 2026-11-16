@@ -5,7 +5,87 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Mon, 16 Nov 2026 02:04:16 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 09:39:22 +0000</lastBuildDate>
+<item>
+<title>IT-Agency — карьера — изменены текст, ссылки</title>
+<link>https://www.it-agency.ru/career/</link>
+<guid isPermaLink="false">50a6601799326b6f285fe77ffcf5936e7bbb55eab175a4134ee590fac35f62a7</guid>
+<pubDate>Mon, 16 Nov 2026 09:39:02 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Вакансия SMM-специалиста в IT-Agency</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.it-agency.ru/career/position-of-an-smm-specialist</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Rush Agency — SEO-продвижение — изменены Description</title>
+<link>https://www.rush-agency.ru/seo-prodvizhenie/</link>
+<guid isPermaLink="false">26231508bf5c33a34d23fdca5caf0539b98db4e38964f3035fb2cad1f5cf7ea5</guid>
+<pubDate>Mon, 16 Nov 2026 09:38:57 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменён META DESCRIPTION</h3>
+<p><strong>Было:</strong><br>➜ Заказать SEO продвижение сайта в топ Яндекс и Google, цена в Москве ⚡ SEO агентство Rush Agency ⚡ Работаем с 2013 года ✔ 450+ кейсов ⚡ Команда профессионалов ✔ Собственные AI-инструменты</p>
+<p><strong>Стало:</strong><br>➜ Заказать SEO продвижение сайта в топ Яндекс и Google, цена в Москве ⚡ SEO агентство Rush Agency ⚡ Работаем с 2013 года ✔ 500+ кейсов ⚡ Команда профессионалов ✔ Собственные AI-инструменты</p>
+]]></description>
+</item>
+<item>
+<title>Rush Agency — контакты — изменены текст</title>
+<link>https://www.rush-agency.ru/contacts/</link>
+<guid isPermaLink="false">2561c1b2769b345d96c270ced40822299a8f06527fc368365f83d7ebbfb02cbe</guid>
+<pubDate>Mon, 16 Nov 2026 09:38:55 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ ООО “Раш Эдженси” ИНН: 7728893521 КПП: 773101001 Юридический адрес: 121205, г. Москва, тер. Сколково инновационного центра, бульвар Большой, д. 42, стр. 1 Р/с: 40702810902300010657 в АО “АЛЬФА-БАНК” г. Москва К/с: 30101810200000000593 БИК: 044525593 ОГРН: 5147746239702</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ ООО “Раш Эдженси” ИНН: 7728893521 КПП: 773101001 Юридический адрес: 121205, г. Москва, тер. Сколково инновационного центра, бульвар Большой, д. 42, стр. 1, этаж -1, помещ/РМ 140/3 Р/с: 40702810902300010657 в АО “АЛЬФА-БАНК” г. Москва К/с: 30101810200000000593 БИК: 044525593 ОГРН: 5147746239702</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Rush Agency — о компании — изменены текст</title>
+<link>https://www.rush-agency.ru/about/</link>
+<guid isPermaLink="false">c9ba8a52335b17833a54b3b8626c07a08ee768a0312efdf27685b44282f6fd2a</guid>
+<pubDate>Mon, 16 Nov 2026 09:38:54 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ На рынке с 2013 года, 150 специалистов, 1 500+ клиентов</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ На рынке с 2013 года, 100+ специалистов, 1 000+ клиентов</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Nevsky Agency — главная — изменены текст</title>
+<link>https://nevsky.agency/</link>
+<guid isPermaLink="false">e97848a8dcc14659c3efcc16344f006b091455d3e44318577c9c8c5ace2e3a6c</guid>
+<pubDate>Mon, 16 Nov 2026 09:38:48 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ 154 проекта в портфолио</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ 153 проекта в портфолио</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Rush Agency — вакансии — изменены TITLE, Description, H1, H2, текст, ссылки</title>
 <link>https://www.rush-agency.ru/jobs/</link>
