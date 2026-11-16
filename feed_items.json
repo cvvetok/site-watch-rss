@@ -1,5 +1,47 @@
 [
   {
+    "title": "Ingate — блог — изменены ссылки",
+    "link": "https://ingate.ru/blog/",
+    "description": "<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://ingate.ru/blog/pochemu-reklamu-kolbasy-stoit-pokazyvat-vladeltsam-koshek-i-kofemashin</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ https://ingate.ru/webinars/chto-takoe-germ-ili-kak-rabota-brenda-s-reputatsiey-vliyaet-na-vydachu-v-neyrosetyakh</li>\n</ul>",
+    "date": "2026-11-16T20:28:46.896077+00:00",
+    "guid": "f56894f2a11192571f524bb89460f7a0bffddbef3a5058fbfb74d9f05d7d150b"
+  },
+  {
+    "title": "Ingate — услуги — изменены ссылки",
+    "link": "https://ingate.ru/uslugi/",
+    "description": "<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://ingate.ru/blog/pochemu-reklamu-kolbasy-stoit-pokazyvat-vladeltsam-koshek-i-kofemashin</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ https://ingate.ru/blog/zachem-biznesu-serm-i-kak-otsenit-ego-vklad-v-prodazhi</li>\n</ul>",
+    "date": "2026-11-16T20:28:42.419217+00:00",
+    "guid": "594fc0aec37b1b831d1ec239121c9560fcc172501d1e5ec77bd0e42e0ce13d91"
+  },
+  {
+    "title": "Ingate — главная — изменены ссылки",
+    "link": "https://ingate.ru/",
+    "description": "<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://ingate.ru/blog/pochemu-reklamu-kolbasy-stoit-pokazyvat-vladeltsam-koshek-i-kofemashin</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ https://ingate.ru/blog/uvidel-reklamu-v-marte-kupil-v-sentyabre-ili-kak-agrobrendu-ne-poteryat-klienta-po-doroge</li>\n</ul>",
+    "date": "2026-11-16T20:28:41.655006+00:00",
+    "guid": "a539f5697aaac41bb9987779989012b0513e99cbfb6924ed73b6129075b96d9b"
+  },
+  {
+    "title": "IT-Agency — академия — изменены H3, текст, ссылки",
+    "link": "https://www.it-agency.ru/academy/",
+    "description": "<h3>Изменения H3</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Как внедрить ИИ, чтобы влиять на цифры и вовлечь команду</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ От нуля до ТОП-1: мобильный маркетинг и ИИ — стратегии роста в 2026 году</li>\n</ul>\n<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Как внедрить ИИ, чтобы влиять на цифры и вовлечь команду</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ От нуля до ТОП-1: мобильный маркетинг и ИИ — стратегии роста в 2026 году</li>\n</ul>\n<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://www.it-agency.ru/academy/events-first-aisalon</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ https://www.it-agency.ru/academy/online-lektoryi-markom-aso-ai</li>\n</ul>",
+    "date": "2026-11-16T20:28:38.035556+00:00",
+    "guid": "ba6716b9569c6ebdcf2591f4df05eac3455a79bbc7bdd4991010a547e91116f6"
+  },
+  {
+    "title": "IT-Agency — главная — изменены H3, текст, ссылки",
+    "link": "https://www.it-agency.ru/",
+    "description": "<h3>Изменения H3</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Как внедрить ИИ, чтобы влиять на цифры и вовлечь команду</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Как не упираться в лимиты нейросети: 10 правил экономии токенов от IT-Agency</li>\n</ul>\n<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Как внедрить ИИ, чтобы влиять на цифры и вовлечь команду</li>\n<li>➕ Антон Рожков, Управляющий партнер дивизиона «Центральная Азия»</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Как не упираться в лимиты нейросети: 10 правил экономии токенов от IT-Agency</li>\n<li>➖ Карина Тихонова, старший интернет-маркетолог</li>\n</ul>\n<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://www.it-agency.ru/academy/events-first-aisalon</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ https://www.it-agency.ru/academy/codex-limits</li>\n</ul>",
+    "date": "2026-11-16T20:28:36.753346+00:00",
+    "guid": "31933c8e7576d73818a13d4adbadccb3bb7dcc31e431db283a703a06bda3c0cb"
+  },
+  {
+    "title": "Rush Agency — вакансии — изменены TITLE, Description, H1, H2, текст, ссылки",
+    "link": "https://www.rush-agency.ru/jobs/",
+    "description": "<h3>Изменён TITLE</h3>\n<p><strong>Было:</strong><br>Rush Agency</p>\n<p><strong>Стало:</strong><br>Вакансии - Rush Agency</p>\n<h3>Изменён META DESCRIPTION</h3>\n<p><strong>Было:</strong><br></p>\n<p><strong>Стало:</strong><br>Присоединяйтесь к команде RUSH AGENCY ⚡ Продвижение вашего бизнеса в digital-среде</p>\n<h3>Изменения H1</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Присоединяйтесь к команде Rush Agency</li>\n</ul>\n<h3>Изменения H2</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Работать у нас здорово!</li>\n<li>➕ Открытые вакансии</li>\n<li>➕ Не нашли подходящую вакансию?</li>\n</ul>\n<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Присоединяйтесь к команде Rush Agency</li>\n<li>➕ Работать у нас здорово!</li>\n<li>➕ Не нашли подходящую вакансию?</li>\n</ul>\n<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://www.rush-agency.ru/jobs/middle-seo-global</li>\n<li>➕ https://www.rush-agency.ru/jobs/middle-seo-speczialist</li>\n<li>➕ https://www.rush-agency.ru/jobs/senior-seo-speczialist</li>\n</ul>",
+    "date": "2026-11-16T20:28:33.207279+00:00",
+    "guid": "d9aee9ed67f9dd1f4967350f01b3833dd951fdd569be0e275790a3b8c370bc09"
+  },
+  {
     "title": "IT-Agency — карьера — изменены текст, ссылки",
     "link": "https://www.it-agency.ru/career/",
     "description": "<h3>Изменения текста</h3>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Вакансия SMM-специалиста в IT-Agency</li>\n</ul>\n<h3>Изменения внутренних ссылок</h3>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ https://www.it-agency.ru/career/position-of-an-smm-specialist</li>\n</ul>",
