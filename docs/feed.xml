@@ -5,7 +5,42 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Tue, 17 Nov 2026 03:53:23 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 13:27:48 +0000</lastBuildDate>
+<item>
+<title>Kokoc Group — блог — изменены H3, текст, ссылки</title>
+<link>https://kokocgroup.ru/blog</link>
+<guid isPermaLink="false">79a314ba9f37d1ad3631b803cb3c68a95b82553ddd5b6834a75667fc46a5e3e8</guid>
+<pubDate>Tue, 17 Nov 2026 13:27:43 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Как «Клиника Фомина» получила ласт-клик лиды ниже плановых</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ 75% пользователей заходят на сайты клиник со смартфонов — но мобильные версии хуже удерживают пациентов</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Как «Клиника Фомина» получила ласт-клик лиды ниже плановых</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ 75% пользователей заходят на сайты клиник со смартфонов — но мобильные версии хуже удерживают пациентов</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://kokocgroup.ru/blog/kak-klinika-fomina-poluchila-last-klik-lidy-nizhe-planovykh</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://kokocgroup.ru/blog/75-polzovatelei-zakhodiat-na-saity-klinik-so-smartfonov-no-mobilnye-versii-khuzhe-uderzhivaiut-patsientov</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Ingate — блог — изменены ссылки</title>
 <link>https://ingate.ru/blog/</link>
