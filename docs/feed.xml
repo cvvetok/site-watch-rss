@@ -5,7 +5,67 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Tue, 17 Nov 2026 13:27:48 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 22:21:30 +0000</lastBuildDate>
+<item>
+<title>Ingate — блог — изменены ссылки</title>
+<link>https://ingate.ru/blog/</link>
+<guid isPermaLink="false">18caf76a251239aa734cc0a50c77643239e616ad0a38d7ee27b856750c6d6871</guid>
+<pubDate>Tue, 17 Nov 2026 22:21:20 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://ingate.ru/blog/kak-serm-menyaet-poiskovuyu-vydachu-brenda-i-kak-proverit-rezultat</li>
+<li>➕ https://ingate.ru/webinars/geo-vebinar-trafik-padaet-pozitsii-stoyat-kak-izmerit-to-chto-poteryali-v-otvetakh-ii</li>
+<li>➕ https://ingate.ru/webinars/ne-vedite-sotsseti-v-2027-stroyte-sistemu-vliyaniya</li>
+<li>➕ https://ingate.ru/webinars/zainteresovalsya-no-ne-obratilsya-kak-prevratit-doverie-v-zayavki-kogda-trafik-dorozhaet-</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://ingate.ru/blog/kak-prodvigat-sayt-po-poziciyam</li>
+<li>➖ https://ingate.ru/blog/kak-rasschitat-kpi-dlya-biznesa</li>
+<li>➖ https://ingate.ru/blog/seo</li>
+<li>➖ https://ingate.ru/webinars/ot-idei-do-vau-effekta-7-novogodnikh-spetsproektov-vovlekayushchikh-auditoriyu</li>
+<li>➖ https://ingate.ru/webinars/samaya-nezametnaya-utechka-byudzheta-kakie-lidy-razoryayut-kompaniyu</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Ingate — услуги — изменены ссылки</title>
+<link>https://ingate.ru/uslugi/</link>
+<guid isPermaLink="false">02b45a3cdef3ab9c2004f7e92aed5a1fc997f3041b45b85bf29fafbb77adbd26</guid>
+<pubDate>Tue, 17 Nov 2026 22:21:12 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://ingate.ru/blog/kak-serm-menyaet-poiskovuyu-vydachu-brenda-i-kak-proverit-rezultat</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://ingate.ru/blog/kak-rabotat-s-negativnymi-otzyvami-klientov-i-vystroit-protsess-v-kompanii</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Ingate — главная — изменены ссылки</title>
+<link>https://ingate.ru/</link>
+<guid isPermaLink="false">f91beed3eb3fd967720009737c581f24918e9cd853b5497533e9c75a1eb75fb5</guid>
+<pubDate>Tue, 17 Nov 2026 22:21:11 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://ingate.ru/blog/kak-serm-menyaet-poiskovuyu-vydachu-brenda-i-kak-proverit-rezultat</li>
+<li>➕ https://ingate.ru/blog/zainteresovalsya-no-ne-obratilsya-kak-prevratit-doverie-v-zayavki-kogda-trafik-dorozhaet-</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://ingate.ru/blog/kak-rabotat-s-negativnymi-otzyvami-klientov-i-vystroit-protsess-v-kompanii</li>
+<li>➖ https://ingate.ru/blog/zachem-biznesu-serm-i-kak-otsenit-ego-vklad-v-prodazhi</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Kokoc Group — блог — изменены H3, текст, ссылки</title>
 <link>https://kokocgroup.ru/blog</link>
