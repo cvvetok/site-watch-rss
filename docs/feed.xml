@@ -5,7 +5,30 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Thu, 19 Nov 2026 03:24:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 13:01:45 +0000</lastBuildDate>
+<item>
+<title>Rush Agency — блог — изменены текст, ссылки</title>
+<link>https://www.rush-agency.ru/blog/</link>
+<guid isPermaLink="false">6b701e7bd3ff9a4cac2a0fa8d441a3f6f9736d06aabbc71e0f0ead2b11d87182</guid>
+<pubDate>Thu, 19 Nov 2026 13:01:10 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Можно сделать рейтинг компаний у себя на сайте, но люди с недоверием относятся к компании, которая сама сравнивает себя с конкурентами. Но именно по таким запросам, рейтингам и ТОПам клиенты решают, к какой компании обратиться. С помощью паразитного SEO компания попадает в подборку на сторонней площадке, которую поисковые системы показывают в топе по запросам такого формата.</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Яндекс не называет ИКС фактором ранжирования, так что гнаться за ним отдельно смысла нет. Тем более что Яндекс оставляет за собой право обнулить показатель, если зафиксирует попытки на него повлиять. В динамике и в сравнении с конкурентами ИКС работает как индикатор состояния проекта.</li>
+<li>➖ Поведенческие факторы устроены проще: они показывают, решает ли сайт задачу человека, пришедшего из выдачи.</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.rush-agency.ru/blog/chto-takoe-parazitnoe-seo</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Rush Agency — вакансии — изменены TITLE, Description, H1, H2, текст, ссылки</title>
 <link>https://www.rush-agency.ru/jobs/</link>
