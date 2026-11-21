@@ -447,7 +447,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-11-21T09:46:11.256420+00:00"
+    "checked_at": "2026-11-21T17:29:07.934798+00:00"
   },
   "https://ac-u.ru/seo/": {
     "name": "Акцепт — SEO",
@@ -1028,7 +1028,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-11-21T09:46:11.783307+00:00"
+    "checked_at": "2026-11-21T17:29:08.889263+00:00"
   },
   "https://ac-u.ru/sozdanie-saitov/": {
     "name": "Акцепт — создание сайтов",
@@ -1279,7 +1279,7 @@
         "https://ac-u.ru/upload/resize_cache/iblock/d97/800_800_0/iy5ofvxb28ttkte1fcmg62xev86ejd91.jpg"
       ]
     },
-    "checked_at": "2026-11-21T09:46:12.173066+00:00"
+    "checked_at": "2026-11-21T17:29:09.238980+00:00"
   },
   "https://nan.ru/": {
     "name": "NAN — главная",
@@ -1410,7 +1410,7 @@
         "https://nan.ru/web-support/tehpodderzhka.html"
       ]
     },
-    "checked_at": "2026-11-21T09:46:13.304921+00:00"
+    "checked_at": "2026-11-21T17:29:10.358779+00:00"
   },
   "https://artena.ru/": {
     "name": "Artena — главная",
@@ -1426,7 +1426,7 @@
         "https://artena.ru/protect971/index.php"
       ]
     },
-    "checked_at": "2026-11-21T09:46:16.686910+00:00"
+    "checked_at": "2026-11-21T17:29:12.420597+00:00"
   },
   "https://vmeste.marketing/": {
     "name": "Vmeste Marketing — главная",
@@ -1531,7 +1531,7 @@
         "https://vmeste.marketing/privacy"
       ]
     },
-    "checked_at": "2026-11-21T09:46:18.214177+00:00"
+    "checked_at": "2026-11-21T17:29:14.134173+00:00"
   },
   "https://nevsky.agency/": {
     "name": "Nevsky Agency — главная",
@@ -1868,7 +1868,7 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-11-21T09:46:19.281598+00:00"
+    "checked_at": "2026-11-21T17:29:15.366568+00:00"
   },
   "https://nevsky.agency/yandex-direct": {
     "name": "Nevsky Agency — Яндекс Директ",
@@ -2176,7 +2176,7 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-11-21T09:46:19.660399+00:00"
+    "checked_at": "2026-11-21T17:29:15.562743+00:00"
   },
   "https://nevsky.agency/seo": {
     "name": "Nevsky Agency — SEO",
@@ -2507,11 +2507,11 @@
         "https://nevsky.agency/yandex-karty"
       ]
     },
-    "checked_at": "2026-11-21T09:46:20.038564+00:00"
+    "checked_at": "2026-11-21T17:29:15.822411+00:00"
   },
   "https://www.advertpro.ru/": {
     "name": "AdvertPro — главная",
-    "hash": "82c9c700151f8ca540b6634c1fb111304518100958c9dfc8fadf1aa7b8b835d3",
+    "hash": "6ea6730e0d21049dfe3e7b4cdb9f7ed21dca46f53992f788c5d4d60cb5c73767",
     "snapshot": {
       "title": "Маркетинговое агентство в Москве - digital-агентство полного цикла, услуги продвижения и создания сайтов | AdvertPro",
       "description": "Разработка и продвижение сайтов под ключ от AdvertPro. Комплексный интернет-маркетинг: SEO, контекстная реклама, создание сайтов, SERM и техническая поддержка. Digital-агентство полного цикла с 19-летним опытом помогает получать заявки из поиска, рекламы и других интернет-каналов.",
@@ -2662,6 +2662,12 @@
         "Технические доработки на сайте",
         "Сбор видимости в нейроответах",
         "Реализуем задачи для бизнеса разных отраслей",
+        "Разработка корпоративного сайта для производителя премиальной плитки и кирпича ручной формовки",
+        "Создали минималистичный корпоративный сайт для производителя премиальной плитки и кирпича ручной формовки с акцентом на визуальную подачу коллекций и удобный каталог для дизайнеров и архитекторов.",
+        "Цель Создать сайт, который подчёркивает премиальность продукта и служит удобным каталогом для дизайнеров и архитекторов",
+        "Создать сайт, который подчёркивает премиальность продукта и служит удобным каталогом для дизайнеров и архитекторов",
+        "Результат Структурированный каталог, удобство выбора, рост доверия со стороны дизайнеров и оптовых покупателей",
+        "Структурированный каталог, удобство выбора, рост доверия со стороны дизайнеров и оптовых покупателей",
         "Реклама производителя систем вентиляции",
         "Снизили стоимость лида в 4,6 раз за 4 месяца за счет работы с рекламной кампанией и повышения качества сайта",
         "Услуга Контекстная реклама",
@@ -2715,12 +2721,6 @@
         "Ускорить выход коммерческих запросов в ТОП-10 Яндекса и повысить поисковую видимость сайта",
         "Результат Рост запросов в ТОП-10 в 3,4 раза за 1,5 месяца",
         "Рост запросов в ТОП-10 в 3,4 раза за 1,5 месяца",
-        "SEO-продвижение интернет-магазина корейской косметики: рост трафика на 370% за 4 месяца",
-        "Увеличили органический трафик интернет-магазина корейской косметики на 372% за 4 месяца и удвоили достижения целей за счёт развития контента, теговых страниц и продвижения в нейроответах Google.",
-        "Цель Увеличить органический трафик из поисковых систем, расширить охват целевых запросов, повысить количество конверсий и усилить присутствие сайта в нейроответах Google.",
-        "Увеличить органический трафик из поисковых систем, расширить охват целевых запросов, повысить количество конверсий и усилить присутствие сайта в нейроответах Google.",
-        "Результат Рост трафика на 370% за 4 месяца",
-        "Рост трафика на 370% за 4 месяца",
         "Больше проектов и решений",
         "Получить кейсы из моей ниши",
         "Надежный партнер, а не подрядчик",
@@ -2923,7 +2923,7 @@
         "https://www.advertpro.ru/uslugi/upravlenie-reputaciey/prodvizhenie-na-kartah"
       ]
     },
-    "checked_at": "2026-11-21T09:46:22.009793+00:00"
+    "checked_at": "2026-11-21T17:29:17.488148+00:00"
   },
   "https://www.rush-agency.ru/": {
     "name": "Rush Agency — главная",
@@ -3181,7 +3181,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2023/05/dogovor-na-seo-konsalting-dlya-sajta-2023_rush-agency.pdf"
       ]
     },
-    "checked_at": "2026-11-21T09:46:23.377818+00:00"
+    "checked_at": "2026-11-21T17:29:18.657400+00:00"
   },
   "https://www.rush-agency.ru/cases/": {
     "name": "Rush Agency — кейсы",
@@ -3366,7 +3366,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-21T09:46:23.842019+00:00"
+    "checked_at": "2026-11-21T17:29:19.072773+00:00"
   },
   "https://www.rush-agency.ru/about/": {
     "name": "Rush Agency — о компании",
@@ -3883,7 +3883,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2026/07/pochemu-vklady-i-investiczii-ne-sdelayut-tebya-bogatym-anar-babaev-na-pensiyu-v-35.mp4"
       ]
     },
-    "checked_at": "2026-11-21T09:46:24.317858+00:00"
+    "checked_at": "2026-11-21T17:29:19.540110+00:00"
   },
   "https://www.rush-agency.ru/blog/": {
     "name": "Rush Agency — блог",
@@ -4126,7 +4126,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-21T09:46:24.833654+00:00"
+    "checked_at": "2026-11-21T17:29:20.049717+00:00"
   },
   "https://www.rush-agency.ru/contacts/": {
     "name": "Rush Agency — контакты",
@@ -4299,7 +4299,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-21T09:46:25.273378+00:00"
+    "checked_at": "2026-11-21T17:29:20.466806+00:00"
   },
   "https://www.rush-agency.ru/jobs/": {
     "name": "Rush Agency — вакансии",
@@ -4469,7 +4469,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-21T09:46:25.754304+00:00"
+    "checked_at": "2026-11-21T17:29:21.049525+00:00"
   },
   "https://www.rush-agency.ru/partners/": {
     "name": "Rush Agency — партнёры",
@@ -4653,7 +4653,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-21T09:46:26.211203+00:00"
+    "checked_at": "2026-11-21T17:29:21.494111+00:00"
   },
   "https://www.rush-agency.ru/reviews/": {
     "name": "Rush Agency — отзывы",
@@ -4853,7 +4853,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2026/08/dreamwhite.jpg"
       ]
     },
-    "checked_at": "2026-11-21T09:46:26.652529+00:00"
+    "checked_at": "2026-11-21T17:29:21.914474+00:00"
   },
   "https://www.rush-agency.ru/seo-prodvizhenie/": {
     "name": "Rush Agency — SEO-продвижение",
@@ -5123,7 +5123,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-21T09:46:27.106954+00:00"
+    "checked_at": "2026-11-21T17:29:24.123545+00:00"
   },
   "https://www.rush-agency.ru/prodvizhenie-sajta-za-rubezhom/": {
     "name": "Rush Agency — продвижение сайта за рубежом",
@@ -5334,7 +5334,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-21T09:46:27.566987+00:00"
+    "checked_at": "2026-11-21T17:29:24.566585+00:00"
   },
   "https://www.rush-agency.ru/prodvizhenie-sajta-v-ai/": {
     "name": "Rush Agency — продвижение сайта в AI",
@@ -5558,7 +5558,7 @@
         "https://www.rush-agency.ru/soglasie-na-reklamnuyu-i-informaczionnuyu-rassylku"
       ]
     },
-    "checked_at": "2026-11-21T09:46:28.017216+00:00"
+    "checked_at": "2026-11-21T17:29:25.604679+00:00"
   },
   "https://www.rush-agency.ru/orm/": {
     "name": "Rush Agency — ORM",
@@ -5930,7 +5930,7 @@
         "https://www.rush-agency.ru/wp-content/uploads/2026/10/kak-zashhitit-reputacziyu-biznesa-v-internete-chernyj-pr-negativnye-otzyvy-i-shantazh-serm-orm.mp4"
       ]
     },
-    "checked_at": "2026-11-21T09:46:28.522053+00:00"
+    "checked_at": "2026-11-21T17:29:26.101556+00:00"
   },
   "https://www.it-agency.ru/": {
     "name": "IT-Agency — главная",
@@ -6073,7 +6073,7 @@
         "https://www.it-agency.ru/worths"
       ]
     },
-    "checked_at": "2026-11-21T09:46:29.739971+00:00"
+    "checked_at": "2026-11-21T17:29:27.151139+00:00"
   },
   "https://www.it-agency.ru/projects/": {
     "name": "IT-Agency — проекты",
@@ -6927,7 +6927,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-21T09:46:30.510086+00:00"
+    "checked_at": "2026-11-21T17:29:27.890746+00:00"
   },
   "https://www.it-agency.ru/services/": {
     "name": "IT-Agency — услуги",
@@ -7110,7 +7110,7 @@
         "https://www.it-agency.ru/services/yandex-direct-contextual-advertising"
       ]
     },
-    "checked_at": "2026-11-21T09:46:30.734396+00:00"
+    "checked_at": "2026-11-21T17:29:28.105793+00:00"
   },
   "https://www.it-agency.ru/academy/": {
     "name": "IT-Agency — академия",
@@ -7369,7 +7369,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-21T09:46:31.034111+00:00"
+    "checked_at": "2026-11-21T17:29:28.389820+00:00"
   },
   "https://www.it-agency.ru/career/": {
     "name": "IT-Agency — карьера",
@@ -7480,7 +7480,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-21T09:46:31.298760+00:00"
+    "checked_at": "2026-11-21T17:29:28.634190+00:00"
   },
   "https://www.it-agency.ru/company/": {
     "name": "IT-Agency — компания",
@@ -7578,7 +7578,7 @@
         "https://www.it-agency.ru/worths"
       ]
     },
-    "checked_at": "2026-11-21T09:46:31.482263+00:00"
+    "checked_at": "2026-11-21T17:29:28.808576+00:00"
   },
   "https://www.it-agency.ru/contacts/": {
     "name": "IT-Agency — контакты",
@@ -7666,7 +7666,7 @@
         "https://www.it-agency.ru/services/seo"
       ]
     },
-    "checked_at": "2026-11-21T09:46:31.656265+00:00"
+    "checked_at": "2026-11-21T17:29:28.964027+00:00"
   },
   "https://ingate.ru/": {
     "name": "Ingate — главная",
@@ -7877,7 +7877,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-21T09:46:34.652129+00:00"
+    "checked_at": "2026-11-21T17:29:32.185957+00:00"
   },
   "https://ingate.ru/uslugi/": {
     "name": "Ingate — услуги",
@@ -8064,7 +8064,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-21T09:46:35.444153+00:00"
+    "checked_at": "2026-11-21T17:29:33.001365+00:00"
   },
   "https://ingate.ru/cases/": {
     "name": "Ingate — кейсы",
@@ -8174,7 +8174,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-21T09:46:36.207706+00:00"
+    "checked_at": "2026-11-21T17:29:33.789825+00:00"
   },
   "https://ingate.ru/company/": {
     "name": "Ingate — компания",
@@ -8270,7 +8270,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-21T09:46:36.902784+00:00"
+    "checked_at": "2026-11-21T17:29:34.505323+00:00"
   },
   "https://ingate.ru/blog/": {
     "name": "Ingate — блог",
@@ -8405,7 +8405,7 @@
         "https://ingate.ru/wikipedia"
       ]
     },
-    "checked_at": "2026-11-21T09:46:40.113497+00:00"
+    "checked_at": "2026-11-21T17:29:37.235020+00:00"
   },
   "https://kokocgroup.ru/": {
     "name": "Kokoc Group — главная",
@@ -8468,7 +8468,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-21T09:46:46.400581+00:00"
+    "checked_at": "2026-11-21T17:29:40.386421+00:00"
   },
   "https://kokocgroup.ru/about/": {
     "name": "Kokoc Group — о компании",
@@ -8515,7 +8515,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-21T09:46:46.676913+00:00"
+    "checked_at": "2026-11-21T17:29:40.618015+00:00"
   },
   "https://kokocgroup.ru/blog": {
     "name": "Kokoc Group — блог",
@@ -8614,7 +8614,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-21T09:46:47.557007+00:00"
+    "checked_at": "2026-11-21T17:29:41.345006+00:00"
   },
   "https://career.kokocgroup.ru/": {
     "name": "Kokoc Group — карьера",
@@ -8689,7 +8689,7 @@
         "https://career.kokocgroup.ru/vacancies?job_type=Развитие и поддержка бизнеса"
       ]
     },
-    "checked_at": "2026-11-21T09:46:48.689419+00:00"
+    "checked_at": "2026-11-21T17:29:42.356572+00:00"
   },
   "https://kokocgroup.ru/contacts/": {
     "name": "Kokoc Group — контакты",
@@ -8734,7 +8734,7 @@
         "https://kokocgroup.ru/user_agreement"
       ]
     },
-    "checked_at": "2026-11-21T09:46:48.902475+00:00"
+    "checked_at": "2026-11-21T17:29:42.548980+00:00"
   },
   "https://realweb.ru/": {
     "name": "Realweb — главная",
@@ -8781,7 +8781,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-21T09:46:50.618974+00:00"
+    "checked_at": "2026-11-21T17:29:43.886956+00:00"
   },
   "https://realweb.ru/case": {
     "name": "Realweb — кейсы",
@@ -8819,7 +8819,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-21T09:46:51.030410+00:00"
+    "checked_at": "2026-11-21T17:29:44.252467+00:00"
   },
   "https://realweb.ru/researches": {
     "name": "Realweb — исследования",
@@ -8857,7 +8857,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-21T09:46:51.647943+00:00"
+    "checked_at": "2026-11-21T17:29:44.719059+00:00"
   },
   "https://realweb.ru/about-us": {
     "name": "Realweb — о компании",
@@ -8895,7 +8895,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-21T09:46:52.201887+00:00"
+    "checked_at": "2026-11-21T17:29:45.263280+00:00"
   },
   "https://realweb.ru/career": {
     "name": "Realweb — карьера",
@@ -8936,7 +8936,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-21T09:46:52.562520+00:00"
+    "checked_at": "2026-11-21T17:29:45.814089+00:00"
   },
   "https://realweb.ru/contacts": {
     "name": "Realweb — контакты",
@@ -8974,7 +8974,7 @@
         "https://realweb.ru/sout"
       ]
     },
-    "checked_at": "2026-11-21T09:46:53.085284+00:00"
+    "checked_at": "2026-11-21T17:29:46.227364+00:00"
   },
   "https://hr.ingate.ru/": {
     "name": "Ingate — карьера",
@@ -9346,6 +9346,6 @@
         "https://hr.ingate.ru/vacancy/current.php?ID=18623"
       ]
     },
-    "checked_at": "2026-11-21T09:46:45.520691+00:00"
+    "checked_at": "2026-11-21T17:29:39.745026+00:00"
   }
 }
