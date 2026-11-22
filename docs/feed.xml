@@ -5,7 +5,58 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Sun, 22 Nov 2026 11:19:56 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 19:36:25 +0000</lastBuildDate>
+<item>
+<title>Ingate — блог — изменены ссылки</title>
+<link>https://ingate.ru/blog/</link>
+<guid isPermaLink="false">92fd0e5edbb2e8a4636bc192f083788c67561fbad201b5d55b8fde2e861d63fe</guid>
+<pubDate>Sun, 22 Nov 2026 19:36:16 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://ingate.ru/webinars/kak-prodvigat-slozhnyy-b2b-i-b2g-produkt-cherez-geo</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://ingate.ru/blog/kpi-v-marketinge</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Ingate — услуги — изменены ссылки</title>
+<link>https://ingate.ru/uslugi/</link>
+<guid isPermaLink="false">9195ac14a596366fd747eb8c9495af528472c01b089df6d95b54b0c2756038e1</guid>
+<pubDate>Sun, 22 Nov 2026 19:36:09 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://ingate.ru/webinars/kak-prodvigat-slozhnyy-b2b-i-b2g-produkt-cherez-geo</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://ingate.ru/blog/pochemu-reklamu-kolbasy-stoit-pokazyvat-vladeltsam-koshek-i-kofemashin</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Ingate — главная — изменены ссылки</title>
+<link>https://ingate.ru/</link>
+<guid isPermaLink="false">4d6ef7073d65d905422432aedecd2eac0c7e155947d67b0828f25a9049bb0681</guid>
+<pubDate>Sun, 22 Nov 2026 19:36:08 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://ingate.ru/blog/kak-prodvigat-slozhnyy-b2b-i-b2g-produkt-cherez-geo</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://ingate.ru/blog/zainteresovalsya-no-ne-obratilsya-kak-prevratit-doverie-v-zayavki-kogda-trafik-dorozhaet-</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>AdvertPro — главная — изменены текст</title>
 <link>https://www.advertpro.ru/</link>
