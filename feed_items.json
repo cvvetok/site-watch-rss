@@ -1,5 +1,33 @@
 [
   {
+    "title": "IT-Agency — академия — изменены H3, текст, ссылки",
+    "link": "https://www.it-agency.ru/academy/",
+    "description": "<h3>Изменения H3</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Исследование: каких производителей лекарств упоминает ИИ и что делать, чтобы управлять репутацией бренда в нейросетях</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Я не разработчик, но создаю сервисы с вайбкодингом. Что нужно знать, чтобы начать?</li>\n</ul>\n<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Исследование: каких производителей лекарств упоминает ИИ и что делать, чтобы управлять репутацией бренда в нейросетях</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Я не разработчик, но создаю сервисы с вайбкодингом. Что нужно знать, чтобы начать?</li>\n</ul>\n<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://www.it-agency.ru/academy/pharma-manufacturers-geo-study-2026</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ https://www.it-agency.ru/academy/how-to-create-services-with-vibecoding</li>\n</ul>",
+    "date": "2026-11-23T21:19:47.268664+00:00",
+    "guid": "9a37c2af3c190a8e1918f8894e1a7e9fd58fa02fae87cbbe5ccc3a5dc2ed6fb6"
+  },
+  {
+    "title": "IT-Agency — главная — изменены H3, текст, ссылки",
+    "link": "https://www.it-agency.ru/",
+    "description": "<h3>Изменения H3</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Исследование: каких производителей лекарств упоминает ИИ и что делать, чтобы управлять репутацией бренда в нейросетях</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Исследование: какие банки рекомендует ИИ и что делать командам ASO, SEO, GEO и PR, чтобы пользователь дошёл до продукта</li>\n</ul>\n<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Исследование: каких производителей лекарств упоминает ИИ и что делать, чтобы управлять репутацией бренда в нейросетях</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Исследование: какие банки рекомендует ИИ и что делать командам ASO, SEO, GEO и PR, чтобы пользователь дошёл до продукта</li>\n</ul>\n<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://www.it-agency.ru/academy/pharma-manufacturers-geo-study-2026</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ https://www.it-agency.ru/academy/aso-banking-study-2026</li>\n</ul>",
+    "date": "2026-11-23T21:19:46.097264+00:00",
+    "guid": "001f750f2ea75a555e135c6c3629eb6b92d01d3ca6e13e9189a556dc28c1e0e6"
+  },
+  {
+    "title": "AdvertPro — главная — изменены текст",
+    "link": "https://www.advertpro.ru/",
+    "description": "<h3>Изменения текста</h3>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ Позвоним в рабочее время, разберём задачу и предложим план продвижения. Без спама и рассылок.</li>\n<li>➖ Отвечаем в течение рабочего дня. Обычно - за 20 минут.</li>\n<li>➖ Перезвоним на указанный номер в рабочее время.</li>\n<li>➖ Юля Богданова, Менеджер</li>\n<li>➖ Ольга Кузнецова, Маркетолог</li>\n</ul>",
+    "date": "2026-11-23T21:19:37.167191+00:00",
+    "guid": "f2a71ca4469a4784520793712e7b2c499ef3542d17315919f150a661af870edc"
+  },
+  {
+    "title": "NAN — главная — изменены ссылки",
+    "link": "https://nan.ru/",
+    "description": "<h3>Изменения внутренних ссылок</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ https://nan.ru/themes/nan/upload/custom/soglasia_0625/Politika_obrabotki_pers_dannyh_dlya_nanru_2.pdf</li>\n</ul>\n<p><strong>Удалено:</strong></p>\n<ul>\n<li>➖ https://nan.ru/themes/nan/upload/custom/soglasia_0625/Politika_obrabotki_pers_dannyh_dlya_nanru_1.pdf</li>\n<li>➖ https://nan.ru/themes/nan/upload/custom/soglasia_0625/nan-ru_Soglasie_na_obrabotku_personalnyh_dannyh.pdf</li>\n</ul>",
+    "date": "2026-11-23T21:19:19.167774+00:00",
+    "guid": "82a1b5ca3aabcc5538e8a2f17cf4b58c488817138d3aa558d825528c715a4968"
+  },
+  {
     "title": "Nevsky Agency — Яндекс Директ — изменены текст",
     "link": "https://nevsky.agency/yandex-direct",
     "description": "<h3>Изменения текста</h3>\n<p><strong>Добавлено:</strong></p>\n<ul>\n<li>➕ Наб. Обводного канала, 118АХ, офис 15ц</li>\n</ul>",

@@ -5,7 +5,112 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Mon, 23 Nov 2026 09:00:26 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 21:20:09 +0000</lastBuildDate>
+<item>
+<title>IT-Agency — академия — изменены H3, текст, ссылки</title>
+<link>https://www.it-agency.ru/academy/</link>
+<guid isPermaLink="false">9a37c2af3c190a8e1918f8894e1a7e9fd58fa02fae87cbbe5ccc3a5dc2ed6fb6</guid>
+<pubDate>Mon, 23 Nov 2026 21:19:47 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Исследование: каких производителей лекарств упоминает ИИ и что делать, чтобы управлять репутацией бренда в нейросетях</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Я не разработчик, но создаю сервисы с вайбкодингом. Что нужно знать, чтобы начать?</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Исследование: каких производителей лекарств упоминает ИИ и что делать, чтобы управлять репутацией бренда в нейросетях</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Я не разработчик, но создаю сервисы с вайбкодингом. Что нужно знать, чтобы начать?</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.it-agency.ru/academy/pharma-manufacturers-geo-study-2026</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.it-agency.ru/academy/how-to-create-services-with-vibecoding</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>IT-Agency — главная — изменены H3, текст, ссылки</title>
+<link>https://www.it-agency.ru/</link>
+<guid isPermaLink="false">001f750f2ea75a555e135c6c3629eb6b92d01d3ca6e13e9189a556dc28c1e0e6</guid>
+<pubDate>Mon, 23 Nov 2026 21:19:46 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Исследование: каких производителей лекарств упоминает ИИ и что делать, чтобы управлять репутацией бренда в нейросетях</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Исследование: какие банки рекомендует ИИ и что делать командам ASO, SEO, GEO и PR, чтобы пользователь дошёл до продукта</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Исследование: каких производителей лекарств упоминает ИИ и что делать, чтобы управлять репутацией бренда в нейросетях</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Исследование: какие банки рекомендует ИИ и что делать командам ASO, SEO, GEO и PR, чтобы пользователь дошёл до продукта</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.it-agency.ru/academy/pharma-manufacturers-geo-study-2026</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.it-agency.ru/academy/aso-banking-study-2026</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>AdvertPro — главная — изменены текст</title>
+<link>https://www.advertpro.ru/</link>
+<guid isPermaLink="false">f2a71ca4469a4784520793712e7b2c499ef3542d17315919f150a661af870edc</guid>
+<pubDate>Mon, 23 Nov 2026 21:19:37 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Позвоним в рабочее время, разберём задачу и предложим план продвижения. Без спама и рассылок.</li>
+<li>➖ Отвечаем в течение рабочего дня. Обычно - за 20 минут.</li>
+<li>➖ Перезвоним на указанный номер в рабочее время.</li>
+<li>➖ Юля Богданова, Менеджер</li>
+<li>➖ Ольга Кузнецова, Маркетолог</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>NAN — главная — изменены ссылки</title>
+<link>https://nan.ru/</link>
+<guid isPermaLink="false">82a1b5ca3aabcc5538e8a2f17cf4b58c488817138d3aa558d825528c715a4968</guid>
+<pubDate>Mon, 23 Nov 2026 21:19:19 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://nan.ru/themes/nan/upload/custom/soglasia_0625/Politika_obrabotki_pers_dannyh_dlya_nanru_2.pdf</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://nan.ru/themes/nan/upload/custom/soglasia_0625/Politika_obrabotki_pers_dannyh_dlya_nanru_1.pdf</li>
+<li>➖ https://nan.ru/themes/nan/upload/custom/soglasia_0625/nan-ru_Soglasie_na_obrabotku_personalnyh_dannyh.pdf</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Nevsky Agency — Яндекс Директ — изменены текст</title>
 <link>https://nevsky.agency/yandex-direct</link>
