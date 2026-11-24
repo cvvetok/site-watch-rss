@@ -5,7 +5,42 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Mon, 23 Nov 2026 21:20:09 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 06:00:10 +0000</lastBuildDate>
+<item>
+<title>Rush Agency — кейсы — изменены H2, текст, ссылки</title>
+<link>https://www.rush-agency.ru/cases/</link>
+<guid isPermaLink="false">4045c11be306821f3839798168e1ca804fcc0734b88bb5d55a0e5f7636168fc4</guid>
+<pubDate>Tue, 24 Nov 2026 05:59:41 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H2</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ SEO для B2B SaaS: рост через маркетплейс-контент</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Паразитное SEO для сайта знакомств</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ SEO для B2B SaaS: рост через маркетплейс-контент</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Паразитное SEO для сайта знакомств</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.rush-agency.ru/cases/seo-marketplejs-stranicy-dlya-b2b-saas</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.rush-agency.ru/cases/parazitnoe-seo-dating</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>IT-Agency — академия — изменены H3, текст, ссылки</title>
 <link>https://www.it-agency.ru/academy/</link>
