@@ -5,7 +5,47 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Tue, 24 Nov 2026 17:40:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 02:25:04 +0000</lastBuildDate>
+<item>
+<title>Rush Agency — вакансии — изменены TITLE, Description, H1, H2, текст, ссылки</title>
+<link>https://www.rush-agency.ru/jobs/</link>
+<guid isPermaLink="false">0244982caef846dd2fb4c7df1e3da004f82317166f73ea6d4386ead7c1eace70</guid>
+<pubDate>Wed, 25 Nov 2026 02:24:33 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменён TITLE</h3>
+<p><strong>Было:</strong><br>Вакансии - Rush Agency</p>
+<p><strong>Стало:</strong><br>Rush Agency</p>
+<h3>Изменён META DESCRIPTION</h3>
+<p><strong>Было:</strong><br>Присоединяйтесь к команде RUSH AGENCY ⚡ Продвижение вашего бизнеса в digital-среде</p>
+<p><strong>Стало:</strong><br></p>
+<h3>Изменения H1</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Присоединяйтесь к команде Rush Agency</li>
+</ul>
+<h3>Изменения H2</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Работать у нас здорово!</li>
+<li>➖ Открытые вакансии</li>
+<li>➖ Не нашли подходящую вакансию?</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Присоединяйтесь к команде Rush Agency</li>
+<li>➖ Работать у нас здорово!</li>
+<li>➖ Не нашли подходящую вакансию?</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.rush-agency.ru/jobs/middle-seo-global</li>
+<li>➖ https://www.rush-agency.ru/jobs/middle-seo-speczialist</li>
+<li>➖ https://www.rush-agency.ru/jobs/senior-seo-speczialist</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>AdvertPro — главная — изменены текст</title>
 <link>https://www.advertpro.ru/</link>
