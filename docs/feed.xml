@@ -5,7 +5,42 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Wed, 25 Nov 2026 02:25:04 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 12:50:45 +0000</lastBuildDate>
+<item>
+<title>Kokoc Group — блог — изменены H3, текст, ссылки</title>
+<link>https://kokocgroup.ru/blog</link>
+<guid isPermaLink="false">19c76cae7a7d406d1b4aa8cfce81fc8c8848750817cb41cdafc428e5a8b7e5d9</guid>
+<pubDate>Wed, 25 Nov 2026 12:50:40 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Техническая поддержка и развитие цифровой платформы сети «Клиника Фомина»</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Доверие вместо лидов: как ИИ и экономика трафика меняют партнерский маркетинг</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Техническая поддержка и развитие цифровой платформы сети «Клиника Фомина»</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Доверие вместо лидов: как ИИ и экономика трафика меняют партнерский маркетинг</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://kokocgroup.ru/blog/tekhnicheskaia-podderzhka-i-razvitie-tsifrovoi-platformy-seti-klinika-fomina</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://kokocgroup.ru/blog/doverie-vmesto-lidov-kak-ii-i-ekonomika-trafika-meniaiut-partnerskii-marketing</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Rush Agency — вакансии — изменены TITLE, Description, H1, H2, текст, ссылки</title>
 <link>https://www.rush-agency.ru/jobs/</link>
