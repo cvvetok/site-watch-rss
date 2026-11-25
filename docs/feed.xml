@@ -5,7 +5,150 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Wed, 25 Nov 2026 12:50:45 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 22:30:24 +0000</lastBuildDate>
+<item>
+<title>Kokoc Group — блог — изменены H3, текст, ссылки</title>
+<link>https://kokocgroup.ru/blog</link>
+<guid isPermaLink="false">be8e091cd2bcb80e7a61311c532c6397aeebd8fa3fa6cfc8fc18d9a971eacaa3</guid>
+<pubDate>Wed, 25 Nov 2026 22:30:18 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Доверие вместо лидов: как ИИ и экономика трафика меняют партнерский маркетинг</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Техническая поддержка и развитие цифровой платформы сети «Клиника Фомина»</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Доверие вместо лидов: как ИИ и экономика трафика меняют партнерский маркетинг</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Техническая поддержка и развитие цифровой платформы сети «Клиника Фомина»</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://kokocgroup.ru/blog/doverie-vmesto-lidov-kak-ii-i-ekonomika-trafika-meniaiut-partnerskii-marketing</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://kokocgroup.ru/blog/tekhnicheskaia-podderzhka-i-razvitie-tsifrovoi-platformy-seti-klinika-fomina</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Ingate — блог — изменены ссылки</title>
+<link>https://ingate.ru/blog/</link>
+<guid isPermaLink="false">839cee8cf6830fb3eb582d3d8da7f7cb2e068447207507f98fabd2ff1a6ce1d5</guid>
+<pubDate>Wed, 25 Nov 2026 22:30:13 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://ingate.ru/blog/prodvizhenie-v-sotssetyakh-v-2027-godu-ot-okhvatov-k-sisteme-vliyaniya</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://ingate.ru/blog/brendovaya-slepota-pochemu-neyroseti-vybirayut-za-vashego-klienta-i-kak-popast-v-ikh-otvet</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Ingate — услуги — изменены ссылки</title>
+<link>https://ingate.ru/uslugi/</link>
+<guid isPermaLink="false">37319d1a833fb28cfca021325dc6843823f3165dcb12f2b2b7a3cfcb48e787ae</guid>
+<pubDate>Wed, 25 Nov 2026 22:30:07 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://ingate.ru/blog/prodvizhenie-v-sotssetyakh-v-2027-godu-ot-okhvatov-k-sisteme-vliyaniya</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://ingate.ru/blog/kak-serm-menyaet-poiskovuyu-vydachu-brenda-i-kak-proverit-rezultat</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Ingate — главная — изменены ссылки</title>
+<link>https://ingate.ru/</link>
+<guid isPermaLink="false">61e45d0f8c82f51723f605818f1782a366320b061b163e5640f4fe01b7f0b55b</guid>
+<pubDate>Wed, 25 Nov 2026 22:30:06 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://ingate.ru/blog/prodvizhenie-v-sotssetyakh-v-2027-godu-ot-okhvatov-k-sisteme-vliyaniya</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://ingate.ru/blog/pochemu-reklamu-kolbasy-stoit-pokazyvat-vladeltsam-koshek-i-kofemashin</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Rush Agency — вакансии — изменены TITLE, Description, H1, H2, текст, ссылки</title>
+<link>https://www.rush-agency.ru/jobs/</link>
+<guid isPermaLink="false">559fb4bb4f872f75dd84dda131f0a361bde86cbd81d4c41d3c14cb8d6545c2c2</guid>
+<pubDate>Wed, 25 Nov 2026 22:29:55 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменён TITLE</h3>
+<p><strong>Было:</strong><br>Rush Agency</p>
+<p><strong>Стало:</strong><br>Вакансии - Rush Agency</p>
+<h3>Изменён META DESCRIPTION</h3>
+<p><strong>Было:</strong><br></p>
+<p><strong>Стало:</strong><br>Присоединяйтесь к команде RUSH AGENCY ⚡ Продвижение вашего бизнеса в digital-среде</p>
+<h3>Изменения H1</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Присоединяйтесь к команде Rush Agency</li>
+</ul>
+<h3>Изменения H2</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Работать у нас здорово!</li>
+<li>➕ Открытые вакансии</li>
+<li>➕ Не нашли подходящую вакансию?</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Присоединяйтесь к команде Rush Agency</li>
+<li>➕ Работать у нас здорово!</li>
+<li>➕ Не нашли подходящую вакансию?</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.rush-agency.ru/jobs/middle-seo-global</li>
+<li>➕ https://www.rush-agency.ru/jobs/middle-seo-speczialist</li>
+<li>➕ https://www.rush-agency.ru/jobs/senior-seo-speczialist</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Nevsky Agency — главная — изменены текст</title>
+<link>https://nevsky.agency/</link>
+<guid isPermaLink="false">64e81335114615e8228fb4be7e6f4c4af9a0875a6c39bebcb5f41f533fbbe1de</guid>
+<pubDate>Wed, 25 Nov 2026 22:29:47 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Тарифы с ведением Директа действуют при рекламном бюджете до 100 000 ₽ в месяц без НДС, выше считаем отдельно</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Тарифы с ведением Директа действуют при рекламном бюджете до 200 000 ₽ в месяц, выше считаем отдельно</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Kokoc Group — блог — изменены H3, текст, ссылки</title>
 <link>https://kokocgroup.ru/blog</link>
