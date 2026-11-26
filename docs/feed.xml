@@ -5,7 +5,86 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Thu, 26 Nov 2026 05:02:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 15:12:02 +0000</lastBuildDate>
+<item>
+<title>Rush Agency — вакансии — изменены TITLE, Description, H1, H2, текст, ссылки</title>
+<link>https://www.rush-agency.ru/jobs/</link>
+<guid isPermaLink="false">c4d29e9055408c7e3f2b3fb490295ef8ba241a29b7799e357f345c39db0f3d2e</guid>
+<pubDate>Thu, 26 Nov 2026 15:11:39 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменён TITLE</h3>
+<p><strong>Было:</strong><br>Вакансии - Rush Agency</p>
+<p><strong>Стало:</strong><br>Rush Agency</p>
+<h3>Изменён META DESCRIPTION</h3>
+<p><strong>Было:</strong><br>Присоединяйтесь к команде RUSH AGENCY ⚡ Продвижение вашего бизнеса в digital-среде</p>
+<p><strong>Стало:</strong><br></p>
+<h3>Изменения H1</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Присоединяйтесь к команде Rush Agency</li>
+</ul>
+<h3>Изменения H2</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Работать у нас здорово!</li>
+<li>➖ Открытые вакансии</li>
+<li>➖ Не нашли подходящую вакансию?</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Присоединяйтесь к команде Rush Agency</li>
+<li>➖ Работать у нас здорово!</li>
+<li>➖ Не нашли подходящую вакансию?</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://www.rush-agency.ru/jobs/middle-seo-global</li>
+<li>➖ https://www.rush-agency.ru/jobs/middle-seo-speczialist</li>
+<li>➖ https://www.rush-agency.ru/jobs/senior-seo-speczialist</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Акцепт — создание сайтов — изменены ссылки</title>
+<link>https://ac-u.ru/sozdanie-saitov/</link>
+<guid isPermaLink="false">1e6ec572ad1523488981b777502b2b7c22ee09c57b8cd79624c77ba2f3b73645</guid>
+<pubDate>Thu, 26 Nov 2026 15:11:27 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://ac-u.ru/rezervirovanie-sayta</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Акцепт — SEO — изменены ссылки</title>
+<link>https://ac-u.ru/seo/</link>
+<guid isPermaLink="false">0cb0b1b6ebf7e0fd2786f0a3c520c87db9e3f335d2fac96c3bc033c82c06f288</guid>
+<pubDate>Thu, 26 Nov 2026 15:11:27 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://ac-u.ru/rezervirovanie-sayta</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>Акцепт — главная — изменены ссылки</title>
+<link>https://ac-u.ru/</link>
+<guid isPermaLink="false">a73136df5d8ad0442cda76f1ae3558e60c3a86c4894957a87e0695393daf360b</guid>
+<pubDate>Thu, 26 Nov 2026 15:11:26 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://ac-u.ru/rezervirovanie-sayta</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Nevsky Agency — главная — изменены текст</title>
 <link>https://nevsky.agency/</link>
