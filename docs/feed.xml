@@ -5,7 +5,153 @@
 <description>Изменения отслеживаемых сайтов</description>
 <link>https://cvvetok.github.io/site-watch-rss/</link>
 <language>ru</language>
-<lastBuildDate>Fri, 27 Nov 2026 08:26:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 18:58:30 +0000</lastBuildDate>
+<item>
+<title>Kokoc Group — блог — изменены H3, текст, ссылки</title>
+<link>https://kokocgroup.ru/blog</link>
+<guid isPermaLink="false">71e05afa014a6265090d9c3879a2a4a26b8fb9071bc2fb2917eba75f14e1f08b</guid>
+<pubDate>Fri, 27 Nov 2026 18:58:25 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Техническая поддержка и развитие цифровой платформы сети «Клиника Фомина»</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Доверие вместо лидов: как ИИ и экономика трафика меняют партнерский маркетинг</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Техническая поддержка и развитие цифровой платформы сети «Клиника Фомина»</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Доверие вместо лидов: как ИИ и экономика трафика меняют партнерский маркетинг</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://kokocgroup.ru/blog/tekhnicheskaia-podderzhka-i-razvitie-tsifrovoi-platformy-seti-klinika-fomina</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ https://kokocgroup.ru/blog/doverie-vmesto-lidov-kak-ii-i-ekonomika-trafika-meniaiut-partnerskii-marketing</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>IT-Agency — контакты — изменены H2, H3, текст</title>
+<link>https://www.it-agency.ru/contacts/</link>
+<guid isPermaLink="false">92f91560c6fff02cbadad241f13d5a7898950071117fc8ea05c590ff219cfab9</guid>
+<pubDate>Fri, 27 Nov 2026 18:58:00 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H2</h3>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Номер телефона для клиентов</li>
+</ul>
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Обсудить проект, узнать об условиях работы или пригласить в тендер</li>
+<li>➕ Для СМИ и медиа</li>
+<li>➕ Для маркетинговых партнёрств</li>
+<li>➕ ООО «АйТи-агентство»</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Эл. почта</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Остались вопросы? Напишите нам. Выберите, по какому вопросу вы пишете, и мы быстрее ответим.</li>
+<li>➕ Обсудить проект, узнать об условиях работы или пригласить в тендер</li>
+<li>➕ Для маркетинговых партнёрств</li>
+<li>➕ a.chuprina@it-agency.ru</li>
+<li>➕ ООО «АйТи-агентство»</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ ООО «АйТи-агентство» ИНН 7731515791</li>
+<li>➖ Номер телефона для клиентов</li>
+<li>➖ — обсудить проект — узнать об условиях работы — пригласить в тендер</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>IT-Agency — компания — изменены текст</title>
+<link>https://www.it-agency.ru/company/</link>
+<guid isPermaLink="false">124e49f31d8a4e66a239e5f3379e91df16092537f068ce27be777f167ec2957d</guid>
+<pubDate>Fri, 27 Nov 2026 18:58:00 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Лучший кейс в E-Commerce</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>IT-Agency — услуги — изменены текст</title>
+<link>https://www.it-agency.ru/services/</link>
+<guid isPermaLink="false">9624fb175d5c1fd8f59398eed7801a01d56d72ba2cbc65afba9b68b3a5ad33b7</guid>
+<pubDate>Fri, 27 Nov 2026 18:57:59 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Лучший кейс в E-Commerce</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Агентство года по ASO</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>IT-Agency — проекты — изменены H3, текст, ссылки</title>
+<link>https://www.it-agency.ru/projects/</link>
+<guid isPermaLink="false">978da8533fdf9484c85f15b755f257a2d9ab0c49408c2fd42cf21d1422b1c845</guid>
+<pubDate>Fri, 27 Nov 2026 18:57:59 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения H3</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Увеличили спрос и привели 11,6 тыс. поисковых запросов за 3 месяца с медийной рекламой Яндекса</li>
+</ul>
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Лучший кейс в E-Commerce</li>
+<li>➕ Увеличили спрос и привели 11,6 тыс. поисковых запросов за 3 месяца с медийной рекламой Яндекса</li>
+</ul>
+<p><strong>Удалено:</strong></p>
+<ul>
+<li>➖ Агентство года по ASO</li>
+</ul>
+<h3>Изменения внутренних ссылок</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ https://www.it-agency.ru/projects/cases/brand-demand-yandex-display-case</li>
+</ul>
+]]></description>
+</item>
+<item>
+<title>IT-Agency — главная — изменены текст</title>
+<link>https://www.it-agency.ru/</link>
+<guid isPermaLink="false">95f64163f3d7a28c38486e2101b944a5d59f5e1cdb3cd5a037ebfdbb1d9aed7d</guid>
+<pubDate>Fri, 27 Nov 2026 18:57:58 +0000</pubDate>
+<description><![CDATA[
+<h3>Изменения текста</h3>
+<p><strong>Добавлено:</strong></p>
+<ul>
+<li>➕ Лучший кейс в E-Commerce</li>
+</ul>
+]]></description>
+</item>
 <item>
 <title>Rush Agency — вакансии — изменены TITLE, Description, H1, H2, текст, ссылки</title>
 <link>https://www.rush-agency.ru/jobs/</link>
